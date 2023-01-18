@@ -1,0 +1,134 @@
+{
+  "main": {
+    "id": "c76540d52d17a79a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2aefdab79826d89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23667853357920f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Viper/Icebox/Mid Attacking smoke.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "73a86bf253d97536",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "38262f5c564c5480",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "5b3df8fae8eb9c0a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "fe50bd0d89ac22fa",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "869146846b886603",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "cdcd4af280ac6099",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "aa67987bb19abc15",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Viper/Icebox/Mid Attacking smoke.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "bceb41e6f090cc08",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Viper/Icebox/Mid Attacking smoke.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "0ef2314756d92f44",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Viper/Icebox/Mid Attacking smoke.md"
+          }
+        }
+      },
+      {
+        "id": "5d7725364ecce4eb",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "23667853357920f8",
+  "lastOpenFiles": []
+}
