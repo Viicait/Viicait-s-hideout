@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curse of Strahd/Деревня Крезк.md",
+                "file": "Curse of Strahd/НПС/Казимир Великов.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "казимир",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,12 +102,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9e46ea28bcd6ac8a",
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curse of Strahd/Деревня Крезк.md",
+                "file": "Curse of Strahd/НПС/Казимир Великов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curse of Strahd/Деревня Крезк.md",
+                "file": "Curse of Strahd/НПС/Казимир Великов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curse of Strahd/Деревня Крезк.md"
+                "file": "Curse of Strahd/НПС/Казимир Великов.md"
               }
             }
           },
@@ -195,15 +195,15 @@
   },
   "active": "f9998fa4cbf65c58",
   "lastOpenFiles": [
-    "Curse of Strahd/НПС/Дмитрий Крезков.md",
+    "Curse of Strahd/НПС/Патрина Великовна.md",
     "Curse of Strahd/Деревня Крезк.md",
+    "Curse of Strahd/Замок Равенлофт.md",
+    "Curse of Strahd/Божества/Утренний Лорд.md",
+    "Curse of Strahd/НПС/Дмитрий Крезков.md",
     "Анна Крезкова.md",
     "Curse of Strahd/НПС/Аббат.md",
     "Curse of Strahd/НПС/Святая Марковия.md",
     "Curse of Strahd/Без названия.md",
-    "Curse of Strahd/НПС/Арабэль.md",
-    "Curse of Strahd/Сессии/14 января 2023.md",
-    "Curse of Strahd/Сессии/Встреча с Фионой.md",
-    "Фиона.md"
+    "Curse of Strahd/НПС/Арабэль.md"
   ]
 }
