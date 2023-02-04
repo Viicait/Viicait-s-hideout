@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curse of Strahd/НПС/Аббат.md",
+                "file": "Curse of Strahd/Деревня Крезк.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,8 +102,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curse of Strahd/НПС/Казимир Великов.md",
+                "file": "Curse of Strahd/Деревня Крезк.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curse of Strahd/НПС/Казимир Великов.md",
+                "file": "Curse of Strahd/Деревня Крезк.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curse of Strahd/НПС/Казимир Великов.md"
+                "file": "Curse of Strahd/Деревня Крезк.md"
               }
             }
           },
@@ -193,17 +192,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f9998fa4cbf65c58",
+  "active": "4cd389943f1531bf",
   "lastOpenFiles": [
-    "Curse of Strahd/НПС/Патрина Великовна.md",
+    "Curse of Strahd/Деревня Крезк (Viicait conflicted copy 2023-01-15 02 37 48).md",
     "Curse of Strahd/Деревня Крезк.md",
+    "Curse of Strahd/НПС/Аббат.md",
+    "Curse of Strahd/НПС/Казимир Великов.md",
+    "Curse of Strahd/НПС/Патрина Великовна.md",
     "Curse of Strahd/Замок Равенлофт.md",
     "Curse of Strahd/Божества/Утренний Лорд.md",
     "Curse of Strahd/НПС/Дмитрий Крезков.md",
     "Анна Крезкова.md",
-    "Curse of Strahd/НПС/Аббат.md",
-    "Curse of Strahd/НПС/Святая Марковия.md",
-    "Curse of Strahd/Без названия.md",
-    "Curse of Strahd/НПС/Арабэль.md"
+    "Curse of Strahd/НПС/Святая Марковия.md"
   ]
 }
