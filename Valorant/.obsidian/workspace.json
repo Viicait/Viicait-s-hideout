@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "54cfb968b0ccb00d",
+        "id": "6e16504b753ca945",
         "type": "tabs",
         "children": [
           {
-            "id": "71645ea52719e1fd",
+            "id": "6150d5d85922451b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Viper/Split (2023)/A-site attacking setup.md",
+                "file": "Fade/Ascent/A-site Retake reveal 1.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "47f73823d92d013b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pictures/VALORANT-Win64-Shipping_YSb5A0ddbe.jpg"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Viper/Split (2023)/A-site attacking setup.md",
+                "file": "Pictures/VALORANT-Win64-Shipping_YSb5A0ddbe.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Viper/Split (2023)/A-site attacking setup.md",
+                "file": "Pictures/VALORANT-Win64-Shipping_YSb5A0ddbe.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Viper/Split (2023)/A-site attacking setup.md"
+                "file": "Pictures/VALORANT-Win64-Shipping_YSb5A0ddbe.jpg"
               }
             }
           },
@@ -155,17 +166,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "71645ea52719e1fd",
+  "active": "638cab8555ee503b",
   "lastOpenFiles": [
-    "Viper/Split (2023)/B-site Default plant snake bite.md",
-    "Viper/Split (2023)/A-site attacking setup.md",
-    "Viper/Split (2023)/A-site Default plant snake bite.md",
-    "Viper/Split (2023)/B-site Attacking setup.md",
-    "Viper/Split (2023)/A-site Defending setup.md",
-    "Viper/Haven/Good wall from B to A.md",
-    "Viper/Haven/Garage One-way.md",
-    "Viper/Haven/C-site Open plant.md",
-    "Viper/Haven/C-site One-way long.md",
-    "Viper/Haven/C-site Default plant.md"
+    "Fade/Ascent/A-site Retake reveal 2.md",
+    "Fade/Ascent/A-site Retake reveal 1.md",
+    "Pictures/VALORANT-Win64-Shipping_xT7poqWnhh.jpg",
+    "Fade/Ascent/A-site Defend reveal.md",
+    "Fade/Ascent/B-site Defend reveal.md",
+    "Pictures/VALORANT-Win64-Shipping_temVsqRmAp.jpg",
+    "Pictures/VALORANT-Win64-Shipping_yOSejJstXT.jpg",
+    "Fade/Ascent/B-site Attack reveal.md",
+    "Fade/Ascent/B-site Attack market reveal.md",
+    "Fade/Ascent/A-site Attack reveal.md"
   ]
 }
