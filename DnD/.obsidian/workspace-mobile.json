@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "63ef9a0383ee4c58",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d5674ab82f87c84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cc0c23227e83d6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Глубоководье/4 февраля.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cfe4a0f929a0dc88",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "db64008d778efcd0",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "c9439890b9b366d1",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b352afb84798b7b3",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "3a8a30923cc759f5",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d70dff24a2cc78d8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d35e435edecc7ba6",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Глубоководье/4 февраля.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d3d101615d935425",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Глубоководье/4 февраля.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "124ac18ed8b21a23",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Глубоководье/4 февраля.md"
+          }
+        }
+      },
+      {
+        "id": "52d1c75486e11615",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "3cc0c23227e83d6c",
+  "lastOpenFiles": [
+    "Глубоководье/НПС Глубоководья/Ришааль.md",
+    "Глубоководье/4 февраля.md",
+    "Глубоководье/НПС Глубоководья/Найджел.md",
+    "Глубоководье/Фракции/Орден перчатки.md",
+    "Глубоководье/НПС Глубоководья/Максин.md",
+    "Глубоководье/НПС Глубоководья/Драгхаар.md",
+    "Глубоководье/Фракции/Жентарим.md",
+    "Глубоководье/НПС Глубоководья/Зардоз Зорд.md",
+    "Глубоководье/НПС Глубоководья/Таргон.md",
+    "Глубоководье/НПС Глубоководья/Мия.md"
+  ]
+}
