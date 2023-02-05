@@ -3,5 +3,8 @@
   "dataview",
   "calendar",
   "shortcuts-extender",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-image-toolkit",
+  "templater-obsidian",
+  "buttons"
 ]

@@ -8,15 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4cd389943f1531bf",
+            "id": "3f879d4c88572a10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Глубоководье/НПС Глубоководья/Мия.md",
+                "file": "Глубоководье/Сессии/2022-07-17.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "040adab34548001b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 314.5
   },
   "right": {
     "id": "9e46ea28bcd6ac8a",
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Глубоководье/НПС Глубоководья/Мия.md",
+                "file": "Глубоководье/Сессии/2022-07-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Глубоководье/НПС Глубоководья/Мия.md",
+                "file": "Глубоководье/Сессии/2022-07-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Глубоководье/НПС Глубоководья/Мия.md"
+                "file": "Глубоководье/Сессии/2022-07-17.md"
               }
             }
           },
@@ -152,20 +160,21 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "4cd389943f1531bf",
+  "active": "3f879d4c88572a10",
   "lastOpenFiles": [
-    "Глубоководье/4 февраля.md",
-    "Curse of Strahd/Деревня Крезк.md",
-    "Curse of Strahd/Деревня Крезк (Viicait conflicted copy 2023-01-15 02 37 48).md",
-    "Curse of Strahd/НПС/Аббат.md",
-    "Curse of Strahd/НПС/Казимир Великов.md",
-    "Curse of Strahd/НПС/Патрина Великовна.md",
-    "Curse of Strahd/Замок Равенлофт.md",
-    "Curse of Strahd/Божества/Утренний Лорд.md",
-    "Curse of Strahd/НПС/Дмитрий Крезков.md",
-    "Анна Крезкова.md"
+    "Глубоководье/НПС Глубоководья/Барок Молотозвон.md",
+    "Глубоководье/Сессии/2022-07-17.md",
+    "Глубоководье/НПС Глубоководья/Догульт Неверэмбер.md",
+    "Глубоководье/Предметы Глубоководья/Посох Ахайрона.md",
+    "Глубоководье/Локации Глубоководья/Волшебный Дракон.md",
+    "Глубоководье/НПС Глубоководья/Лоари.md",
+    "Глубоководье/НПС Глубоководья/Барнибус.md",
+    "Глубоководье/НПС Глубоководья/Ронгкван Мистери.md",
+    "Глубоководье/Предметы Глубоководья/Лантанская ядовитая винтовка.md",
+    "Глубоководье/Без названия.md"
   ]
 }
