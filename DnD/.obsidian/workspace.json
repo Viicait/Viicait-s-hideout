@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d6513d3eef1cf34f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Curse of Strahd/НПС/Арабэль.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9998fa4cbf65c58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Curse of Strahd/НПС/Казимир Великов.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "252e15f39aeb63d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Curse of Strahd/НПС/Дмитрий Крезков.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4cd389943f1531bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curse of Strahd/Деревня Крезк.md",
+                "file": "Глубоководье/НПС Глубоководья/Мия.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curse of Strahd/Деревня Крезк.md",
+                "file": "Глубоководье/НПС Глубоководья/Мия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curse of Strahd/Деревня Крезк.md",
+                "file": "Глубоководье/НПС Глубоководья/Мия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curse of Strahd/Деревня Крезк.md"
+                "file": "Глубоководье/НПС Глубоководья/Мия.md"
               }
             }
           },
@@ -194,15 +157,15 @@
   },
   "active": "4cd389943f1531bf",
   "lastOpenFiles": [
-    "Curse of Strahd/Деревня Крезк (Viicait conflicted copy 2023-01-15 02 37 48).md",
+    "Глубоководье/4 февраля.md",
     "Curse of Strahd/Деревня Крезк.md",
+    "Curse of Strahd/Деревня Крезк (Viicait conflicted copy 2023-01-15 02 37 48).md",
     "Curse of Strahd/НПС/Аббат.md",
     "Curse of Strahd/НПС/Казимир Великов.md",
     "Curse of Strahd/НПС/Патрина Великовна.md",
     "Curse of Strahd/Замок Равенлофт.md",
     "Curse of Strahd/Божества/Утренний Лорд.md",
     "Curse of Strahd/НПС/Дмитрий Крезков.md",
-    "Анна Крезкова.md",
-    "Curse of Strahd/НПС/Святая Марковия.md"
+    "Анна Крезкова.md"
   ]
 }
