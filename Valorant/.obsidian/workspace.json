@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fade/Ascent/A-site Retake reveal 1.md",
+                "file": "Viper/Haven/A-site Attacking setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pictures/VALORANT-Win64-Shipping_YSb5A0ddbe.jpg",
+                "file": "Viper/Haven/A-site Attacking setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pictures/VALORANT-Win64-Shipping_YSb5A0ddbe.jpg",
+                "file": "Viper/Haven/A-site Attacking setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pictures/VALORANT-Win64-Shipping_YSb5A0ddbe.jpg"
+                "file": "Viper/Haven/A-site Attacking setup.md"
               }
             }
           },
@@ -166,17 +165,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "638cab8555ee503b",
+  "active": "6150d5d85922451b",
   "lastOpenFiles": [
-    "Fade/Ascent/A-site Retake reveal 2.md",
+    "Viper/Haven/C-site Attacking setup.md",
     "Fade/Ascent/A-site Retake reveal 1.md",
+    "Fade/Ascent/A-site Retake reveal 2.md",
     "Pictures/VALORANT-Win64-Shipping_xT7poqWnhh.jpg",
     "Fade/Ascent/A-site Defend reveal.md",
     "Fade/Ascent/B-site Defend reveal.md",
     "Pictures/VALORANT-Win64-Shipping_temVsqRmAp.jpg",
     "Pictures/VALORANT-Win64-Shipping_yOSejJstXT.jpg",
     "Fade/Ascent/B-site Attack reveal.md",
-    "Fade/Ascent/B-site Attack market reveal.md",
-    "Fade/Ascent/A-site Attack reveal.md"
+    "Fade/Ascent/B-site Attack market reveal.md"
   ]
 }
