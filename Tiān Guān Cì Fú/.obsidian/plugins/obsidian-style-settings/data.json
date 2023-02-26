@@ -1,0 +1,19 @@
+{
+  "obsidian-prism-theme@@color-schemes-lt": "pt-color-scheme-swan-lt",
+  "obsidian-prism-theme@@accent-style-lt": "pt-accent-style-borderandfilled-lt",
+  "obsidian-prism-theme@@light-accent-color-preset": "pt-accent-color-green-lt",
+  "obsidian-prism-theme@@graph-line-color-lt": "var(--color-green-text)",
+  "ITS@@slrvb-b": false,
+  "ITS@@slrvb-g": false,
+  "ITS@@s-d": false,
+  "ITS@@select": "none",
+  "ITS@@its-d": false,
+  "ITS@@notion": false,
+  "ITS@@mini": false,
+  "ITS@@nord": false,
+  "ITS@@drwn": false,
+  "ITS@@t-d": false,
+  "ITS@@dv": true,
+  "ITS@@mtb": true,
+  "things-style@@active-line": false
+}

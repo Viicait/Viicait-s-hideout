@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Viper/Haven/A-site Attacking setup.md",
+                "file": "Viper/Ascent/B-site Default plant snake bite 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Viper/Haven/A-site Attacking setup.md",
+                "file": "Viper/Ascent/B-site Default plant snake bite 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Viper/Haven/A-site Attacking setup.md",
+                "file": "Viper/Ascent/B-site Default plant snake bite 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Viper/Haven/A-site Attacking setup.md"
+                "file": "Viper/Ascent/B-site Default plant snake bite 2.md"
               }
             }
           },
@@ -146,9 +146,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Создать новый холст": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
-      "canvas:Create new canvas": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
@@ -157,6 +157,14 @@
   },
   "active": "6150d5d85922451b",
   "lastOpenFiles": [
+    "Viper/Ascent/B-site Defending setup.md",
+    "Viper/Ascent/B-site Default plant snake bite 2.md",
+    "Viper/Ascent/B-site Default plant snake bite 1.md",
+    "Viper/Ascent/A-site Default plant snake bite.md",
+    "Viper/Ascent/A-site Attacking setup.md",
+    "Viper/Fracture/A-site Attacking setup.md",
+    "Viper/Haven/C-site Default plant.md",
+    "Viper/Haven/A-site Attacking setup.md",
     "Viper/Haven/C-site Attacking setup.md",
     "Fade/Ascent/A-site Retake reveal 1.md",
     "Fade/Ascent/A-site Retake reveal 2.md",
@@ -165,7 +173,6 @@
     "Fade/Ascent/B-site Defend reveal.md",
     "Pictures/VALORANT-Win64-Shipping_temVsqRmAp.jpg",
     "Pictures/VALORANT-Win64-Shipping_yOSejJstXT.jpg",
-    "Fade/Ascent/B-site Attack reveal.md",
-    "Fade/Ascent/B-site Attack market reveal.md"
+    "Fade/Ascent/B-site Attack reveal.md"
   ]
 }

@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "d5044163e16744a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c67b4e562097913",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ac548c9d61937d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Эквилибрис. Книга 1. Монструм/Сара Грант.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e255e1af13d45dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Эквилибрис. Книга 1. Монструм/Паскаль Фавро.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "49a5c725b10844aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "6da73a963e0755f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4346fafa5a610535",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "debaa4911af1f77c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "13716595eaee8319",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 275.5
+  },
+  "right": {
+    "id": "c8201df8fc633dcf",
+    "type": "split",
+    "children": [
+      {
+        "id": "aefcab7a3a586eb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e436a705e9c33133",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Эквилибрис. Книга 1. Монструм/Паскаль Фавро.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d7ddc699ffc9ac21",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Эквилибрис. Книга 1. Монструм/Паскаль Фавро.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cc8f4b166f1b0b43",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e720027c3061dd38",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Эквилибрис. Книга 1. Монструм/Паскаль Фавро.md"
+              }
+            }
+          },
+          {
+            "id": "d496934748bdfe22",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Создать новый холст": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "9e255e1af13d45dd",
+  "lastOpenFiles": [
+    "Эквилибрис. Книга 1. Монструм/Ламия Казвини.md",
+    "Эквилибрис. Книга 1. Монструм/Мемора Восходящая.md",
+    "Эквилибрис. Книга 1. Монструм/Стефано Феррари.md",
+    "Эквилибрис. Книга 1. Монструм/Сара Грант.md",
+    "Эквилибрис. Книга 1. Монструм/Фри.md",
+    "Эквилибрис. Книга 1. Монструм/Шакара.md",
+    "Эквилибрис. Книга 1. Монструм/Паскаль Фавро.md",
+    "Эквилибрис. Книга 1. Монструм/Дан Вуйцик.md",
+    "Эквилибрис. Книга 1. Монструм/Максимус Луцем.md",
+    "Эквилибрис. Книга 1. Монструм/Дева.md",
+    "Эквилибрис. Книга 1. Монструм/База знаний/Локации/Зал собрания Тринадцати.md",
+    "Эквилибрис. Книга 1. Монструм/База знаний/Локации/Зал собрания Тринадцати (Viicait conflicted copy 2023-02-26 18 13 54).md",
+    "Эквилибрис. Книга 1. Монструм/База знаний/Локации/Зал собрания Тринадцати (Viicait conflicted copy 2023-02-26 17 37 55).md",
+    "Эквилибрис. Книга 1. Монструм/База знаний/Персонажи.md",
+    "Эквилибрис. Книга 1. Монструм/База знаний/Локации/Архив.md",
+    "Эквилибрис. Книга 1. Монструм/База знаний/Локации/Усыпальница.md",
+    "Эквилибрис. Книга 1. Монструм/База знаний/Локации/Обливион.md"
+  ]
+}
