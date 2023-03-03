@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"type":"text","text":"Читаю","id":"1b03d99a608a5b6d","x":-1020,"y":-900,"width":250,"height":60},
+		{"id":"42ea912b1288bf16","x":-740,"y":-900,"width":250,"height":60,"type":"text","text":"Прочитано"},
+		{"id":"c06eb1602b645703","x":-740,"y":-700,"width":358,"height":106,"type":"file","file":"Книги/Список/Магическая битва. Том 1.md"}
+	],
+	"edges":[
+		{"id":"c31c8a5e2390a31b","fromNode":"42ea912b1288bf16","fromSide":"bottom","toNode":"c06eb1602b645703","toSide":"top"}
+	]
+}

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Viper/Fracture/A-site Cubby snake bite.md",
+                "file": "Killjoy/Split/Без названия.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Viper/Fracture/A-site Cubby snake bite.md",
+                "file": "Killjoy/Split/Без названия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Viper/Fracture/A-site Cubby snake bite.md",
+                "file": "Killjoy/Split/Без названия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Viper/Fracture/A-site Cubby snake bite.md"
+                "file": "Killjoy/Split/Без названия.md"
               }
             }
           },
@@ -157,6 +157,19 @@
   },
   "active": "6150d5d85922451b",
   "lastOpenFiles": [
+    "Killjoy/Pearl/B-site Default plant sneaky bomb.md",
+    "Killjoy/Pearl/B-site Default plant bomb.md",
+    "Killjoy/Pearl/A-site Default plant bomb.md",
+    "Killjoy/Pearl/A-site Cubby plant sneaky bomb.md",
+    "Killjoy/Pearl/B-site Attacking ults.md",
+    "Killjoy/Pearl/B-site Attacking bomb (screen).md",
+    "Killjoy/Pearl/A-site Attacking ults.md",
+    "Killjoy/Pearl/A-site Attacking bomb (back-site).md",
+    "Killjoy/Fracture/B-site Green box Post Plant.md",
+    "Killjoy/Lotus/A-site Defending setup (tree) 1.md",
+    "Killjoy/Lotus/A-site Defending setup (retake).md",
+    "Killjoy/Lotus/A-site Defending setup.md",
+    "Viper/Fracture/A-site Cubby snake bite.md",
     "Viper/Fracture/A-site Attacking setup.md",
     "Viper/Ascent/B-site Default plant snake bite 2.md",
     "Viper/Ascent/B-site Defending setup.md",
@@ -172,7 +185,6 @@
     "Fade/Ascent/A-site Defend reveal.md",
     "Fade/Ascent/B-site Defend reveal.md",
     "Pictures/VALORANT-Win64-Shipping_temVsqRmAp.jpg",
-    "Pictures/VALORANT-Win64-Shipping_yOSejJstXT.jpg",
-    "Fade/Ascent/B-site Attack reveal.md"
+    "Pictures/VALORANT-Win64-Shipping_yOSejJstXT.jpg"
   ]
 }

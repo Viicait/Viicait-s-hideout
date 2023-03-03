@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "8597e829070aeaa9",
+    "type": "split",
+    "children": [
+      {
+        "id": "76970ab961175dcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66528f90afac722b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Книги/Дополнительно/Таблица.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b6ae6cfd3504eeb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "d65a2b69534ece8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d6d51d84eec80f0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "999faf6b537e22c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fb516e33a6529acb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "right": {
+    "id": "d1d61ac5ae12dad0",
+    "type": "split",
+    "children": [
+      {
+        "id": "de1b649f461ee608",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a70488b9172c9619",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Книги/Дополнительно/Таблица.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7f6bf5a323dfa64b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Книги/Дополнительно/Таблица.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "89abdd571fbee854",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "374897d500ae02b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Книги/Дополнительно/Таблица.md"
+              }
+            }
+          },
+          {
+            "id": "7a3005c3775acd72",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "66528f90afac722b",
+  "lastOpenFiles": [
+    "Книги/Список/Эквилибрис. Книга 1. Монструм.md",
+    "Книги/Дополнительно/Таблица.md",
+    "Книги/Список",
+    "Книги/Списо.md",
+    "Книги/Дополнительно",
+    "Книги/Список/Магическая битва. Том 1.md",
+    "Daily/03-03-2023.md",
+    "Книги/Дополнительно/Статус чтения книг 2023.md",
+    "Книги/Дополнительно/Книги.canvas",
+    "Книги/Список/Тень богов.md",
+    "Книги/Прочитанные книги/Без названия.md",
+    "Книги",
+    "Книги/Список/Сложно любить отаку. Том 1.md",
+    "Templates/Новая книга.md",
+    "Прочитанные книги/2023/Untitled.md",
+    "Templates",
+    "Expenses/03-03-2023.md",
+    "Ledger.ledger",
+    "Expenses",
+    "Прочитанные книги/2023",
+    "Книги/Прочитанные книги",
+    "Daily"
+  ]
+}

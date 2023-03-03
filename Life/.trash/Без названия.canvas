@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"c485e415336177cc","x":-460,"y":-180,"width":400,"height":400,"type":"file","file":"Прочитанные книги/Магическая битва. Том 1.md"},
+		{"id":"da7482e73d0d319c","x":-460,"y":-300,"width":250,"height":50,"type":"text","text":"Прочитано"}
+	],
+	"edges":[
+		{"id":"b474c111c0075b23","fromNode":"da7482e73d0d319c","fromSide":"top","toNode":"c485e415336177cc","toSide":"top"}
+	]
+}
