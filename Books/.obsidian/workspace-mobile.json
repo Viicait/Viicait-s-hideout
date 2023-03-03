@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "0070a12165452dfc",
+    "type": "split",
+    "children": [
+      {
+        "id": "478d430b305bdcd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "679020e3b39187cb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e437c3e227588927",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ab2d5e46dcbcfab6",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "8557b3af9a5ea057",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "77d1659559a8fe2a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "ca12b95c025b3245",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "7e717486db685673",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ea79867759804b59",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "043b907c835aedb5",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b65889553e4833dc",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      },
+      {
+        "id": "98b10c076319fc56",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "679020e3b39187cb",
+  "lastOpenFiles": [
+    "Эквилибрис. Книга 1. Монструм/Стефано Феррари.md",
+    "Эквилибрис. Книга 1. Монструм/Фри.md",
+    "Эквилибрис. Книга 1. Монструм/Дан Вуйцик.md",
+    "Эквилибрис. Книга 1. Монструм/Паскаль Фавро.md",
+    "Эквилибрис. Книга 1. Монструм/Мемора Восходящая.md",
+    "Аргентион.md",
+    "Эквилибрис. Книга 1. Монструм/Максимус Луцем.md",
+    "Эквилибрис. Книга 1. Монструм/Поллукс Опаленный.md",
+    "Эквилибрис. Книга 1. Монструм/Тараре  Дикая Пропасть.md",
+    "Эквилибрис. Книга 1. Монструм/База знаний/Локации/Белый луч.md"
+  ]
+}
