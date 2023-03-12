@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Killjoy/Split/Без названия.md",
+                "file": "Viper/Ascent/B-site Defending setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,12 +64,21 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "f32fcf706e0ca39a",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 315.5
   },
   "right": {
     "id": "af30f9d06d816a8c",
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Killjoy/Split/Без названия.md",
+                "file": "Viper/Ascent/B-site Defending setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Killjoy/Split/Без названия.md",
+                "file": "Viper/Ascent/B-site Defending setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Killjoy/Split/Без названия.md"
+                "file": "Viper/Ascent/B-site Defending setup.md"
               }
             }
           },
@@ -157,34 +166,42 @@
   },
   "active": "6150d5d85922451b",
   "lastOpenFiles": [
+    "Viper/Haven/B-site Attacking setup (from garage).md",
+    "Killjoy/Lotus/B-site Defending setup.md",
+    "Killjoy/Lotus/A-site Defending setup (tree) 1.md",
+    "Killjoy/Lotus/A-site Defending setup (retake).md",
+    "Pictures/VALORANT-Win64-Shipping_YtSsQREwwJ.jpg",
+    "Pictures/VALORANT-Win64-Shipping_XN5OKiiRs1.jpg",
+    "Viper/Fracture/A-site Defending setup.md",
+    "Pictures/VALORANT-Win64-Shipping_brF501f901.jpg",
+    "Pictures/VALORANT-Win64-Shipping_NbvhUxG8YT.jpg",
+    "Pictures/VALORANT-Win64-Shipping_CeBXqMXPQN.jpg",
+    "Pictures/VALORANT-Win64-Shipping_q5T9BuV3qy.jpg",
+    "Viper/Fracture/A-site Attacking setup.md",
+    "Viper/Fracture/A-site Cubby snake bite.md",
+    "Viper/Fracture/A-site Good attacking wall.md",
+    "Viper/Fracture/A-site Default plant snake bite.md",
+    "Viper/Fracture/A-site Smoke robe.md",
+    "Viper/Split (2023)/Mid and A defending setup.md",
+    "Viper/Split (2023)/One-way for mid.md",
+    "Viper/Split (2023)/B-site One-way (defending).md",
+    "Viper/Split (2023)/B-site Default plant snake bite.md",
+    "Viper/Split (2023)/B-site Attacking setup (with better smoke).md",
+    "Viper/Split (2023)/A-site Defending setup.md",
+    "Pictures/VALORANT-Win64-Shipping_Zb1GNypvE3.jpg",
+    "Pictures/VALORANT-Win64-Shipping_KOIgwVZppK.jpg",
+    "Pictures/VALORANT-Win64-Shipping_CBNvEH5iyI.jpg",
+    "Pictures/VALORANT-Win64-Shipping_fKERsO7o4U.jpg",
+    "Viper/Split (2023)/B-site Attacking setup.md",
+    "Viper/Split (2023)/B-site Attacking setup (with better smoke) (Viicait conflicted copy 2023-03-04 11 57 57).md",
+    "Killjoy/Split/Без названия.md",
+    "Viper/Ascent/A-site Default plant snake bite.md",
+    "Context",
     "Killjoy/Pearl/B-site Default plant sneaky bomb.md",
     "Killjoy/Pearl/B-site Default plant bomb.md",
     "Killjoy/Pearl/A-site Default plant bomb.md",
     "Killjoy/Pearl/A-site Cubby plant sneaky bomb.md",
     "Killjoy/Pearl/B-site Attacking ults.md",
-    "Killjoy/Pearl/B-site Attacking bomb (screen).md",
-    "Killjoy/Pearl/A-site Attacking ults.md",
-    "Killjoy/Pearl/A-site Attacking bomb (back-site).md",
-    "Killjoy/Fracture/B-site Green box Post Plant.md",
-    "Killjoy/Lotus/A-site Defending setup (tree) 1.md",
-    "Killjoy/Lotus/A-site Defending setup (retake).md",
-    "Killjoy/Lotus/A-site Defending setup.md",
-    "Viper/Fracture/A-site Cubby snake bite.md",
-    "Viper/Fracture/A-site Attacking setup.md",
-    "Viper/Ascent/B-site Default plant snake bite 2.md",
-    "Viper/Ascent/B-site Defending setup.md",
-    "Viper/Ascent/B-site Default plant snake bite 1.md",
-    "Viper/Ascent/A-site Default plant snake bite.md",
-    "Viper/Ascent/A-site Attacking setup.md",
-    "Viper/Haven/C-site Default plant.md",
-    "Viper/Haven/A-site Attacking setup.md",
-    "Viper/Haven/C-site Attacking setup.md",
-    "Fade/Ascent/A-site Retake reveal 1.md",
-    "Fade/Ascent/A-site Retake reveal 2.md",
-    "Pictures/VALORANT-Win64-Shipping_xT7poqWnhh.jpg",
-    "Fade/Ascent/A-site Defend reveal.md",
-    "Fade/Ascent/B-site Defend reveal.md",
-    "Pictures/VALORANT-Win64-Shipping_temVsqRmAp.jpg",
-    "Pictures/VALORANT-Win64-Shipping_yOSejJstXT.jpg"
+    "Killjoy/Pearl/B-site Attacking bomb (screen).md"
   ]
 }
