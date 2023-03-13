@@ -17,7 +17,7 @@
   "hideFrontmatter": true,
   "activeSpace": "",
   "spacesCompactMode": false,
-  "defaultDateFormat": "DD-MMM-YYYY",
+  "defaultDateFormat": "MMM dd yyyy",
   "spacesEnabled": true,
   "spacesPerformance": false,
   "collapsedTags": [],
@@ -32,11 +32,7 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedFolders": {
-    "/": [
-      "Curse of Strahd/Сессии",
-      "Глубоководье",
-      "Глубоководье/Сессии"
-    ]
+    "/": []
   },
   "expandedSpaces": [
     "/",
@@ -67,7 +63,7 @@
     "rank",
     true
   ],
-  "inlineBacklinks": true,
+  "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": true,
   "inlineContextExpanded": true,
