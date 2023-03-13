@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/03-03-2023.md",
+                "file": "Daily/12-03-2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily/03-03-2023.md",
+            "file": "Daily/12-03-2023.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily/03-03-2023.md",
+            "file": "Daily/12-03-2023.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily/03-03-2023.md"
+            "file": "Daily/12-03-2023.md"
           }
         }
       },
@@ -142,5 +142,8 @@
     }
   },
   "active": "ae9545ca25a0bb18",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Daily/03-03-2023.md",
+    "Daily/12-03-2023.md"
+  ]
 }
