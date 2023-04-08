@@ -11,11 +11,14 @@
             "id": "66528f90afac722b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Книги/Дополнительно/Таблица.md",
-                "mode": "source",
-                "source": false
+                "file": "Без названия.canvas",
+                "viewState": {
+                  "x": -1291.6008704875196,
+                  "y": -2046.307719893836,
+                  "zoom": -2.333333333333333
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Книги/Дополнительно/Таблица.md",
+                "file": "Без названия.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Книги/Дополнительно/Таблица.md",
+                "file": "Без названия.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Книги/Дополнительно/Таблица.md"
+                "file": "Без названия.canvas"
               }
             }
           },
@@ -158,8 +161,9 @@
   },
   "active": "66528f90afac722b",
   "lastOpenFiles": [
-    "Книги/Список/Эквилибрис. Книга 1. Монструм.md",
     "Книги/Дополнительно/Таблица.md",
+    "Без названия.canvas",
+    "Книги/Список/Эквилибрис. Книга 1. Монструм.md",
     "Книги/Список",
     "Книги/Списо.md",
     "Книги/Дополнительно",

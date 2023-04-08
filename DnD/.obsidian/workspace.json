@@ -4,35 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "771ed3f93ee2ca0f",
+        "id": "a6d92b5c0321cafd",
         "type": "tabs",
         "children": [
           {
-            "id": "bd2511f87c358dba",
+            "id": "08c16e92cdb079ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curse of Strahd/Деревня Крезк.md",
+                "file": "Curse of Strahd/Руины Береза.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dc2bfbd6dc581a1b",
+            "id": "3b725a0c9a7926a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curse of Strahd/НПС/Отто Белвью.md",
+                "file": "Curse of Strahd/Сессии/Совет Валлаки.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2bdba88bffe8dbe8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curse of Strahd/НПС/Василий фон Хольц.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "кост",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,12 +97,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 322.5
   },
   "right": {
     "id": "9e46ea28bcd6ac8a",
@@ -107,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curse of Strahd/НПС/Отто Белвью.md",
+                "file": "Curse of Strahd/Руины Береза.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curse of Strahd/НПС/Отто Белвью.md",
+                "file": "Curse of Strahd/Руины Береза.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curse of Strahd/НПС/Отто Белвью.md"
+                "file": "Curse of Strahd/Руины Береза.md"
               }
             }
           },
@@ -160,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -179,37 +189,50 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dc2bfbd6dc581a1b",
+  "active": "08c16e92cdb079ee",
   "lastOpenFiles": [
+    "Curse of Strahd/Сессии/Встреча с Фионой.md",
+    "Curse of Strahd/Сессии/Совет Валлаки.md",
+    "Curse of Strahd/НПС/Василий фон Хольц.md",
+    "Curse of Strahd/НПС/Адель Мартикова.md",
+    "Curse of Strahd/Сессии/25 марта 2023.md",
+    "Curse of Strahd/Сессии/context.mdb",
+    "Меч пламенного рыцаря/Каэлира Фэрроувинд.md",
+    "Меч пламенного рыцаря/Kaelira Farrowind (Каэлира Фэрроувинд).md",
+    "Изображения/Pasted image 20230406231811.png",
+    "Меч пламенного рыцаря",
     "Curse of Strahd/Деревня Крезк.md",
-    "Curse of Strahd/НПС/Отто Белвью.md",
+    "Curse of Strahd/Календарь событий.md",
+    "Curse of Strahd/НПС/Илья Крезков.md",
+    "Заклинания/Оживление (Raise dead).md",
+    "Заклинания/Пир героев (Heroes feast).md",
+    "Заклинания/context.mdb",
+    "Curse of Strahd/НПС/Василика.md",
+    "Curse of Strahd/НПС/Аббат.md",
+    "Curse of Strahd/НПС/Кловин Белвью.md",
+    "Curse of Strahd/НПС/Марзена Белвью.md",
+    "Curse of Strahd/НПС/Мишка Белвью.md",
     "Curse of Strahd/НПС/Зигфрек Белвью.md",
+    "Curse of Strahd/НПС/Отто Белвью.md",
+    "Curse of Strahd/База знаний/Полукровки.md",
+    "Curse of Strahd/Главы.md",
+    "Curse of Strahd/Персонажи/Луми.md",
+    "Изображения/Victorique_dnd_f9a5584f-ca5b-465f-a251-14580a11ae99.png",
+    "Изображения/Victorique_None_9dc59366-915c-4bcf-aac8-d3ab3dd4f230.png",
+    "оживление (raise dead).md",
+    "Заклинания",
+    "Изображения/marzena.png",
+    "Изображения/mishka_bellview.png",
+    "Curse of Strahd/База знаний/context.mdb",
+    "Магические предметы/Подковы скорости [Horseshoes of speed].md",
+    "Магические предметы/Кольцо регенерации [Ring of regeneration].md",
+    "Curse of Strahd/Замок Равенлофт.md",
+    "Изображения/Otto_Belview.png",
+    "Изображения/Zygfrek_Belview.png",
+    "Curse of Strahd/База знаний",
     "Curse of Strahd/НПС/context.mdb",
     "Curse of Strahd/context.mdb",
-    "Глубоководье/Сессии/2023-03-07.md",
-    "Глубоководье/НПС Глубоководья/Лето.md",
-    "Глубоководье/НПС Глубоководья/Фаумзор Хернилзу.md",
-    "Глубоководье/Сессии/2023-03-07 1.md",
-    "Глубоководье/Сессии/2023-02-04.md",
-    "Глубоководье/Сессии/2023-02-25.md",
-    "Глубоководье/НПС Глубоководья/Антониэлла Грейхорс.md",
     "Глубоководье/НПС Глубоководья/context.mdb",
-    "Глубоководье/Сессии/context.mdb",
-    "Глубоководье/Список дел.md",
-    "Фаумзор Хернилзу (Viicait conflicted copy 2023-03-13 15 35 18).md",
-    "Глубоководье/Сессии/2022-11-04.md",
-    "Глубоководье/Сессии/2022-08-28.md",
-    "Глубоководье/Сессии/2022-08-27.md",
-    "Глубоководье/Сессии/2022-03-03.md",
-    "Глубоководье/Сессии/2022-02-12.md",
-    "Глубоководье/Сессии/2022-02-13.md",
-    "Глубоководье/Сессии/2022-02-18.md",
-    "Глубоководье/Сессии/2022-03-27.md",
-    "Глубоководье/НПС Глубоководья/Найхилюр.md",
-    "Глубоководье/НПС Глубоководья/Важра Сафар.md",
-    "Curse of Strahd/Озеро Зарович.md",
-    "Curse of Strahd/Озеро Зарович (Viicait conflicted copy 2023-03-04 21 14 08).md",
-    "Curse of Strahd/Янтарный храм.md",
-    "Context"
+    "Глубоководье/Сессии/context.mdb"
   ]
 }

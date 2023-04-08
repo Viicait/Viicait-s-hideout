@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Viper/Ascent/B-site Defending setup.md",
+                "file": "Viper/Ascent/A-site Open plant near boxes snake bite.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Viper/Ascent/B-site Defending setup.md",
+                "file": "Viper/Ascent/A-site Open plant near boxes snake bite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Viper/Ascent/B-site Defending setup.md",
+                "file": "Viper/Ascent/A-site Open plant near boxes snake bite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Viper/Ascent/B-site Defending setup.md"
+                "file": "Viper/Ascent/A-site Open plant near boxes snake bite.md"
               }
             }
           },
@@ -166,6 +166,13 @@
   },
   "active": "6150d5d85922451b",
   "lastOpenFiles": [
+    "Viper/Haven/Без названия.md",
+    "Viper/Haven/C-site Open plant.md",
+    "Viper/Haven/A-site Attacking setup.md",
+    "Viper/Haven/C-site Attacking setup.md",
+    "Viper/Haven/C-site Default plant.md",
+    "Viper/Haven/Good wall from B to A.md",
+    "Viper/Ascent/B-site Defending setup.md",
     "Viper/Haven/B-site Attacking setup (from garage).md",
     "Killjoy/Lotus/B-site Defending setup.md",
     "Killjoy/Lotus/A-site Defending setup (tree) 1.md",
@@ -195,13 +202,6 @@
     "Viper/Split (2023)/B-site Attacking setup.md",
     "Viper/Split (2023)/B-site Attacking setup (with better smoke) (Viicait conflicted copy 2023-03-04 11 57 57).md",
     "Killjoy/Split/Без названия.md",
-    "Viper/Ascent/A-site Default plant snake bite.md",
-    "Context",
-    "Killjoy/Pearl/B-site Default plant sneaky bomb.md",
-    "Killjoy/Pearl/B-site Default plant bomb.md",
-    "Killjoy/Pearl/A-site Default plant bomb.md",
-    "Killjoy/Pearl/A-site Cubby plant sneaky bomb.md",
-    "Killjoy/Pearl/B-site Attacking ults.md",
-    "Killjoy/Pearl/B-site Attacking bomb (screen).md"
+    "Context"
   ]
 }
