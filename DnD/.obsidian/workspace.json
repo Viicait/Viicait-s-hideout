@@ -13,31 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curse of Strahd/Руины Береза.md",
+                "file": "Меч пламенного рыцаря/Каэлира Фэрроувинд.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3b725a0c9a7926a5",
+            "id": "6fe2ef02e5ced6fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curse of Strahd/Янтарный храм.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7157b79e832274b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curse of Strahd/НПС/Экзетантер.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71bc91c9a6cd60be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Curse of Strahd/Сессии/Совет Валлаки.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2bdba88bffe8dbe8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Curse of Strahd/НПС/Василий фон Хольц.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "кост",
+                "query": "Экзе",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curse of Strahd/Руины Береза.md",
+                "file": "Меч пламенного рыцаря/Каэлира Фэрроувинд.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curse of Strahd/Руины Береза.md",
+                "file": "Меч пламенного рыцаря/Каэлира Фэрроувинд.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -157,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curse of Strahd/Руины Береза.md"
+                "file": "Меч пламенного рыцаря/Каэлира Фэрроувинд.md"
               }
             }
           },
@@ -191,13 +203,23 @@
   },
   "active": "08c16e92cdb079ee",
   "lastOpenFiles": [
-    "Curse of Strahd/Сессии/Встреча с Фионой.md",
+    "Меч пламенного рыцаря/context.mdb",
     "Curse of Strahd/Сессии/Совет Валлаки.md",
+    "Меч пламенного рыцаря/Каэлира Фэрроувинд.md",
+    "Изображения/Pasted image 20230409195555.png",
+    "Изображения/Pasted image 20230409195545.png",
+    "Curse of Strahd/Квест фей.md",
+    "Curse of Strahd/Старая Костедробилка.md",
+    "Curse of Strahd/НПС/Лайла.md",
+    "Curse of Strahd/НПС/Хазан.md",
+    "Curse of Strahd/Янтарный храм.md",
+    "Curse of Strahd/НПС/Экзетантер.md",
+    "Curse of Strahd/Руины Береза.md",
+    "Curse of Strahd/Сессии/Встреча с Фионой.md",
     "Curse of Strahd/НПС/Василий фон Хольц.md",
     "Curse of Strahd/НПС/Адель Мартикова.md",
     "Curse of Strahd/Сессии/25 марта 2023.md",
     "Curse of Strahd/Сессии/context.mdb",
-    "Меч пламенного рыцаря/Каэлира Фэрроувинд.md",
     "Меч пламенного рыцаря/Kaelira Farrowind (Каэлира Фэрроувинд).md",
     "Изображения/Pasted image 20230406231811.png",
     "Меч пламенного рыцаря",
@@ -213,20 +235,12 @@
     "Curse of Strahd/НПС/Марзена Белвью.md",
     "Curse of Strahd/НПС/Мишка Белвью.md",
     "Curse of Strahd/НПС/Зигфрек Белвью.md",
-    "Curse of Strahd/НПС/Отто Белвью.md",
-    "Curse of Strahd/База знаний/Полукровки.md",
-    "Curse of Strahd/Главы.md",
-    "Curse of Strahd/Персонажи/Луми.md",
     "Изображения/Victorique_dnd_f9a5584f-ca5b-465f-a251-14580a11ae99.png",
     "Изображения/Victorique_None_9dc59366-915c-4bcf-aac8-d3ab3dd4f230.png",
-    "оживление (raise dead).md",
     "Заклинания",
     "Изображения/marzena.png",
     "Изображения/mishka_bellview.png",
     "Curse of Strahd/База знаний/context.mdb",
-    "Магические предметы/Подковы скорости [Horseshoes of speed].md",
-    "Магические предметы/Кольцо регенерации [Ring of regeneration].md",
-    "Curse of Strahd/Замок Равенлофт.md",
     "Изображения/Otto_Belview.png",
     "Изображения/Zygfrek_Belview.png",
     "Curse of Strahd/База знаний",
