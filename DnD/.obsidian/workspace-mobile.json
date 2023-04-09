@@ -13,13 +13,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Глубоководье/Сессии/2023-03-07.md",
-                "mode": "preview",
+                "file": "Curse of Strahd/Сессии/Битва с каргами.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2856c47437b3ed38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curse of Strahd/Квест фей.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47d3faefce327ab7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curse of Strahd/С чего начать квест фей через Эймона.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a84b91ee8c4957e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curse of Strahd/Сессии/Совет Валлаки.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86f0a7b895dfedae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curse of Strahd/Персонажи/Саюри.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cabfb016be787252",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curse of Strahd/НПС/Арабэль.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c2afa32d1d3f706",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curse of Strahd/Руины Береза.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +176,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Глубоководье/Сессии/2023-03-07.md",
+            "file": "Curse of Strahd/Квест фей.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -120,7 +193,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Глубоководье/Сессии/2023-03-07.md",
+            "file": "Curse of Strahd/Квест фей.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -132,7 +205,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Глубоководье/Сессии/2023-03-07.md"
+            "file": "Curse of Strahd/Квест фей.md"
           }
         }
       },
@@ -159,10 +232,21 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "71771a45c2b76323",
+  "active": "2856c47437b3ed38",
   "lastOpenFiles": [
-    "Антониэлла Грейхорс.md",
+    "Curse of Strahd/Руины Береза.md",
+    "Curse of Strahd/НПС/Арабэль.md",
+    "Curse of Strahd/Персонажи/Саюри.md",
+    "Curse of Strahd/Сессии/Совет Валлаки.md",
+    "Curse of Strahd/С чего начать квест фей через Эймона.md",
+    "Curse of Strahd/Сессии/Битва с каргами.md",
+    "Curse of Strahd/Сессии/Превращение Саюри.md",
+    "Curse of Strahd/Квест фей.md",
+    "Curse of Strahd/Персонажи/context.mdb",
+    "Curse of Strahd/Curse of Strahd.md",
+    "Curse of Strahd/Сессии/\n.md",
     "Глубоководье/Сессии/2023-03-07.md",
+    "Антониэлла Грейхорс.md",
     "Глубоководье/НПС Глубоководья/Драгхаар.md",
     "Context",
     "Глубоководье/Персонажи/Ирвин.md",
