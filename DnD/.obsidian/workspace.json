@@ -4,58 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "a6d92b5c0321cafd",
+        "id": "05273931abe3e1f0",
         "type": "tabs",
         "children": [
           {
-            "id": "08c16e92cdb079ee",
+            "id": "9f3edd376702a5df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Меч пламенного рыцаря/Каэлира Фэрроувинд.md",
+                "file": "Curse of Strahd/Квест фей.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6fe2ef02e5ced6fa",
+            "id": "0d2c7d000472978e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curse of Strahd/Янтарный храм.md",
+                "file": "Curse of Strahd/Сессии/Битва с каргами.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7157b79e832274b8",
+            "id": "d53240e92c477fbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curse of Strahd/НПС/Экзетантер.md",
+                "file": "Curse of Strahd/НПС/Виктор Валлакович.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "71bc91c9a6cd60be",
+            "id": "0463a2ddf98aec7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curse of Strahd/Сессии/Совет Валлаки.md",
+                "file": "Curse of Strahd/Сессии/Битва с каргами.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80405af902347ed7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Болотный камень.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e792ad94f295103",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curse of Strahd/НПС/Баба Лысага.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,14 +127,15 @@
             }
           },
           {
-            "id": "f597c819c5c800e9",
+            "id": "9be4f5447b22ebfe",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -129,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Меч пламенного рыцаря/Каэлира Фэрроувинд.md",
+                "file": "Curse of Strahd/Сессии/Битва с каргами.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Меч пламенного рыцаря/Каэлира Фэрроувинд.md",
+                "file": "Curse of Strahd/Сессии/Битва с каргами.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -169,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Меч пламенного рыцаря/Каэлира Фэрроувинд.md"
+                "file": "Curse of Strahd/Сессии/Битва с каргами.md"
               }
             }
           },
@@ -201,19 +227,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "08c16e92cdb079ee",
+  "active": "0463a2ddf98aec7a",
   "lastOpenFiles": [
-    "Меч пламенного рыцаря/context.mdb",
+    "Болотный камень.md",
+    "Curse of Strahd/Сессии/Битва с каргами.md",
+    "Curse of Strahd/НПС/Баба Лысага.md",
+    "Context/spacesLastSync.log",
+    "Curse of Strahd/Магические предметы/Пойманное в ловушку сердце.md",
+    "Curse of Strahd/НПС/Виктор Валлакович.md",
+    "Curse of Strahd/Квест фей.md",
     "Curse of Strahd/Сессии/Совет Валлаки.md",
+    "Curse of Strahd/НПС/Экзетантер.md",
+    "Curse of Strahd/Янтарный храм.md",
     "Меч пламенного рыцаря/Каэлира Фэрроувинд.md",
+    "Меч пламенного рыцаря/context.mdb",
     "Изображения/Pasted image 20230409195555.png",
     "Изображения/Pasted image 20230409195545.png",
-    "Curse of Strahd/Квест фей.md",
     "Curse of Strahd/Старая Костедробилка.md",
     "Curse of Strahd/НПС/Лайла.md",
     "Curse of Strahd/НПС/Хазан.md",
-    "Curse of Strahd/Янтарный храм.md",
-    "Curse of Strahd/НПС/Экзетантер.md",
     "Curse of Strahd/Руины Береза.md",
     "Curse of Strahd/Сессии/Встреча с Фионой.md",
     "Curse of Strahd/НПС/Василий фон Хольц.md",
@@ -231,10 +263,6 @@
     "Заклинания/context.mdb",
     "Curse of Strahd/НПС/Василика.md",
     "Curse of Strahd/НПС/Аббат.md",
-    "Curse of Strahd/НПС/Кловин Белвью.md",
-    "Curse of Strahd/НПС/Марзена Белвью.md",
-    "Curse of Strahd/НПС/Мишка Белвью.md",
-    "Curse of Strahd/НПС/Зигфрек Белвью.md",
     "Изображения/Victorique_dnd_f9a5584f-ca5b-465f-a251-14580a11ae99.png",
     "Изображения/Victorique_None_9dc59366-915c-4bcf-aac8-d3ab3dd4f230.png",
     "Заклинания",
@@ -245,8 +273,6 @@
     "Изображения/Zygfrek_Belview.png",
     "Curse of Strahd/База знаний",
     "Curse of Strahd/НПС/context.mdb",
-    "Curse of Strahd/context.mdb",
-    "Глубоководье/НПС Глубоководья/context.mdb",
-    "Глубоководье/Сессии/context.mdb"
+    "Curse of Strahd/context.mdb"
   ]
 }

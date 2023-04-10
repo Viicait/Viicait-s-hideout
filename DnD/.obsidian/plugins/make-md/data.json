@@ -1,7 +1,9 @@
 {
   "defaultInitialization": false,
   "filePreviewOnHover": false,
+  "flowMenuEnabled": true,
   "markSans": false,
+  "blinkEnabled": true,
   "makeMenuPlaceholder": true,
   "mobileMakeBar": true,
   "inlineStyler": true,
@@ -32,22 +34,19 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedFolders": {
-    "/": []
+    "/": [
+      "Curse of Strahd",
+      "Curse of Strahd/Сессии"
+    ]
   },
   "expandedSpaces": [
     null,
     "/",
     null
   ],
-  "folderRank": {
-    "node": "root",
-    "children": [],
-    "isFolder": true
-  },
   "openFolders": [],
   "fileIcons": [],
-  "spaces": [],
-  "pinnedSpaces": [],
+  "cachedSpaces": [],
   "menuTriggerChar": "/",
   "emojiTriggerChar": ":",
   "folderContextFile": "context",
@@ -63,10 +62,23 @@
     "rank",
     true
   ],
-  "inlineBacklinks": false,
+  "inlineBacklinks": true,
   "inlineContext": true,
   "inlineBacklinksExpanded": true,
   "inlineContextExpanded": true,
+  "inlineContextSectionsExpanded": true,
   "dataviewInlineContext": false,
-  "inlineContextNameLayout": "vertical"
+  "inlineContextNameLayout": "vertical",
+  "spacesSyncLastUpdated": "Context/spacesLastSync.log",
+  "spacesSyncTimeoutSeconds": 10,
+  "spacesAutoBackup": true,
+  "spacesAutoBackupInterval": 10,
+  "spacesAutoBackupLast": 1681150596691,
+  "folderRank": {
+    "node": "root",
+    "children": [],
+    "isFolder": true
+  },
+  "spaces": [],
+  "pinnedSpaces": []
 }
