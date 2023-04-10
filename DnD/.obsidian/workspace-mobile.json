@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curse of Strahd/Квест фей.md",
+                "file": "Меч пламенного рыцаря/Каэлира Фэрроувинд.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82a9af2d6b8395f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Отыгрыш Каэлиры.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -176,7 +188,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Curse of Strahd/Квест фей.md",
+            "file": "Отыгрыш Каэлиры.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -193,7 +205,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Curse of Strahd/Квест фей.md",
+            "file": "Отыгрыш Каэлиры.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -205,7 +217,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Curse of Strahd/Квест фей.md"
+            "file": "Отыгрыш Каэлиры.md"
           }
         }
       },
@@ -232,8 +244,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "2856c47437b3ed38",
+  "active": "82a9af2d6b8395f3",
   "lastOpenFiles": [
+    "Меч пламенного рыцаря/Каэлира Фэрроувинд.md",
+    "Отыгрыш Каэлиры.md",
+    "Curse of Strahd/Квест фей.md",
     "Curse of Strahd/Руины Береза.md",
     "Curse of Strahd/НПС/Арабэль.md",
     "Curse of Strahd/Персонажи/Саюри.md",
@@ -241,7 +256,6 @@
     "Curse of Strahd/С чего начать квест фей через Эймона.md",
     "Curse of Strahd/Сессии/Битва с каргами.md",
     "Curse of Strahd/Сессии/Превращение Саюри.md",
-    "Curse of Strahd/Квест фей.md",
     "Curse of Strahd/Персонажи/context.mdb",
     "Curse of Strahd/Curse of Strahd.md",
     "Curse of Strahd/Сессии/\n.md",
