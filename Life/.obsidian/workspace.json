@@ -8,17 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "66528f90afac722b",
+            "id": "599b0b2b111c52fe",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Без названия.canvas",
-                "viewState": {
-                  "x": -1291.6008704875196,
-                  "y": -2046.307719893836,
-                  "zoom": -2.333333333333333
-                }
+                "file": "Квартиры/Застройщики.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Без названия.canvas",
+                "file": "Квартиры/Застройщики.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Без названия.canvas",
+                "file": "Квартиры/Застройщики.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без названия.canvas"
+                "file": "Квартиры/Застройщики.md"
               }
             }
           },
@@ -159,10 +156,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "66528f90afac722b",
+  "active": "599b0b2b111c52fe",
   "lastOpenFiles": [
-    "Книги/Дополнительно/Таблица.md",
     "Без названия.canvas",
+    "Квартиры/Застройщики.md",
+    "Квартиры",
+    "Книги/Дополнительно/Таблица.md",
     "Книги/Список/Эквилибрис. Книга 1. Монструм.md",
     "Книги/Список",
     "Книги/Списо.md",

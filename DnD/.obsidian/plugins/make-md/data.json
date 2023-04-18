@@ -35,8 +35,7 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "/": [
-      "Curse of Strahd",
-      "Curse of Strahd/Сессии"
+      "Меч пламенного рыцаря"
     ]
   },
   "expandedSpaces": [
@@ -73,7 +72,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1681150596691,
+  "spacesAutoBackupLast": 1681848554400,
   "folderRank": {
     "node": "root",
     "children": [],

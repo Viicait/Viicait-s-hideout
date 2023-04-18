@@ -1,6 +1,6 @@
 # Backstory:
 
-[[Каэлира Фэрроувинд|на русском]]
+[[Каэлира Фэрроуинд|на русском]]
 
 Kaelira Farrowind was born into the once-powerful Farrowind family, whose nobility was well-regarded in the Vale of Doumear. Over the generations, however, the Farrowind family's wealth and influence waned, their estate fell into disrepair, and they became a shadow of their former selves. Despite her noble upbringing, Kaelira was always drawn to the excitement of adventure and intrigue, feeling stifled by her family's expectations and the responsibilities that came with her title.
 
