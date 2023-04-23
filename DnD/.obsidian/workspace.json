@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3dfd11ee86489990",
+        "id": "e6aaec9d04e6fe6c",
         "type": "tabs",
         "children": [
           {
-            "id": "ca14519d3e6046a8",
+            "id": "55f02d1967350e95",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Меч пламенного рыцаря/Каэлира Фэрроуинд.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b35e8e230787f6a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Меч пламенного рыцаря/Отыгрыш Каэлиры.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -60,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Экзе",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Меч пламенного рыцаря/Каэлира Фэрроуинд.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Меч пламенного рыцаря/Каэлира Фэрроуинд.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Меч пламенного рыцаря/Каэлира Фэрроуинд.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,47 +147,48 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ca14519d3e6046a8",
+  "active": "f3041f6849d6b975",
   "lastOpenFiles": [
+    "Curse of Strahd/Квест фей.md",
+    "Curse of Strahd/Сессии/2023-04-20 - Проклятье Страда.md",
+    "Curse of Strahd/НПС/Виктор Валлакович.md",
+    "Curse of Strahd/Холм Былого.md",
+    "Curse of Strahd/Сессии/Превращение Саюри.md",
+    "Дострон Исчадие Ада.md",
+    "Curse of Strahd/База знаний/Серрунос.md",
+    "Curse of Strahd/База знаний/Королевство Делмор.md",
+    "Curse of Strahd/НПС/Каван Певец Крови.md",
+    "Curse of Strahd/НПС/Даника Мартикова.md",
+    "Curse of Strahd/НПС/Урвин Мартиков.md",
+    "Curse of Strahd/Персонажи/Саюри.md",
+    "Curse of Strahd/База знаний/Оборотни.md",
+    "Curse of Strahd/НПС/Скеннис.md",
+    "Заклинания/Высшее восстановление (Greater restoration).md",
+    "Заклинания/Оживление (Raise dead).md",
+    "Curse of Strahd/Янтарный храм.md",
+    "Curse of Strahd/Главы.md",
+    "Curse of Strahd/Башня мага.md",
+    "Curse of Strahd/Curse of Strahd.md",
+    "Curse of Strahd/Сессии/Совет Валлаки.md",
+    "Меч пламенного рыцаря/Каэлира Фэрроуинд.md",
     "Изображения/prince-nuada-hellboy-ii.gif",
     "Меч пламенного рыцаря/Копье Судьбы.md",
     "Изображения/tumblr_n5nxwrYesp1s2sn7eo10_400.gif",
     "Изображения/tumblr_6351eb6610a34faf90576390b57c5830_80b9d3ae_540.gif",
-    "Меч пламенного рыцаря/Каэлира Фэрроуинд.md",
     "Меч пламенного рыцаря/Родерик.md",
     "Меч пламенного рыцаря/Селин.md",
     "Меч пламенного рыцаря/Зандер.md",
-    "Меч пламенного рыцаря/Нимерия.md",
-    "Меч пламенного рыцаря/Трэйн.md",
-    "Меч пламенного рыцаря/Элоуэн.md",
-    "Меч пламенного рыцаря/Эйдан.md",
-    "Меч пламенного рыцаря/Лисандра Фэрроуинд.md",
-    "Меч пламенного рыцаря/Серафин Фэрроуинд.md",
-    "Меч пламенного рыцаря/Леди Элира Фэрроуинд.md",
-    "Меч пламенного рыцаря/Святилище Багровой Луны.md",
-    "Меч пламенного рыцаря/Неистовый Король.md",
-    "Меч пламенного рыцаря/Тлеющий Клинок.md",
-    "Меч пламенного рыцаря/Лорд Элдрик Фэрроуинд.md",
-    "Меч пламенного рыцаря/Отыгрыш Каэлиры.md",
-    "Сумеречный шепот.md",
-    "Меч пламенного рыцаря/Поцелуй Зефира.md",
-    "Сумеречный клык.md",
-    "Curse of Strahd/Квест фей.md",
-    "Curse of Strahd/Сессии/Битва с каргами.md",
-    "Curse of Strahd/Магические предметы/Болотный камень.md",
-    "Curse of Strahd/НПС/Баба Лысага.md",
     "Context/spacesLastSync.log",
-    "Curse of Strahd/Магические предметы/Пойманное в ловушку сердце.md",
     "Меч пламенного рыцаря/context.mdb",
     "Изображения/Pasted image 20230409195555.png",
     "Изображения/Pasted image 20230409195545.png",

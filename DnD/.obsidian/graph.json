@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 10028293
       }
+    },
+    {
+      "query": "path:\"Меч пламенного рыцаря\"",
+      "color": {
+        "a": 1,
+        "rgb": 16741120
+      }
     }
   ],
   "collapse-display": false,
@@ -32,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 336,
-  "scale": 0.3357419401396707,
+  "scale": 0.23947648767488022,
   "close": false
 }
