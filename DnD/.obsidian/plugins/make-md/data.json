@@ -35,7 +35,7 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "/": [
-      "Заклинания"
+      "Меч пламенного рыцаря"
     ]
   },
   "expandedSpaces": [
@@ -62,7 +62,7 @@
     true
   ],
   "inlineBacklinks": true,
-  "inlineContext": true,
+  "inlineContext": false,
   "inlineBacklinksExpanded": true,
   "inlineContextExpanded": true,
   "inlineContextSectionsExpanded": true,
@@ -72,7 +72,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1681936994486,
+  "spacesAutoBackupLast": 1683662857110,
   "folderRank": {
     "node": "root",
     "children": [],
