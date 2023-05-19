@@ -15,5 +15,6 @@
   "ITS@@t-d": false,
   "ITS@@dv": true,
   "ITS@@mtb": true,
-  "shiba-theme-settings@@shiba-colors-theme-light": "sky-light"
+  "shiba-theme-settings@@shiba-colors-theme-light": "sky-light",
+  "GS@@AT": "CS_GC"
 }

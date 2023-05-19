@@ -13,13 +13,106 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curse of Strahd/Башня мага.md",
+                "file": "Curse of Strahd/Холм Былого.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3774fd6e00b2eaf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curse of Strahd/Сессии/2023-05-25 - Проклятье Страда.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d1dba9fd1d58d9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Воскрешение Луми.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd9d05b9475009f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curse of Strahd/Сессии/Превращение Саюри.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34626e7eb8cab47b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curse of Strahd/НПС/Лайла.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba44344d87e3200b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curse of Strahd/Квест фей.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "454ff1cbe44853e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curse of Strahd/С чего начать квест фей через Эймона.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0ed4b4137c8d53c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curse of Strahd/Персонажи/Ливв.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 333.5
   },
   "right": {
     "id": "9e46ea28bcd6ac8a",
@@ -101,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curse of Strahd/Башня мага.md",
+                "file": "Curse of Strahd/НПС/Лайла.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curse of Strahd/Башня мага.md",
+                "file": "Curse of Strahd/НПС/Лайла.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curse of Strahd/Башня мага.md"
+                "file": "Curse of Strahd/НПС/Лайла.md"
               }
             }
           },
@@ -152,53 +245,69 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "ddc0094eae2e19ae",
+            "type": "leaf",
+            "state": {
+              "type": "weaver_chat_view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 422.5
+    "width": 422.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f24195a3df1e7d1e",
+  "active": "34626e7eb8cab47b",
   "lastOpenFiles": [
-    "Curse of Strahd/Эпилог.md",
-    "Curse of Strahd/НПС/Дострон Исчадие Ада.md",
-    "Меч пламенного рыцаря/Сессия 1.md",
-    "Меч пламенного рыцаря/Сессия.md",
-    "Меч пламенного рыцаря/Каэлира Фэрроуинд.md",
-    "Меч пламенного рыцаря/Селин.md",
-    "Меч пламенного рыцаря/Отыгрыш Каэлиры.md",
-    "Меч пламенного рыцаря/Kaelira Farrowind (Каэлира Фэрроувинд).md",
-    "Curse of Strahd/Квест фей.md",
-    "Curse of Strahd/Сессии/2023-04-20 - Проклятье Страда.md",
-    "Curse of Strahd/НПС/Виктор Валлакович.md",
-    "Curse of Strahd/Холм Былого.md",
     "Curse of Strahd/Сессии/Превращение Саюри.md",
-    "Curse of Strahd/База знаний/Серрунос.md",
-    "Curse of Strahd/База знаний/Королевство Делмор.md",
-    "Curse of Strahd/НПС/Каван Певец Крови.md",
-    "Curse of Strahd/НПС/Даника Мартикова.md",
-    "Curse of Strahd/НПС/Урвин Мартиков.md",
+    "Воскрешение Луми.md",
+    "Curse of Strahd/НПС/Лайла.md",
+    "Curse of Strahd/Сессии/2023-05-25 - Проклятье Страда.md",
+    "Curse of Strahd/Квест фей.md",
+    "Curse of Strahd/Персонажи/Ливв.md",
+    "Заклинания/Туманный шаг (Misty step).md",
+    "Curse of Strahd/Страд фон Зарович.md",
+    "Заклинания/Подчинение личности (Dominate person).md",
+    "Заклинания/Поиск скакуна (Find steed).md",
+    "Магические предметы/Булава ужаса.md",
+    "Заклинания/Вихрь искривления (Vortex warp).md",
+    "Заклинания/Шипы (Spike growth).md",
+    "Curse of Strahd/НПС/Сир.md",
+    "Заклинания/Пылающий шар (Flaming Sphere).md",
+    "Заклинания/Лунный луч (Moonbeam).md",
     "Curse of Strahd/Персонажи/Саюри.md",
-    "Curse of Strahd/База знаний/Оборотни.md",
-    "Curse of Strahd/НПС/Скеннис.md",
-    "Заклинания/Высшее восстановление (Greater restoration).md",
-    "Заклинания/Оживление (Raise dead).md",
-    "Curse of Strahd/Янтарный храм.md",
-    "Curse of Strahd/Главы.md",
-    "Curse of Strahd/Башня мага.md",
+    "Заклинания/Рост растений (Plant growth).md",
+    "Curse of Strahd/Холм Былого.md",
+    "Curse of Strahd/Сессии/2023-05-12 - Проклятье Страда.md",
+    "Curse of Strahd/С чего начать квест фей через Эймона.md",
+    "/bins/weaver/conversations.bson",
+    "/bins/weaver",
+    "/bins",
+    "bins/weaver/conversations.bson",
+    "bins/weaver",
+    "bins",
+    "Curse of Strahd/НПС/Виктор Валлакович.md",
+    "Curse of Strahd/НПС/Стрибог.md",
+    "Заклинания/Сигнал тревоги (Alarm).md",
+    "Заклинания/Невидимый слуга (Unseen servant).md",
+    "Заклинания/Леомундова хижина.md",
     "Изображения/prince-nuada-hellboy-ii.gif",
     "Изображения/tumblr_n5nxwrYesp1s2sn7eo10_400.gif",
     "Изображения/tumblr_6351eb6610a34faf90576390b57c5830_80b9d3ae_540.gif",
@@ -209,15 +318,9 @@
     "Curse of Strahd/Сессии/context.mdb",
     "Изображения/Pasted image 20230406231811.png",
     "Меч пламенного рыцаря",
-    "Заклинания/context.mdb",
     "Изображения/Victorique_dnd_f9a5584f-ca5b-465f-a251-14580a11ae99.png",
     "Изображения/Victorique_None_9dc59366-915c-4bcf-aac8-d3ab3dd4f230.png",
-    "Заклинания",
     "Изображения/marzena.png",
-    "Изображения/mishka_bellview.png",
-    "Curse of Strahd/База знаний/context.mdb",
-    "Curse of Strahd/База знаний",
-    "Curse of Strahd/НПС/context.mdb",
-    "Curse of Strahd/context.mdb"
+    "Изображения/mishka_bellview.png"
   ]
 }

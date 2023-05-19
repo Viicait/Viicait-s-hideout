@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "4e8785139b0f5e85",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2f306c2d11c2ea2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af321989c672a9d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Рулбук/Вампиры.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29a3d24e762ea34f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Поколение.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21d2c12bf6087b9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сила крови.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f9958dd76159cdc",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9b14541c2695d62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e097e2ef7f50af53",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6644c4ef9407d31b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7e9b3e11538c9cff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "0dcf354464e2eccb",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "6c78c8beeefcb937",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc3ff665bd8494e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c69626b9e086af27",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Сила крови.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "00bcabefe69fe8a8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Сила крови.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4c27f73ab77306dc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ecbb3d5d29d1fc35",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Сила крови.md"
+              }
+            }
+          },
+          {
+            "id": "6044722201b98d31",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "21d2c12bf6087b9f",
+  "lastOpenFiles": [
+    "Поколение.md",
+    "Сила крови.md",
+    "Рулбук/Вампиры.md",
+    "Рулбук/Голод.md",
+    "Побуждения.md",
+    "Кланы/Бруха.md",
+    "Рулбук",
+    "Кланы/Вентру.md",
+    "Кланы/Слабокровные.md",
+    "Кланы/Каитиффы.md",
+    "Кланы/Тремер.md",
+    "Кланы/Тореадор.md",
+    "Кланы/Носферату.md",
+    "Кланы/Малкавиан.md",
+    "Кланы/Гангрел.md",
+    "Кланы/Бруха (GigaPC conflicted copy 2023-05-19 20 03 01).md",
+    "Фундаментальные правила.md",
+    "Кланы",
+    "Базовые вещи.md",
+    "Context/spacesLastSync.log",
+    "Context"
+  ]
+}

@@ -34,9 +34,7 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedFolders": {
-    "/": [
-      "Меч пламенного рыцаря"
-    ]
+    "/": []
   },
   "expandedSpaces": [
     null,
@@ -72,7 +70,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1683662857110,
+  "spacesAutoBackupLast": 1684421242620,
   "folderRank": {
     "node": "root",
     "children": [],
