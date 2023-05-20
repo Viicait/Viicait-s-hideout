@@ -1,6 +1,8 @@
 {
-  "accentColor": "#e32626",
-  "theme": "obsidian",
-  "cssTheme": "Ultra Lobster",
-  "baseFontSize": 16
+  "accentColor": "#e42121",
+  "theme": "moonstone",
+  "cssTheme": "Atom",
+  "baseFontSize": 16,
+  "interfaceFontFamily": "",
+  "textFontFamily": ""
 }
