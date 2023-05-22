@@ -4,5 +4,6 @@
     "ru",
     "en-US"
   ],
-  "spellcheck": true
+  "spellcheck": true,
+  "alwaysUpdateLinks": true
 }

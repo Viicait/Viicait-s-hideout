@@ -20,18 +20,67 @@
             }
           },
           {
-            "id": "e52de4da01c8e9e0",
+            "id": "6fd56d79073f0156",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Рулбук/Проклятые состояния.md",
+                "file": "Тимур Лавров.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f60efdeb25ae4c63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Мария Смолина.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d34b54655de2c97c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Красная Звезда.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5d48403e70215ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Анна Смирнова.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37b1c52443c1f2fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Марк Денисов.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Blood StarterPack/Руководство по истории.md",
+                "file": "Тимур Лавров.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Blood StarterPack/Руководство по истории.md",
+                "file": "Тимур Лавров.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Blood StarterPack/Руководство по истории.md"
+                "file": "Тимур Лавров.md"
               }
             }
           },
@@ -158,12 +207,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,11 +226,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e097e2ef7f50af53",
+  "active": "6fd56d79073f0156",
   "lastOpenFiles": [
-    "Рулбук/Проклятые состояния.md",
     "New Blood StarterPack/Руководство по истории.md",
+    "Тимур Лавров.md",
+    "Мария Смолина.md",
+    "Красная Звезда.md",
+    "Марк Денисов.md",
+    "Анна Смирнова.md",
+    "Маркуса.md",
     "Рулбук/Вампиры.md",
+    "Конфликт.md",
+    "Паркер.md",
+    "Рулбук/Прилив крови.md",
+    "Рулбук/Голод.md",
+    "Рулбук/Проклятые состояния.md",
     "New Blood StarterPack",
     "Рулбук/Слабокровная алхимия.md",
     "Рулбук/Кровавая магия.md",
@@ -194,19 +253,9 @@
     "Рулбук/Обращение к Дисциплинам.md",
     "Рулбук/Исцеление.md",
     "Рулбук/Пробуждение.md",
-    "Рулбук/Голод.md",
-    "Рулбук/Прилив крови.md",
     "Прилив крови (GigaPC conflicted copy 2023-05-20 14 45 19).md",
     "Рулбук/Поколение.md",
-    "Рулбук/Сила крови.md",
-    "Рулбук/Побуждения.md",
-    "Кланы/Бруха.md",
     "Рулбук",
-    "Кланы/Вентру.md",
-    "Кланы/Слабокровные.md",
-    "Кланы/Каитиффы.md",
-    "Кланы/Тремер.md",
-    "Кланы/Тореадор.md",
     "Кланы",
     "Context/spacesLastSync.log",
     "Context"
