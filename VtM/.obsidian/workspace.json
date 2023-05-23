@@ -20,67 +20,42 @@
             }
           },
           {
-            "id": "6fd56d79073f0156",
+            "id": "5dfb5ed5f9f51404",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Тимур Лавров.md",
+                "file": "Женя.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f60efdeb25ae4c63",
+            "id": "031e0e452e89f556",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Мария Смолина.md",
+                "file": "Андрей Киреев.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d34b54655de2c97c",
+            "id": "930892cb9394d964",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Красная Звезда.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5d48403e70215ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Анна Смирнова.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37b1c52443c1f2fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Марк Денисов.md",
+                "file": "Фаина Белова.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +109,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -155,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Тимур Лавров.md",
+                "file": "New Blood StarterPack/Руководство по истории.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Тимур Лавров.md",
+                "file": "New Blood StarterPack/Руководство по истории.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Тимур Лавров.md"
+                "file": "New Blood StarterPack/Руководство по истории.md"
               }
             }
           },
@@ -212,7 +188,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,14 +203,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6fd56d79073f0156",
+  "active": "af321989c672a9d8",
   "lastOpenFiles": [
+    "Женя.md",
     "New Blood StarterPack/Руководство по истории.md",
+    "Андрей Киреев.md",
+    "Фаина Белова.md",
+    "Борис Козлов.md",
+    "Магдалена Коваленко.md",
+    "Вадим Рокс.md",
+    "Лилия Батуева.md",
+    "Максим Иванов.md",
+    "Марина Петрова.md",
+    "Анна Смирнова.md",
+    "Красная Звезда.md",
     "Тимур Лавров.md",
     "Мария Смолина.md",
-    "Красная Звезда.md",
     "Марк Денисов.md",
-    "Анна Смирнова.md",
     "Маркуса.md",
     "Рулбук/Вампиры.md",
     "Конфликт.md",
@@ -246,15 +232,6 @@
     "Рулбук/Кровавая магия.md",
     "Рулбук/Кровь.md",
     "Рулбук/Дисциплины.md",
-    "Рулбук/Цвет жизни.md",
-    "Рулбук/Дискразия.md",
-    "Рулбук/Смерть вампира.md",
-    "Рулбук/Безумие.md",
-    "Рулбук/Обращение к Дисциплинам.md",
-    "Рулбук/Исцеление.md",
-    "Рулбук/Пробуждение.md",
-    "Прилив крови (GigaPC conflicted copy 2023-05-20 14 45 19).md",
-    "Рулбук/Поколение.md",
     "Рулбук",
     "Кланы",
     "Context/spacesLastSync.log",
