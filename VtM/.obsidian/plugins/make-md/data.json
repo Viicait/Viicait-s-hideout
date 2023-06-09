@@ -30,11 +30,14 @@
   "spaceRowHeight": 29,
   "spacesDisablePatch": false,
   "folderNoteInsideFolder": true,
+  "folderNoteDefaultView": true,
   "sidebarTabs": true,
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedFolders": {
-    "/": []
+    "/": [
+      "New Blood StarterPack"
+    ]
   },
   "expandedSpaces": [
     null,
@@ -43,8 +46,11 @@
   ],
   "openFolders": [],
   "fileIcons": [],
-  "cachedSpaces": [],
+  "cachedSpaces": [
+    "VtM"
+  ],
   "menuTriggerChar": "/",
+  "inlineStickerMenu": true,
   "emojiTriggerChar": ":",
   "folderContextFile": "context",
   "tagContextFolder": "Context",
@@ -54,10 +60,6 @@
   "lineNumbers": false,
   "hiddenExtensions": [
     "mdb"
-  ],
-  "vaultSort": [
-    "rank",
-    true
   ],
   "inlineBacklinks": true,
   "inlineContext": false,
@@ -70,7 +72,13 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1685021403652,
+  "spacesAutoBackupLast": 1685719209953,
+  "spacesUseAlias": false,
+  "precreateVaultSpace": true,
+  "vaultSort": [
+    "rank",
+    true
+  ],
   "folderRank": {
     "node": "root",
     "children": [],

@@ -1,8 +1,9 @@
 {
-  "accentColor": "#e42121",
+  "accentColor": "",
   "theme": "moonstone",
-  "cssTheme": "Atom",
-  "baseFontSize": 16,
+  "cssTheme": "Ultra Lobster",
+  "baseFontSize": 17,
   "interfaceFontFamily": "",
-  "textFontFamily": ""
+  "textFontFamily": "Candara",
+  "monospaceFontFamily": ""
 }

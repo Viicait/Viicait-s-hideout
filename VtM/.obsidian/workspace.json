@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d2f306c2d11c2ea2",
+        "id": "05ae7448fa056132",
         "type": "tabs",
         "children": [
           {
-            "id": "af321989c672a9d8",
+            "id": "08732432d5868325",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Blood StarterPack/Руководство по истории.md",
+                "file": "Рулбук/Общество Сородичей.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Древние",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,7 @@
             }
           },
           {
-            "id": "0dcf354464e2eccb",
+            "id": "75a7e15c49fbf521",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6c78c8beeefcb937",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Blood StarterPack/Руководство по истории.md",
+                "file": "Рулбук/Общество Сородичей.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Blood StarterPack/Руководство по истории.md",
+                "file": "Рулбук/Общество Сородичей.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Blood StarterPack/Руководство по истории.md"
+                "file": "Рулбук/Общество Сородичей.md"
               }
             }
           },
@@ -167,38 +166,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "af321989c672a9d8",
+  "active": "e097e2ef7f50af53",
   "lastOpenFiles": [
-    "Камарилья.md",
+    "PDFs/WoD collection/Vampire꞉ The Masquerade/core/Vampire꞉ The Masquerade Rulebook (5th edition).pdf",
+    "Рулбук/Общество Сородичей.md",
+    "PDFs/WoD collection/Wraith꞉ The Oblivion/core/Wraith꞉ The Oblivion Rulebook (2nd edition) scan.pdf",
+    "PDFs/WoD collection/Wraith꞉ The Oblivion/core/Wraith꞉ The Oblivion Rulebook (2nd edition) OCR.pdf",
+    "PDFs/WoD collection/Wraith꞉ The Oblivion/core/Wraith꞉ The Oblivion Rulebook (20th edition).pdf",
+    "PDFs/WoD collection/Wraith꞉ The Oblivion/core/Wraith꞉ The Oblivion Rulebook (1st edition) scan.pdf",
+    "PDFs/WoD collection/Wraith꞉ The Oblivion/core",
+    "PDFs/WoD collection/Wraith꞉ The Oblivion/Wraith Storytellers Screen (1st edition) scan.pdf",
+    "PDFs/WoD collection/Wraith꞉ The Oblivion/Wraith Players Guide (1st edition) scan.pdf",
+    "PDFs/WoD collection/Wraith꞉ The Oblivion/Wraith Character Kit (1st edition) scan.pdf",
+    "PDFs/WoD collection/Wraith꞉ The Oblivion/The Sea of Shadows (1st edition).pdf",
+    "PDFs/WoD collection/Mage꞉ The Ascension/Mage Storytellers Screen (1st edition) scan.jpg",
+    "Рулбук/Внутренний Круг.md",
+    "Рулбук/Марианна Соколова.md",
     "New Blood StarterPack/Руководство по истории.md",
-    "Анархи.md",
-    "Возможные враги Инквизиторы.md",
-    "Алиса.md",
-    "Сейдж.md",
-    "Варвара.md",
-    "Алекс Шайни.md",
-    "Андреа.md",
-    "Дари Аллес.md",
-    "Фаина Белова.md",
-    "Женя.md",
-    "Андрей Киреев.md",
-    "Борис Козлов.md",
-    "Магдалена Коваленко.md",
-    "Вадим Рокс.md",
-    "Лилия Батуева.md",
-    "Максим Иванов.md",
-    "Марина Петрова.md",
-    "Анна Смирнова.md",
-    "Красная Звезда.md",
-    "Тимур Лавров.md",
-    "Мария Смолина.md",
-    "Марк Денисов.md",
-    "Маркуса.md",
-    "Рулбук/Вампиры.md",
-    "New Blood StarterPack",
-    "Рулбук",
-    "Кланы",
-    "Context/spacesLastSync.log",
-    "Context"
+    "New Blood StarterPack/NPC/Сейдж.md",
+    "New Blood StarterPack/PC/Варвара.md",
+    "New Blood StarterPack/Красная Звезда.md",
+    "Рулбук/Иерархия Камарильи.md",
+    "New Blood StarterPack/NPC/Фаина Белова.md",
+    "New Blood StarterPack/NPC/Магдалена Коваленко.md",
+    "New Blood StarterPack/NPC/Марина Петрова.md",
+    "Рулбук/Отыгрыш и Рассказ истории.md",
+    "Рулбук/Базовые вещи.md",
+    "Общество Сородичей (GigaPC conflicted copy 2023-05-31 20 57 54).md",
+    "Рулбук/Пример игры (Охота).md",
+    "Пример игры (Охота) (GigaPC conflicted copy 2023-05-31 18 49 51).md",
+    "Отыгрыш и Рассказ истории (GigaPC conflicted copy 2023-05-31 18 29 59).md",
+    "Рулбук/Вторая Инквизиция.md",
+    "Рулбук/Шабаш.md",
+    "Рулбук/Камарилья.md",
+    "Рулбук/Архонт.md",
+    "Рулбук/Юстициары.md",
+    "Рулбук/Хранитель Элизиума.md",
+    "Рулбук/Бич.md",
+    "Рулбук/Гарпия.md",
+    "Files/Jenya.png",
+    "Files/sage.png"
   ]
 }
