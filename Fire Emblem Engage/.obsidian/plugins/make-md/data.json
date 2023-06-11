@@ -37,17 +37,21 @@
   "expandedFolders": {
     "/": [
       "New Blood StarterPack"
+    ],
+    "Fire Emblem Engage": [
+      "Characters"
     ]
   },
   "expandedSpaces": [
     null,
     "/",
-    null
+    null,
+    "Fire Emblem Engage"
   ],
   "openFolders": [],
   "fileIcons": [],
   "cachedSpaces": [
-    "VtM"
+    "Fire Emblem Engage"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -72,7 +76,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1686482418574,
+  "spacesAutoBackupLast": 1686492835478,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "vaultSort": [
