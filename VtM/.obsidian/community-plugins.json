@@ -3,9 +3,10 @@
   "buttons",
   "calendar",
   "dataview",
-  "make-md",
+  "obsidian-image-toolkit",
   "shortcuts-extender",
   "obsidian-style-settings",
   "templater-obsidian",
-  "obsidian-image-toolkit"
+  "make-md",
+  "callout-manager"
 ]

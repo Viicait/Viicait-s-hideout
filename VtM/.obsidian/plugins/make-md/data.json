@@ -47,7 +47,7 @@
   "openFolders": [],
   "fileIcons": [],
   "cachedSpaces": [
-    "VtM"
+    "Fire Emblem Engage"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -72,9 +72,15 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1686482418574,
+  "spacesAutoBackupLast": 1687436248901,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
+  "fmKeyAlias": "alias",
+  "fmKeyBanner": "banner",
+  "fmKeyColor": "color",
+  "fmKeySticker": "sticker",
+  "openSpacesOnLaunch": true,
+  "indexSVG": false,
   "vaultSort": [
     "rank",
     true

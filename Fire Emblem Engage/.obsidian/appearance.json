@@ -1,7 +1,10 @@
 {
-  "accentColor": "#f50000",
-  "theme": "moonstone",
-  "cssTheme": "Ultra Lobster",
-  "interfaceFontFamily": "Candara",
-  "textFontFamily": "Candara"
+  "accentColor": "#e2ac36",
+  "theme": "obsidian",
+  "cssTheme": "AnuPpuccin",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "enabledCssSnippets": [
+    "anuppuccin-snippets"
+  ]
 }

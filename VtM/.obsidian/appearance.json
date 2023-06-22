@@ -1,9 +1,12 @@
 {
   "accentColor": "",
-  "theme": "moonstone",
-  "cssTheme": "Ultra Lobster",
+  "theme": "obsidian",
+  "cssTheme": "AnuPpuccin",
   "baseFontSize": 17,
   "interfaceFontFamily": "",
   "textFontFamily": "Candara",
-  "monospaceFontFamily": ""
+  "monospaceFontFamily": "",
+  "enabledCssSnippets": [
+    "anuppuccin-snippets"
+  ]
 }

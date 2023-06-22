@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9a42429745613fb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Мода Сородичей.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1433ae7f994835e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Рулбук/Кланы/Тремер.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dffe271738215297",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Рулбук/Анархи.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Рулбук/Общество Сородичей.md",
+                "file": "Рулбук/Анархи.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Рулбук/Общество Сородичей.md",
+                "file": "Рулбук/Анархи.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Рулбук/Общество Сородичей.md"
+                "file": "Рулбук/Анархи.md"
               }
             }
           },
@@ -166,10 +203,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e097e2ef7f50af53",
+  "active": "dffe271738215297",
   "lastOpenFiles": [
-    "PDFs/WoD collection/Vampire꞉ The Masquerade/core/Vampire꞉ The Masquerade Rulebook (5th edition).pdf",
+    "Рулбук/Кланы/Тремер.md",
+    "Мода Сородичей.md",
     "Рулбук/Общество Сородичей.md",
+    "Рулбук/Камарилья.md",
+    "Рулбук/Кланы/Кланы.md",
+    "Рулбук/Кланы/Бруха.md",
+    "Аширра.md",
+    "Несвязанные.md",
+    "Мафусаилы.md",
+    "Конвенция Шипов.md",
+    "Формирование Великих сект.md",
+    "Война князей.md",
+    "Темные века.md",
+    "Каинитская ересь.md",
+    "Падение Константинополя.md",
+    "Архангел Михаил.md",
+    "Иль-де-Франс.md",
+    "Дополнительная литература/Альбигойский крестовый поход.md",
+    "Дополнительная литература/Пунические войны.md",
+    "Первый Город.md",
+    "Каин.md",
+    "Моя хроника/Основные идеи.md",
+    "Моя хроника/Персонажи игроков/Лана.md",
+    "Моя хроника/Персонажи игроков",
+    "Моя хроника",
+    "PDFs/WoD collection/Vampire꞉ The Masquerade/core/Vampire꞉ The Masquerade Rulebook (5th edition).pdf",
     "PDFs/WoD collection/Wraith꞉ The Oblivion/core/Wraith꞉ The Oblivion Rulebook (2nd edition) scan.pdf",
     "PDFs/WoD collection/Wraith꞉ The Oblivion/core/Wraith꞉ The Oblivion Rulebook (2nd edition) OCR.pdf",
     "PDFs/WoD collection/Wraith꞉ The Oblivion/core/Wraith꞉ The Oblivion Rulebook (20th edition).pdf",
@@ -177,33 +238,10 @@
     "PDFs/WoD collection/Wraith꞉ The Oblivion/core",
     "PDFs/WoD collection/Wraith꞉ The Oblivion/Wraith Storytellers Screen (1st edition) scan.pdf",
     "PDFs/WoD collection/Wraith꞉ The Oblivion/Wraith Players Guide (1st edition) scan.pdf",
-    "PDFs/WoD collection/Wraith꞉ The Oblivion/Wraith Character Kit (1st edition) scan.pdf",
-    "PDFs/WoD collection/Wraith꞉ The Oblivion/The Sea of Shadows (1st edition).pdf",
     "PDFs/WoD collection/Mage꞉ The Ascension/Mage Storytellers Screen (1st edition) scan.jpg",
     "Рулбук/Внутренний Круг.md",
-    "Рулбук/Марианна Соколова.md",
+    "New Blood StarterPack/NPC/Марианна Соколова.md",
     "New Blood StarterPack/Руководство по истории.md",
-    "New Blood StarterPack/NPC/Сейдж.md",
-    "New Blood StarterPack/PC/Варвара.md",
-    "New Blood StarterPack/Красная Звезда.md",
-    "Рулбук/Иерархия Камарильи.md",
-    "New Blood StarterPack/NPC/Фаина Белова.md",
-    "New Blood StarterPack/NPC/Магдалена Коваленко.md",
-    "New Blood StarterPack/NPC/Марина Петрова.md",
-    "Рулбук/Отыгрыш и Рассказ истории.md",
-    "Рулбук/Базовые вещи.md",
-    "Общество Сородичей (GigaPC conflicted copy 2023-05-31 20 57 54).md",
-    "Рулбук/Пример игры (Охота).md",
-    "Пример игры (Охота) (GigaPC conflicted copy 2023-05-31 18 49 51).md",
-    "Отыгрыш и Рассказ истории (GigaPC conflicted copy 2023-05-31 18 29 59).md",
-    "Рулбук/Вторая Инквизиция.md",
-    "Рулбук/Шабаш.md",
-    "Рулбук/Камарилья.md",
-    "Рулбук/Архонт.md",
-    "Рулбук/Юстициары.md",
-    "Рулбук/Хранитель Элизиума.md",
-    "Рулбук/Бич.md",
-    "Рулбук/Гарпия.md",
     "Files/Jenya.png",
     "Files/sage.png"
   ]

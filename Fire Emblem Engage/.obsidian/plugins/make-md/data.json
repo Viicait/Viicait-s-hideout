@@ -45,8 +45,8 @@
   "expandedSpaces": [
     null,
     "/",
-    null,
-    "Fire Emblem Engage"
+    "Fire Emblem Engage",
+    null
   ],
   "openFolders": [],
   "fileIcons": [],
@@ -66,19 +66,25 @@
     "mdb"
   ],
   "inlineBacklinks": true,
-  "inlineContext": false,
+  "inlineContext": true,
   "inlineBacklinksExpanded": true,
   "inlineContextExpanded": true,
   "inlineContextSectionsExpanded": true,
-  "dataviewInlineContext": false,
+  "dataviewInlineContext": true,
   "inlineContextNameLayout": "vertical",
   "spacesSyncLastUpdated": "Context/spacesLastSync.log",
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1686492835478,
+  "spacesAutoBackupLast": 1687087765222,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
+  "fmKeyAlias": "alias",
+  "fmKeyBanner": "banner",
+  "fmKeyColor": "color",
+  "fmKeySticker": "sticker",
+  "openSpacesOnLaunch": true,
+  "indexSVG": false,
   "vaultSort": [
     "rank",
     true

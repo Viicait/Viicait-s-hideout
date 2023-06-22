@@ -1,120 +1,35 @@
 {
   "main": {
-    "id": "63ef9a0383ee4c58",
+    "id": "f0c93b63655304ec",
     "type": "split",
     "children": [
       {
-        "id": "7d5674ab82f87c84",
+        "id": "498899370b84541f",
         "type": "tabs",
         "children": [
           {
-            "id": "71771a45c2b76323",
+            "id": "ae9545ca25a0bb18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curse of Strahd/Сессии/Битва с каргами.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2856c47437b3ed38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Меч пламенного рыцаря/Каэлира Фэрроувинд.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82a9af2d6b8395f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Отыгрыш Каэлиры.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47d3faefce327ab7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Curse of Strahd/С чего начать квест фей через Эймона.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a84b91ee8c4957e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Curse of Strahd/Сессии/Совет Валлаки.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86f0a7b895dfedae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Curse of Strahd/Персонажи/Саюри.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cabfb016be787252",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Curse of Strahd/НПС/Арабэль.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c2afa32d1d3f706",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Curse of Strahd/Руины Береза.md",
+                "file": "Daily/12-03-2023.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "cfe4a0f929a0dc88",
+    "id": "c7d403be9c46ca8a",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "db64008d778efcd0",
+        "id": "8918929d87597742",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -124,7 +39,7 @@
         }
       },
       {
-        "id": "c9439890b9b366d1",
+        "id": "c2c3349be705dc90",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -139,7 +54,7 @@
         }
       },
       {
-        "id": "b352afb84798b7b3",
+        "id": "ddb459b0ac0f6fb6",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -150,45 +65,27 @@
         }
       },
       {
-        "id": "3a8a30923cc759f5",
+        "id": "9fa3d528cf2f2a06",
         "type": "leaf",
         "state": {
           "type": "starred",
           "state": {}
         }
-      },
-      {
-        "id": "dac578d32029e93c",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {
-            "sortOrder": "alphabetical"
-          }
-        }
-      },
-      {
-        "id": "ae15715ed27e3a06",
-        "type": "leaf",
-        "state": {
-          "type": "mk-file-view",
-          "state": {}
-        }
       }
     ],
-    "currentTab": 5
+    "currentTab": 0
   },
   "right": {
-    "id": "d70dff24a2cc78d8",
+    "id": "8863f1ddddc91194",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "d35e435edecc7ba6",
+        "id": "2a5afb49b21af34a",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Отыгрыш Каэлиры.md",
+            "file": "Daily/12-03-2023.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -200,29 +97,29 @@
         }
       },
       {
-        "id": "d3d101615d935425",
+        "id": "433dd504f1955942",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Отыгрыш Каэлиры.md",
+            "file": "Daily/12-03-2023.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "124ac18ed8b21a23",
+        "id": "eefc5bf82ba4ae57",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Отыгрыш Каэлиры.md"
+            "file": "Daily/12-03-2023.md"
           }
         }
       },
       {
-        "id": "52d1c75486e11615",
+        "id": "2b8a0e624f058a35",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -234,43 +131,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "82a9af2d6b8395f3",
+  "active": "ae9545ca25a0bb18",
   "lastOpenFiles": [
-    "Меч пламенного рыцаря/Каэлира Фэрроувинд.md",
-    "Отыгрыш Каэлиры.md",
-    "Curse of Strahd/Квест фей.md",
-    "Curse of Strahd/Руины Береза.md",
-    "Curse of Strahd/НПС/Арабэль.md",
-    "Curse of Strahd/Персонажи/Саюри.md",
-    "Curse of Strahd/Сессии/Совет Валлаки.md",
-    "Curse of Strahd/С чего начать квест фей через Эймона.md",
-    "Curse of Strahd/Сессии/Битва с каргами.md",
-    "Curse of Strahd/Сессии/Превращение Саюри.md",
-    "Curse of Strahd/Персонажи/context.mdb",
-    "Curse of Strahd/Curse of Strahd.md",
-    "Curse of Strahd/Сессии/\n.md",
-    "Глубоководье/Сессии/2023-03-07.md",
-    "Антониэлла Грейхорс.md",
-    "Глубоководье/НПС Глубоководья/Драгхаар.md",
-    "Context",
-    "Глубоководье/Персонажи/Ирвин.md",
-    "Глубоководье/НПС Глубоководья/Мия Мур.md",
-    "Глубоководье/НПС Глубоководья/Элеанор Уолкер.md",
-    "Глубоководье/4 февраля.md",
-    "Глубоководье/НПС Глубоководья/Ришааль.md",
-    "Глубоководье/НПС Глубоководья/Найджел.md",
-    "Глубоководье/Фракции/Орден перчатки.md",
-    "Глубоководье/НПС Глубоководья/Максин.md",
-    "Глубоководье/Фракции/Жентарим.md"
+    "Daily/03-03-2023.md",
+    "Daily/12-03-2023.md"
   ]
 }

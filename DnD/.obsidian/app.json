@@ -1,13 +1,17 @@
 {
+  "promptDelete": false,
+  "spellcheckLanguages": [
+    "ru",
+    "en-US"
+  ],
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
   "pdfExportSettings": {
-    "pageSize": "Letter",
+    "includeName": true,
+    "pageSize": "A4",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
   },
-  "promptDelete": false,
-  "spellcheckLanguages": [
-    "en-US",
-    "ru"
-  ]
+  "attachmentFolderPath": "Files"
 }

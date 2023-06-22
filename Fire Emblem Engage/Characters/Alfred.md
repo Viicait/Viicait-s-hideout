@@ -1,15 +1,38 @@
 ---
-initial-class: "noble" 
-birthday: "august 8th" 
-likes: [] 
-dislikes: []
+initial-class: noble
+birthday: august 8th
+likes:
+  - training
+  - exercise
+  - the sun at dawn
+  - music
+  - flowers
+  - muscles
+  - four-leafed clovers
+  - other people's happiness
+dislikes:
+- precise work
+- sewing
+- spicy food
+- insomnia
+- regrets
+sticker: emoji//1f940
 ---
 
-[[Alear]]
+# Support
 
-[[Vander]]
+| Character     | Rank |
+| ------------- | ---- |
+| [[Alear]]     | C    |
+| [[Vander]]    | C    |
+| [[Etie]]      | B    |
+| [[Boucheron]] | B    |
+| [[Celine]]    |      |
+| [[Yunaka]]    |      |
+| [[Diamant]]   |      |
+| [[Amber]]              |      |
 
-[[Etie]] C - нужен разговор
+# Basic Info
 
-[[Boucheron]]
+Crown prince of Firene. He arrived at Lythos Castle on the night it was attacked, along with his retainers [[Boucheron]] and [[Etie]].
 

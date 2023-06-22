@@ -1,1 +1,8 @@
-{}
+{
+  "spellcheckLanguages": [
+    "ru",
+    "en"
+  ],
+  "attachmentFolderPath": "Files",
+  "promptDelete": false
+}

@@ -1,21 +1,22 @@
 ---
-initial-class: "archer" 
-birthday: "october 1st" 
-likes: [] 
-dislikes: []
+initial-class: archer
+birthday: october 1st
+likes: ["training", "tea parties", "flowers", "meat", "interesting-tasting muscle stimulants"]
+dislikes: ["precise work", "cleaning", "sewing", "anything she can't do with brute strength"]
+sticker: lucide//crown
 ---
 # Support
 
-[[Alear]]
-
-[[Clanne]]
-
-[[Alfred]]
-
-[[Boucheron]]
-
-[[Celine]]
-
+| Character     | Rank |
+| ------------- | ---- |
+| [[Alear]]     | C    |
+| [[Alfred]]    | B    |
+| [[Celine]]    |      |
+| [[Clanne]]    | B    |
+| [[Boucheron]] | B    |
+| [[Yunaka]]    | C    |
+| [[Celine]]    |      |
+| [[Lapis]]     |      |
 
 
 # Basic info

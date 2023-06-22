@@ -1,5 +1,10 @@
 {
-  "accentColor": "",
+  "accentColor": "#e2ac36",
   "theme": "moonstone",
-  "cssTheme": "Shiba Inu"
+  "cssTheme": "AnuPpuccin",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "enabledCssSnippets": [
+    "anuppuccin-snippets"
+  ]
 }

@@ -4,8 +4,9 @@
   "calendar",
   "dataview",
   "obsidian-image-toolkit",
-  "make-md",
   "shortcuts-extender",
   "obsidian-style-settings",
-  "templater-obsidian"
+  "templater-obsidian",
+  "make-md",
+  "callout-manager"
 ]

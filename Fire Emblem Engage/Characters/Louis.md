@@ -6,11 +6,10 @@ dislikes: []
 ---
 # Support
 
-[[Alear]]
-
-[[Clanne]]
-
-[[Celine]]
-
-[[Chloe]]
+| Character  | Rank |
+| ---------- | ---- |
+| [[Alear]]  |      |
+| [[Clanne]] |      |
+| [[Celine]] | C    |
+| [[Chloe]]  | B     |
 

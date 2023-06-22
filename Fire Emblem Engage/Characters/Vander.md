@@ -7,13 +7,16 @@ dislikes: ["distractions from his work", "parties", "strong odors", "oversleepin
 ---
 # Support
 
-[[Alear]]
+| Character   | Rank |
+| ----------- | ---- |
+| [[Alear]]   | C    |
+| [[Clanne]]  | B    |
+| [[Framme]]  | B    |
+| [[Alfred]]  | C    |
+| [[Pandreo]] |      |
+| [[Amber]]   |      |
 
-[[Clanne]]
 
-[[Framme]]
-
-[[Alfred]]
 
 # Basic Info
 

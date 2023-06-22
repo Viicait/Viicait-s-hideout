@@ -4,83 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "56691bac5d90a6c6",
+        "id": "f069dffc491bff80",
         "type": "tabs",
         "children": [
           {
-            "id": "76f5c067deb72ffb",
+            "id": "1d58248ad06445d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All together.md",
+                "file": "Characters/Anna.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "897a3072f0976b75",
+            "id": "08851e07615e6b04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Celine.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f536d2db8b7d05f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chloe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00b640ecf1bb432b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Louis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8fe2595c7feec7f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Alfred.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf24b7fef789d4ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Celine.md",
+                "file": "Characters/Kagetsu.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
+      },
+      {
+        "id": "b63b587f38ce01d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff387d7517b844df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Framme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,14 +96,15 @@
             }
           },
           {
-            "id": "f6f6e9b72c2e150d",
+            "id": "24299ac3099b2881",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -154,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Celine.md",
+                "file": "Characters/Anna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Celine.md",
+                "file": "Characters/Anna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Celine.md"
+                "file": "Characters/Anna.md"
               }
             }
           },
@@ -225,21 +195,39 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "179c4959116d354b",
+  "active": "1d58248ad06445d3",
   "lastOpenFiles": [
     "Characters/Framme.md",
-    "Characters/Clanne.md",
-    "Characters/Louis.md",
+    "Characters/Boucheron.md",
+    "Characters/Anna.md",
+    "Characters/Ivy.md",
     "Characters/Vander.md",
-    "Characters/Etie.md",
-    "Characters/Alfred.md",
-    "Chloe.md",
     "Characters/Celine.md",
+    "Characters/Zelkov.md",
+    "Characters/Amber.md",
+    "Characters/Jade.md",
+    "Characters/Alear.md",
+    "Characters/Pandreo.md",
+    "Characters/Clanne.md",
+    "Characters/Kagetsu.md",
+    "Characters/Chloe.md",
+    "Characters/Yunaka.md",
+    "Characters/Jean.md",
+    "Characters/Citrinne.md",
+    "Characters/Alfred.md",
+    "Characters/Etie.md",
+    "Characters/Diamant.md",
+    "Characters/Lapis.md",
+    "Templates/Character name.md",
+    "Characters/context.mdb",
+    "Characters/Characters.md",
+    "Untitled.md",
+    "Templates",
+    "Files/cg_fe17_pact_ring_yunaka-1.webp",
+    "Files",
+    "Characters/Louis.md",
     "Locations",
     "Locations/Firene.md",
-    "Characters/Alear.md",
-    "All together.md",
-    "Characters/Boucheron.md",
     "Characters",
     "Context/spacesLastSync.log",
     "Context"

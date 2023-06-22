@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"b1f2e44de83bc12b","x":-440,"y":-420,"width":250,"height":60,"color":"4","type":"text","text":"Зеленый камень"},
+		{"id":"de0612904514347e","x":-140,"y":-420,"width":250,"height":60,"color":"1","type":"text","text":"Красный камень"},
+		{"id":"4e6070a86a2dd6e7","x":-440,"y":-540,"width":250,"height":60,"color":"4","type":"text","text":"Лесная Фейри ([[Лайла]])"},
+		{"id":"46e64b2498e143e1","x":-440,"y":-200,"width":250,"height":60,"color":"4","type":"text","text":"Мартиковы"},
+		{"id":"092aeb3181745f3b","x":-140,"y":-540,"width":250,"height":60,"color":"1","type":"text","text":"Горная Фейри ([[Мадам Ева]])"},
+		{"id":"eaf896d1b1724796","x":-440,"y":-60,"width":250,"height":60,"color":"4","type":"text","text":"Друиды [[Холм Былого|Холма Былого]]"},
+		{"id":"0059564b284dd418","x":-440,"y":140,"width":250,"height":60,"color":"4","type":"text","text":"Фейн - позади [[Старая Костедробилка|Старой Костедробилки]]"},
+		{"id":"060ced95d92c7925","x":180,"y":-540,"width":250,"height":60,"color":"#001eff","type":"text","text":"Водная Фейри ([[Баба Лысага]])"},
+		{"id":"805b7005f3f72501","x":180,"y":-420,"width":250,"height":60,"color":"#0400f0","type":"text","text":"Синий камень"},
+		{"id":"54ea2bbf40bfb82a","x":-140,"y":140,"width":250,"height":60,"color":"1","type":"text","text":"[[Холм Былого]]"},
+		{"id":"8c75cce47d4fd06c","x":180,"y":140,"width":250,"height":60,"color":"#b3b0ea","type":"text","text":"Река Луна около [[Руины Береза|Береза]]"},
+		{"id":"ca4c8682f3c9dca2","x":-140,"y":-60,"width":250,"height":60,"color":"1","type":"text","text":"[[Янтарный храм#X31. Центральные катакомбы|Гробница в Янтарном Храме]]"},
+		{"id":"71f0e07067f07dd4","x":180,"y":-60,"width":250,"height":60,"color":"#8c89eb","type":"text","text":"Спальня Аргинвоста"},
+		{"id":"8c026eac28117b44","x":-140,"y":-200,"width":250,"height":60,"type":"text","text":"Молодой друид [[Хазан]]"},
+		{"id":"489786ea06868a18","x":180,"y":-200,"width":250,"height":60,"color":"#5f5cec","type":"text","text":"[[Сир Годфри]]"}
+	],
+	"edges":[
+		{"id":"95678e8c800bf76a","fromNode":"4e6070a86a2dd6e7","fromSide":"bottom","toNode":"b1f2e44de83bc12b","toSide":"top"},
+		{"id":"74b611abd9581417","fromNode":"b1f2e44de83bc12b","fromSide":"bottom","toNode":"46e64b2498e143e1","toSide":"top","label":"Местонахождение"},
+		{"id":"294e8526feb5e871","fromNode":"46e64b2498e143e1","fromSide":"bottom","toNode":"eaf896d1b1724796","toSide":"top","label":"Украли"},
+		{"id":"0fa5ab1436dc1c32","fromNode":"092aeb3181745f3b","fromSide":"bottom","toNode":"de0612904514347e","toSide":"top"},
+		{"id":"59911677e9953cc2","fromNode":"de0612904514347e","fromSide":"bottom","toNode":"8c026eac28117b44","toSide":"top","label":"Был передан на хранение"},
+		{"id":"c4502286fd0bce2b","fromNode":"eaf896d1b1724796","fromSide":"bottom","toNode":"0059564b284dd418","toSide":"top","label":"Где провести ритуал"},
+		{"id":"292e339179911da7","fromNode":"8c026eac28117b44","fromSide":"bottom","toNode":"ca4c8682f3c9dca2","toSide":"top","label":"Спрятал тут"},
+		{"id":"89d9ba569cd8851f","fromNode":"060ced95d92c7925","fromSide":"bottom","toNode":"805b7005f3f72501","toSide":"top"},
+		{"id":"10b6a88d104f46e0","fromNode":"805b7005f3f72501","fromSide":"bottom","toNode":"489786ea06868a18","toSide":"top","label":"Откопал в Березе"},
+		{"id":"c42c8679f3ddcf7e","fromNode":"489786ea06868a18","fromSide":"bottom","toNode":"71f0e07067f07dd4","toSide":"top","label":"Спрятал тут"},
+		{"id":"4e38cb6d92805009","fromNode":"71f0e07067f07dd4","fromSide":"bottom","toNode":"8c75cce47d4fd06c","toSide":"top","label":"Где провести ритуал"},
+		{"id":"24bb38a53885bab3","fromNode":"ca4c8682f3c9dca2","fromSide":"bottom","toNode":"54ea2bbf40bfb82a","toSide":"top","label":"Где провести ритуал"}
+	]
+}

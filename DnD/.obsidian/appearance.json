@@ -1,7 +1,12 @@
 {
-  "accentColor": "#86a85d",
+  "accentColor": "",
   "theme": "moonstone",
-  "cssTheme": "Everforest Enchanted",
+  "cssTheme": "AnuPpuccin",
+  "baseFontSize": 17,
   "interfaceFontFamily": "",
-  "baseFontSize": 15
+  "textFontFamily": "Candara",
+  "monospaceFontFamily": "",
+  "enabledCssSnippets": [
+    "anuppuccin-snippets"
+  ]
 }
