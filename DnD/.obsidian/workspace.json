@@ -6,6 +6,7 @@
       {
         "id": "2eed5cfc2f2b3a1f",
         "type": "tabs",
+        "dimension": 50.09560229445506,
         "children": [
           {
             "id": "cbdc4342545e73b4",
@@ -26,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curse of Strahd/Сессии/2023-05-25 - Проклятье Страда.md",
+                "file": "Curse of Strahd/Сессии/2023-06-22 - Проклятье Страда.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curse of Strahd/Сессии/2023-06-22 - Проклятье Страда.md",
+                "file": "Curse of Strahd/Сессии/2023-06-23 - Проклятье Страда.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,6 +53,7 @@
       {
         "id": "7eea943f2535690d",
         "type": "tabs",
+        "dimension": 49.90439770554494,
         "children": [
           {
             "id": "718a871ad542c7c1",
@@ -166,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curse of Strahd/Квест фей.md",
+                "file": "Curse of Strahd/Сессии/2023-06-23 - Проклятье Страда.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curse of Strahd/Квест фей.md",
+                "file": "Curse of Strahd/Сессии/2023-06-23 - Проклятье Страда.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curse of Strahd/Квест фей.md"
+                "file": "Curse of Strahd/Сессии/2023-06-23 - Проклятье Страда.md"
               }
             }
           },
@@ -237,18 +239,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "718a871ad542c7c1",
+  "active": "e097e2ef7f50af53",
   "lastOpenFiles": [
+    "Curse of Strahd/Квест фей.md",
+    "Curse of Strahd/Сессии/2023-06-23 - Проклятье Страда.md",
     "Как снять проклятье с Древа Галфиас.md",
     "Curse of Strahd/Холм Былого.md",
-    "область Y6.md",
     "Curse of Strahd/Сессии/2023-06-22 - Проклятье Страда.md",
-    "Curse of Strahd/Квест фей.md",
+    "Curse of Strahd/Сессии/2023-05-25 - Проклятье Страда.md",
+    "область Y6.md",
     "Сварог.md",
     "Curse of Strahd/Сессии/Схема Квеста Фей.canvas",
     "Сир Годфри.md",
     "Curse of Strahd/НПС/Стефания Мартикова.md",
-    "Curse of Strahd/Сессии/2023-05-25 - Проклятье Страда.md",
     "Curse of Strahd/НПС/Лайла.md",
     "Curse of Strahd/Сессии/Воскрешение Луми.md",
     "Рулбук/Кланы/Тремер.md",
@@ -265,7 +268,6 @@
     "Война князей.md",
     "Темные века.md",
     "Каинитская ересь.md",
-    "Падение Константинополя.md",
     "Моя хроника/Персонажи игроков",
     "Моя хроника",
     "PDFs/WoD collection/Vampire꞉ The Masquerade/core/Vampire꞉ The Masquerade Rulebook (5th edition).pdf",
