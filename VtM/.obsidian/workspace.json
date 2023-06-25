@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Рулбук/Анархи.md",
+                "file": "Рулбук/Кланы/Тремер.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Рулбук/Анархи.md",
+                "file": "Рулбук/Кланы/Тремер.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Рулбук/Анархи.md"
+                "file": "Рулбук/Кланы/Тремер.md"
               }
             }
           },
@@ -203,8 +203,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dffe271738215297",
+  "active": "a1433ae7f994835e",
   "lastOpenFiles": [
+    "Рулбук/Анархи.md",
     "Рулбук/Кланы/Тремер.md",
     "Мода Сородичей.md",
     "Рулбук/Общество Сородичей.md",
@@ -241,7 +242,6 @@
     "PDFs/WoD collection/Mage꞉ The Ascension/Mage Storytellers Screen (1st edition) scan.jpg",
     "Рулбук/Внутренний Круг.md",
     "New Blood StarterPack/NPC/Марианна Соколова.md",
-    "New Blood StarterPack/Руководство по истории.md",
     "Files/Jenya.png",
     "Files/sage.png"
   ]
