@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Дриада (Dryad).md",
+                "file": "Бестиарий/Лесная Вайда (Wood Woad).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -50,9 +50,12 @@
             "id": "a74c2c6995b467ec",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
+              "type": "markdown",
               "state": {
-                "contextPath": "Curse of Strahd"
+                "file": "Заклинания/Бесследное передвижение (Pass without trace).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -116,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 430,
-    "collapsed": true
+    "width": 409
   },
   "right": {
     "id": "6c78c8beeefcb937",
@@ -133,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Дриада (Dryad).md",
+                "file": "Бестиарий/Лесная Вайда (Wood Woad).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Дриада (Dryad).md",
+                "file": "Бестиарий/Лесная Вайда (Wood Woad).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Дриада (Dryad).md"
+                "file": "Бестиарий/Лесная Вайда (Wood Woad).md"
               }
             }
           },
@@ -206,9 +208,16 @@
   },
   "active": "3b9421941648110f",
   "lastOpenFiles": [
+    "Бестиарий/Дриада (Dryad).md",
+    "Бестиарий/Лесная Вайда (Wood Woad).md",
+    "Бестиарий/Бестиарий.md",
+    "Бестиарий",
+    "Заклинания/Бесследное передвижение (Pass without trace).md",
+    "Заклинания/Опутывание (Entangle).md",
+    "Заклинания/Дубовая кора (Barkskin).md",
+    "Заклинания/Заклинания.md",
     "Заклинания/Высшее восстановление (Greater restoration).md",
     "Заклинания/Древесный путь (Tree stride).md",
-    "Дриада (Dryad).md",
     "Заклинания/Вихрь искривления (Vortex warp).md",
     "Как снять проклятье с Древа Галфиас.md",
     "Curse of Strahd/Квест фей.md",
@@ -228,12 +237,6 @@
     "Curse of Strahd/Сессии/Воскрешение Луми.md",
     "Рулбук/Кланы/Тремер.md",
     "Мода Сородичей.md",
-    "Рулбук/Общество Сородичей.md",
-    "Рулбук/Камарилья.md",
-    "Рулбук/Кланы/Кланы.md",
-    "Рулбук/Кланы/Бруха.md",
-    "Аширра.md",
-    "Несвязанные.md",
     "Моя хроника/Персонажи игроков",
     "Моя хроника",
     "PDFs/WoD collection/Vampire꞉ The Masquerade/core/Vampire꞉ The Masquerade Rulebook (5th edition).pdf",
@@ -243,7 +246,6 @@
     "PDFs/WoD collection/Wraith꞉ The Oblivion/core/Wraith꞉ The Oblivion Rulebook (1st edition) scan.pdf",
     "PDFs/WoD collection/Wraith꞉ The Oblivion/core",
     "PDFs/WoD collection/Wraith꞉ The Oblivion/Wraith Storytellers Screen (1st edition) scan.pdf",
-    "PDFs/WoD collection/Wraith꞉ The Oblivion/Wraith Players Guide (1st edition) scan.pdf",
     "PDFs/WoD collection/Mage꞉ The Ascension/Mage Storytellers Screen (1st edition) scan.jpg",
     "Files/Jenya.png",
     "Files/sage.png"
