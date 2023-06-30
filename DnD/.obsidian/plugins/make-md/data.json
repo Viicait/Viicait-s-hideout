@@ -34,19 +34,10 @@
   "sidebarTabs": true,
   "showRibbon": true,
   "deleteFileOption": "trash",
-  "expandedFolders": {
-    "/": [
-      "New Blood StarterPack"
-    ],
-    "DnD": [
-      "Бестиарий"
-    ]
-  },
+  "expandedFolders": {},
   "expandedSpaces": [
-    null,
     "/",
-    null,
-    "DnD"
+    null
   ],
   "openFolders": [],
   "fileIcons": [],
@@ -65,9 +56,9 @@
   "hiddenExtensions": [
     "mdb"
   ],
-  "inlineBacklinks": true,
-  "inlineContext": false,
-  "inlineBacklinksExpanded": true,
+  "inlineBacklinks": false,
+  "inlineContext": true,
+  "inlineBacklinksExpanded": false,
   "inlineContextExpanded": true,
   "inlineContextSectionsExpanded": true,
   "dataviewInlineContext": false,
@@ -76,11 +67,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-<<<<<<< HEAD
-  "spacesAutoBackupLast": 1687883589597,
-=======
-  "spacesAutoBackupLast": 1687854846489,
->>>>>>> main
+  "spacesAutoBackupLast": 1688107799873,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",
@@ -88,16 +75,5 @@
   "fmKeyColor": "color",
   "fmKeySticker": "sticker",
   "openSpacesOnLaunch": true,
-  "indexSVG": false,
-  "vaultSort": [
-    "rank",
-    true
-  ],
-  "folderRank": {
-    "node": "root",
-    "children": [],
-    "isFolder": true
-  },
-  "spaces": [],
-  "pinnedSpaces": []
+  "indexSVG": false
 }

@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Бестиарий/Лесная Вайда (Wood Woad).md",
+                "file": "Curse of Strahd/Сессии/2023-06-29 - Проклятье Страда.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Бестиарий/Лесная Вайда (Wood Woad).md",
+                "file": "Curse of Strahd/Сессии/2023-06-29 - Проклятье Страда.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Бестиарий/Лесная Вайда (Wood Woad).md"
+                "file": "Curse of Strahd/Сессии/2023-06-29 - Проклятье Страда.md"
               }
             }
           },
@@ -206,10 +205,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3b9421941648110f",
+  "active": "e097e2ef7f50af53",
   "lastOpenFiles": [
-    "Бестиарий/Дриада (Dryad).md",
     "Бестиарий/Лесная Вайда (Wood Woad).md",
+    "Бестиарий/Дриада (Dryad).md",
     "Бестиарий/Бестиарий.md",
     "Бестиарий",
     "Заклинания/Бесследное передвижение (Pass without trace).md",
