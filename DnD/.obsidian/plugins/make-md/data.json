@@ -37,12 +37,16 @@
   "expandedFolders": {
     "/": [
       "New Blood StarterPack"
+    ],
+    "DnD": [
+      "Бестиарий"
     ]
   },
   "expandedSpaces": [
     null,
     "/",
-    null
+    null,
+    "DnD"
   ],
   "openFolders": [],
   "fileIcons": [],
@@ -72,7 +76,11 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
+<<<<<<< HEAD
   "spacesAutoBackupLast": 1687883589597,
+=======
+  "spacesAutoBackupLast": 1687854846489,
+>>>>>>> main
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",
