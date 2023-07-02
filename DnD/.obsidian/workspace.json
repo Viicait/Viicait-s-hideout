@@ -114,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -205,8 +206,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e097e2ef7f50af53",
+  "active": "6cc0bc769cf2cd33",
   "lastOpenFiles": [
+    "Curse of Strahd/Сессии/2023-05-25 - Проклятье Страда.md",
     "Бестиарий/Лесная Вайда (Wood Woad).md",
     "Бестиарий/Дриада (Dryad).md",
     "Бестиарий/Бестиарий.md",
@@ -224,7 +226,6 @@
     "Изображения/Pasted image 20230625174721.png",
     "Curse of Strahd/Сессии/2023-06-29 - Проклятье Страда.md",
     "Curse of Strahd/Сессии/2023-06-23 - Проклятье Страда.md",
-    "Curse of Strahd/Сессии/2023-05-25 - Проклятье Страда.md",
     "Curse of Strahd/Сессии/2023-06-22 - Проклятье Страда.md",
     "Изображения/Изображения.md",
     "область Y6.md",

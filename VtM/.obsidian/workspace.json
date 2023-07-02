@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,8 +110,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Рулбук/Кланы/Тремер.md",
+                "file": "Рулбук/Анархи.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Рулбук/Кланы/Тремер.md",
+                "file": "Рулбук/Анархи.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Рулбук/Кланы/Тремер.md"
+                "file": "Рулбук/Анархи.md"
               }
             }
           },
@@ -203,10 +202,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a1433ae7f994835e",
+  "active": "dffe271738215297",
   "lastOpenFiles": [
-    "Рулбук/Анархи.md",
+    "Моя хроника/НПС/Анна Райнхарт.md",
     "Рулбук/Кланы/Тремер.md",
+    "Моя хроника/НПС",
+    "Рулбук/Анархи.md",
     "Мода Сородичей.md",
     "Рулбук/Общество Сородичей.md",
     "Рулбук/Камарилья.md",
@@ -238,10 +239,7 @@
     "PDFs/WoD collection/Wraith꞉ The Oblivion/core/Wraith꞉ The Oblivion Rulebook (1st edition) scan.pdf",
     "PDFs/WoD collection/Wraith꞉ The Oblivion/core",
     "PDFs/WoD collection/Wraith꞉ The Oblivion/Wraith Storytellers Screen (1st edition) scan.pdf",
-    "PDFs/WoD collection/Wraith꞉ The Oblivion/Wraith Players Guide (1st edition) scan.pdf",
     "PDFs/WoD collection/Mage꞉ The Ascension/Mage Storytellers Screen (1st edition) scan.jpg",
-    "Рулбук/Внутренний Круг.md",
-    "New Blood StarterPack/NPC/Марианна Соколова.md",
     "Files/Jenya.png",
     "Files/sage.png"
   ]
