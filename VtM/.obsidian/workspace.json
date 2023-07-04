@@ -20,43 +20,18 @@
             }
           },
           {
-            "id": "9a42429745613fb5",
+            "id": "bb21ed50c287065d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Мода Сородичей.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1433ae7f994835e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Рулбук/Кланы/Тремер.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dffe271738215297",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Рулбук/Анархи.md",
+                "file": "Автарки.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Древние",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -130,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Рулбук/Анархи.md",
+                "file": "Рулбук/Общество Сородичей.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Рулбук/Анархи.md",
+                "file": "Рулбук/Общество Сородичей.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Рулбук/Анархи.md"
+                "file": "Рулбук/Общество Сородичей.md"
               }
             }
           },
@@ -202,19 +178,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dffe271738215297",
+  "active": "08732432d5868325",
   "lastOpenFiles": [
-    "Моя хроника/НПС/Анна Райнхарт.md",
-    "Рулбук/Кланы/Тремер.md",
-    "Моя хроника/НПС",
+    "Автарки.md",
+    "Ревенант.md",
+    "Рулбук/Тип Хищника.md",
     "Рулбук/Анархи.md",
-    "Мода Сородичей.md",
+    "Независимые.md",
+    "Остров Эллис.md",
     "Рулбук/Общество Сородичей.md",
+    "Poste restante.md",
+    "Рулбук/Сила крови.md",
+    "Мода Сородичей.md",
+    "Рулбук/Поколение.md",
+    "Рулбук/Вампиры.md",
+    "Рулбук/Кланы/Тремер.md",
+    "Барон.md",
+    "Моя хроника/НПС/Анна Райнхарт.md",
+    "Моя хроника/НПС",
     "Рулбук/Камарилья.md",
     "Рулбук/Кланы/Кланы.md",
     "Рулбук/Кланы/Бруха.md",
     "Аширра.md",
-    "Несвязанные.md",
     "Мафусаилы.md",
     "Конвенция Шипов.md",
     "Формирование Великих сект.md",
@@ -222,14 +207,6 @@
     "Темные века.md",
     "Каинитская ересь.md",
     "Падение Константинополя.md",
-    "Архангел Михаил.md",
-    "Иль-де-Франс.md",
-    "Дополнительная литература/Альбигойский крестовый поход.md",
-    "Дополнительная литература/Пунические войны.md",
-    "Первый Город.md",
-    "Каин.md",
-    "Моя хроника/Основные идеи.md",
-    "Моя хроника/Персонажи игроков/Лана.md",
     "Моя хроника/Персонажи игроков",
     "Моя хроника",
     "PDFs/WoD collection/Vampire꞉ The Masquerade/core/Vampire꞉ The Masquerade Rulebook (5th edition).pdf",
