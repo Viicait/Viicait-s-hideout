@@ -37,12 +37,18 @@
   "expandedFolders": {
     "/": [
       "New Blood StarterPack"
+    ],
+    "VtM": [
+      "Рулбук",
+      "Рулбук/Кланы",
+      "Рулбук/Кланы"
     ]
   },
   "expandedSpaces": [
     null,
     "/",
-    null
+    null,
+    "VtM"
   ],
   "openFolders": [],
   "fileIcons": [],
@@ -72,7 +78,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1688500559899,
+  "spacesAutoBackupLast": 1688656721480,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",
