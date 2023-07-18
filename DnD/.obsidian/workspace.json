@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cbdc4342545e73b4",
+            "id": "62b2a3c0551d3d47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curse of Strahd/Сессии/2023-05-25 - Проклятье Страда.md",
+                "file": "Curse of Strahd/Сессии/2023-07-20 - Проклятье Страда.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "6cc0bc769cf2cd33",
+            "id": "8ea4c4752b3cf1f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curse of Strahd/Сессии/2023-06-29 - Проклятье Страда.md",
+                "file": "Curse of Strahd/Валлаки.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "3b9421941648110f",
+            "id": "9d3e12f31f91c99a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Бестиарий/Лесная Вайда (Wood Woad).md",
+                "file": "Curse of Strahd/База знаний/Хранители Пера.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,20 +47,51 @@
             }
           },
           {
-            "id": "a74c2c6995b467ec",
+            "id": "dfed911600433966",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Заклинания/Бесследное передвижение (Pass without trace).md",
+                "file": "Curse of Strahd/Квест фей.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aeffba06fb26909e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curse of Strahd/НПС/Дмитрий Крезков.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "74694b54de6d5fb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d59a3632ec1a893",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curse of Strahd/Сессии/2023-07-13 - Проклятье Страда.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Древние",
+                "query": "Квест фей",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 409
+    "width": 409,
+    "collapsed": true
   },
   "right": {
     "id": "6c78c8beeefcb937",
@@ -135,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curse of Strahd/Сессии/2023-06-29 - Проклятье Страда.md",
+                "file": "Curse of Strahd/Сессии/2023-07-20 - Проклятье Страда.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curse of Strahd/Сессии/2023-06-29 - Проклятье Страда.md",
+                "file": "Curse of Strahd/Сессии/2023-07-20 - Проклятье Страда.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curse of Strahd/Сессии/2023-06-29 - Проклятье Страда.md"
+                "file": "Curse of Strahd/Сессии/2023-07-20 - Проклятье Страда.md"
               }
             }
           },
@@ -192,7 +224,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 517
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,37 +238,39 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6cc0bc769cf2cd33",
+  "active": "62b2a3c0551d3d47",
   "lastOpenFiles": [
-    "Curse of Strahd/Сессии/2023-05-25 - Проклятье Страда.md",
-    "Бестиарий/Лесная Вайда (Wood Woad).md",
-    "Бестиарий/Дриада (Dryad).md",
-    "Бестиарий/Бестиарий.md",
-    "Бестиарий",
-    "Заклинания/Бесследное передвижение (Pass without trace).md",
-    "Заклинания/Опутывание (Entangle).md",
-    "Заклинания/Дубовая кора (Barkskin).md",
-    "Заклинания/Заклинания.md",
-    "Заклинания/Высшее восстановление (Greater restoration).md",
-    "Заклинания/Древесный путь (Tree stride).md",
-    "Заклинания/Вихрь искривления (Vortex warp).md",
-    "Как снять проклятье с Древа Галфиас.md",
-    "Curse of Strahd/Квест фей.md",
-    "Curse of Strahd/Холм Былого.md",
-    "Изображения/Pasted image 20230625174721.png",
-    "Curse of Strahd/Сессии/2023-06-29 - Проклятье Страда.md",
-    "Curse of Strahd/Сессии/2023-06-23 - Проклятье Страда.md",
-    "Curse of Strahd/Сессии/2023-06-22 - Проклятье Страда.md",
-    "Изображения/Изображения.md",
-    "область Y6.md",
-    "Сварог.md",
+    "Curse of Strahd/Сессии/2023-07-13 - Проклятье Страда.md",
+    "Curse of Strahd/Сессии/2023-07-20 - Проклятье Страда.md",
+    "Curse of Strahd/НПС/Урвин Мартиков.md",
+    "Curse of Strahd/База знаний/Хранители Пера.md",
+    "Curse of Strahd/Валлаки.md",
+    "Curse of Strahd/Старая Костедробилка.md",
+    "Curse of Strahd/Страд фон Зарович.md",
     "Curse of Strahd/Сессии/Схема Квеста Фей.canvas",
-    "Сир Годфри.md",
-    "Curse of Strahd/НПС/Стефания Мартикова.md",
-    "Curse of Strahd/НПС/Лайла.md",
-    "Curse of Strahd/Сессии/Воскрешение Луми.md",
-    "Рулбук/Кланы/Тремер.md",
-    "Мода Сородичей.md",
+    "Curse of Strahd/НПС/Арабэль.md",
+    "Curse of Strahd/НПС/Дмитрий Крезков.md",
+    "Арригал.md",
+    "Луваш.md",
+    "Урвина.md",
+    "Друсилла.md",
+    "Пикколо.md",
+    "Евгений Крушкин.md",
+    "Шольдар Шольдарович.md",
+    "Curse of Strahd/НПС/Даника Мартикова.md",
+    "Михаил Дораков.md",
+    "Аня Доракова.md",
+    "Евгений Дораков.md",
+    "Ирина Доракова.md",
+    "Радомир Дораков.md",
+    "Владимир Хорнгаард.md",
+    "Аргинвостхольт.md",
+    "Брэй Мартиков.md",
+    "Бром Мартиков.md",
+    "Изображения/03eb0a36ae15cf21cadec49442e465fc.jpg",
+    "Изображения/1f17205cfdd8d75b367ba1724ddf6ff1.jpg",
+    "Бестиарий",
+    "Изображения/Pasted image 20230625174721.png",
     "Моя хроника/Персонажи игроков",
     "Моя хроника",
     "PDFs/WoD collection/Vampire꞉ The Masquerade/core/Vampire꞉ The Masquerade Rulebook (5th edition).pdf",

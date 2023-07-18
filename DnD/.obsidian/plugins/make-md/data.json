@@ -34,11 +34,17 @@
   "sidebarTabs": true,
   "showRibbon": true,
   "deleteFileOption": "trash",
-  "expandedFolders": {},
+  "expandedFolders": {
+    "DnD": [
+      "Curse of Strahd",
+      "Curse of Strahd/Сессии"
+    ]
+  },
   "expandedSpaces": [
     "/",
     null,
-    null
+    null,
+    "DnD"
   ],
   "openFolders": [],
   "fileIcons": [],
@@ -68,7 +74,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1688107799873,
+  "spacesAutoBackupLast": 1689345683540,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",

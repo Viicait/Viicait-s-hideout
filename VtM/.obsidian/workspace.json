@@ -4,45 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "05ae7448fa056132",
+        "id": "dbdbdc65e5ad7db1",
         "type": "tabs",
         "children": [
           {
-            "id": "230208ea5d904fdf",
-            "type": "leaf",
-            "state": {
-              "type": "make-folder-view",
-              "state": {
-                "contextPath": "Рулбук/Кланы"
-              }
-            }
-          },
-          {
-            "id": "22213b67572ed088",
+            "id": "7bb879728eaf41b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Рулбук/Кланы/Тремер.md",
+                "file": "Рулбук/Персонажи.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "81789aa4cf1c68ff",
+            "id": "1f01b6e03d044904",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Рулбук/Кланы/Бруха.md",
+                "file": "Основы персонажа.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -71,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Маскарад",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +79,7 @@
             }
           },
           {
-            "id": "75a7e15c49fbf521",
+            "id": "08d6ae6489fe4439",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
@@ -97,11 +87,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 303,
+    "collapsed": true
   },
   "right": {
     "id": "6c78c8beeefcb937",
@@ -117,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Рулбук/Кланы/Бруха.md",
+                "file": "Основы персонажа.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Рулбук/Кланы/Бруха.md",
+                "file": "Основы персонажа.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Рулбук/Кланы/Бруха.md"
+                "file": "Основы персонажа.md"
               }
             }
           },
@@ -170,12 +161,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,38 +175,41 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "81789aa4cf1c68ff",
+  "active": "1f01b6e03d044904",
   "lastOpenFiles": [
-    "Прометиды.md",
-    "Рулбук/Кланы/Бруха.md",
-    "Эллины.md",
-    "Рулбук/Кланы/Тремер.md",
-    "Рулбук/Фундаментальные правила.md",
-    "Последователи Сета.md",
-    "Бану Хаким.md",
-    "Рулбук/Кланы/Равнос.md",
-    "Рулбук/Война князей.md",
-    "Рулбук/Кланы/Джованни.md",
-    "Рулбук/Кланы/Ласомбра.md",
-    "Дополнительная литература/Шассе.md",
-    "Рулбук/Темные века.md",
-    "Рулбук/Ревенант.md",
-    "Дополнительная литература/Падение Константинополя.md",
-    "Дополнительная литература/Война против терроризма.md",
-    "Рулбук/Допотопный.md",
-    "Рулбук/Общество Сородичей.md",
-    "Моя хроника/Персонажи игроков/Дика.md",
-    "Допотопный (GigaPC conflicted copy 2023-07-05 15 35 37).md",
-    "Рулбук/Анцилла.md",
-    "Анцилла (GigaPC conflicted copy 2023-07-05 15 26 03).md",
-    "Рулбук/Амарант.md",
-    "Рулбук/Проклятые состояния.md",
-    "Рулбук/Кровавая Охота.md",
-    "Рулбук/Инконню.md",
+    "Моя хроника/Персонажи игроков/Лана.md",
+    "Моя хроника/Персонажи игроков/Персонажи игроков.md",
+    "Моя хроника/Моя хроника.md",
+    "Моя хроника/Персонажи игроков/Лана (GigaPC conflicted copy 2023-07-18 19 46 39).md",
+    "Основы персонажа.md",
+    "Рулбук/Персонажи.md",
+    "Рулбук/Запас.md",
+    "Рулбук/Правила.md",
+    "Рулбук/Золотое правило.md",
+    "Рулбук/Опыт и прокачка.md",
+    "Рулбук/Решение конфликта в три броска.md",
+    "Рулбук/Примеры бросков.md",
+    "Рулбук/Принц.md",
+    "Рулбук/Конфликты.md",
+    "Рулбук/Исцеление.md",
+    "Рулбук/Время.md",
+    "Рулбук/Вампиры.md",
+    "Рулбук/Урон.md",
+    "Тип урон.md",
+    "Рулбук/Типы урона.md",
+    "Рулбук/Несколько оппонентов.md",
+    "Рулбук/Уклонение.md",
+    "Рулбук/Дальнобойное оружие.md",
+    "Рулбук/Соперничество.md",
+    "Рулбук/Взятие половины.md",
+    "Рулбук/Состязания.md",
+    "НПС",
+    "Files/Pasted image 20230717140927.png",
+    "Files/Pasted image 20230717140747.png",
     "Моя хроника/НПС",
     "Моя хроника/Персонажи игроков",
     "Моя хроника",
@@ -226,7 +219,6 @@
     "PDFs/WoD collection/Wraith꞉ The Oblivion/core/Wraith꞉ The Oblivion Rulebook (20th edition).pdf",
     "PDFs/WoD collection/Wraith꞉ The Oblivion/core/Wraith꞉ The Oblivion Rulebook (1st edition) scan.pdf",
     "PDFs/WoD collection/Wraith꞉ The Oblivion/core",
-    "PDFs/WoD collection/Wraith꞉ The Oblivion/Wraith Storytellers Screen (1st edition) scan.pdf",
     "PDFs/WoD collection/Mage꞉ The Ascension/Mage Storytellers Screen (1st edition) scan.jpg",
     "Files/Jenya.png",
     "Files/sage.png"

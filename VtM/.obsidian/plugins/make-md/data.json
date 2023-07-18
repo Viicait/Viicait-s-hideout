@@ -41,14 +41,16 @@
     "VtM": [
       "Рулбук",
       "Рулбук/Кланы",
-      "Рулбук/Кланы"
+      "Рулбук/Кланы",
+      "Моя хроника",
+      "Моя хроника/Персонажи игроков"
     ]
   },
   "expandedSpaces": [
     null,
     "/",
-    null,
-    "VtM"
+    "VtM",
+    null
   ],
   "openFolders": [],
   "fileIcons": [],
@@ -78,7 +80,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1688656721480,
+  "spacesAutoBackupLast": 1689698818760,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",
