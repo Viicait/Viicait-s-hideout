@@ -6,6 +6,7 @@
       {
         "id": "2eed5cfc2f2b3a1f",
         "type": "tabs",
+        "dimension": 51.88391038696538,
         "children": [
           {
             "id": "62b2a3c0551d3d47",
@@ -14,6 +15,19 @@
               "type": "markdown",
               "state": {
                 "file": "Curse of Strahd/Сессии/2023-07-20 - Проклятье Страда.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab434179eded5741",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curse of Strahd/Персонажи/Луми.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -77,14 +91,41 @@
       {
         "id": "74694b54de6d5fb5",
         "type": "tabs",
+        "dimension": 48.116089613034625,
         "children": [
           {
-            "id": "9d59a3632ec1a893",
+            "id": "fe87310e553d87ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curse of Strahd/Сессии/2023-07-13 - Проклятье Страда.md",
+                "file": "Curse of Strahd/Руины Береза.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0c5e1ca703b3120",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curse of Strahd/НПС/Марина.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1a93e7bd9995a45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curse of Strahd/Квест фей.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -120,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Квест фей",
+                "query": "Руины Береза",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +187,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -167,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curse of Strahd/Сессии/2023-07-20 - Проклятье Страда.md",
+                "file": "Curse of Strahd/Руины Береза.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curse of Strahd/Сессии/2023-07-20 - Проклятье Страда.md",
+                "file": "Curse of Strahd/Руины Береза.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curse of Strahd/Сессии/2023-07-20 - Проклятье Страда.md"
+                "file": "Curse of Strahd/Руины Береза.md"
               }
             }
           },
@@ -224,7 +265,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 517
+    "width": 213
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,16 +279,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "62b2a3c0551d3d47",
+  "active": "fe87310e553d87ce",
   "lastOpenFiles": [
+    "Curse of Strahd/НПС/Марина.md",
+    "Curse of Strahd/Квест фей.md",
+    "Curse of Strahd/Сессии/Схема Квеста Фей.canvas",
+    "Curse of Strahd/Руины Береза.md",
+    "Curse of Strahd/Главы.md",
     "Curse of Strahd/Сессии/2023-07-13 - Проклятье Страда.md",
     "Curse of Strahd/Сессии/2023-07-20 - Проклятье Страда.md",
+    "Curse of Strahd/Персонажи/Луми.md",
+    "Алисия.md",
     "Curse of Strahd/НПС/Урвин Мартиков.md",
     "Curse of Strahd/База знаний/Хранители Пера.md",
     "Curse of Strahd/Валлаки.md",
     "Curse of Strahd/Старая Костедробилка.md",
     "Curse of Strahd/Страд фон Зарович.md",
-    "Curse of Strahd/Сессии/Схема Квеста Фей.canvas",
     "Curse of Strahd/НПС/Арабэль.md",
     "Curse of Strahd/НПС/Дмитрий Крезков.md",
     "Арригал.md",
@@ -260,13 +307,6 @@
     "Curse of Strahd/НПС/Даника Мартикова.md",
     "Михаил Дораков.md",
     "Аня Доракова.md",
-    "Евгений Дораков.md",
-    "Ирина Доракова.md",
-    "Радомир Дораков.md",
-    "Владимир Хорнгаард.md",
-    "Аргинвостхольт.md",
-    "Брэй Мартиков.md",
-    "Бром Мартиков.md",
     "Изображения/03eb0a36ae15cf21cadec49442e465fc.jpg",
     "Изображения/1f17205cfdd8d75b367ba1724ddf6ff1.jpg",
     "Бестиарий",
