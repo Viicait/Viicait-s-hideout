@@ -39,7 +39,6 @@
       "New Blood StarterPack"
     ],
     "VtM": [
-      "Рулбук",
       "Рулбук/Кланы",
       "Рулбук/Кланы",
       "Моя хроника",
@@ -80,7 +79,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1689855405468,
+  "spacesAutoBackupLast": 1690382843763,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",

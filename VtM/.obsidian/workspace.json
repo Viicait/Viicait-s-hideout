@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Рулбук/Персонажи.md",
+                "file": "Моя хроника/Персонажи игроков/Дика.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,92 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Основы персонажа.md",
+                "file": "Рулбук/Основы персонажа.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33a41eaa5ab0e674",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Моя хроника/Персонажи игроков/Сигма.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "630a133d864b8a37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Моя хроника/Персонажи игроков/Лана.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
+        ]
+      },
+      {
+        "id": "d33cb77e1486b70d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af98338661e5b685",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Моя хроника/НПС/Ева Снежная.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd3833d4a0f798cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Рулбук/Кланы/Бруха.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fce1a24827e04c89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "НПС/Тео Белл.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7aa081caf3e42df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Рулбук/Дисциплины.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -61,7 +139,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Поколение",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,12 +165,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 303,
-    "collapsed": true
+    "width": 303
   },
   "right": {
     "id": "6c78c8beeefcb937",
@@ -108,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Основы персонажа.md",
+                "file": "Рулбук/Дисциплины.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Основы персонажа.md",
+                "file": "Рулбук/Дисциплины.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Основы персонажа.md"
+                "file": "Рулбук/Дисциплины.md"
               }
             }
           },
@@ -179,34 +256,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1f01b6e03d044904",
+  "active": "ecbb3d5d29d1fc35",
   "lastOpenFiles": [
+    "Моя хроника/Персонажи игроков/Дика.md",
+    "Рулбук/Дисциплины.md",
+    "Рулбук/Кланы/Бруха.md",
+    "Рулбук/Кланы/Вентру.md",
+    "НПС/Тео Белл.md",
+    "Untitled.md",
+    "Моя хроника/НПС/Ева Снежная.md",
+    "Моя хроника/Персонажи игроков/Сигма.md",
+    "Моя хроника/Персонажи игроков/Лана.md",
+    "Рулбук/Персонажи.md",
+    "Моя хроника/Персонажи игроков/Персонажи игроков.md",
+    "Files/Pasted image 20230725153531.png",
+    "Евой.md",
+    "Моя хроника/НПС/Диана Снежная.md",
+    "Рулбук/Основы персонажа.md",
     "Рулбук/Кланы/Слабокровные.md",
-    "Основы персонажа.md",
     "Рулбук/Анархи.md",
     "Рулбук/Камарилья.md",
-    "Неонаты.md",
-    "Моя хроника/Персонажи игроков/Лана.md",
-    "Моя хроника/Персонажи игроков/Персонажи игроков.md",
+    "Рулбук/Неонаты.md",
     "Моя хроника/Моя хроника.md",
     "Моя хроника/Персонажи игроков/Лана (GigaPC conflicted copy 2023-07-18 19 46 39).md",
-    "Рулбук/Персонажи.md",
     "Рулбук/Запас.md",
     "Рулбук/Правила.md",
     "Рулбук/Золотое правило.md",
     "Рулбук/Опыт и прокачка.md",
     "Рулбук/Решение конфликта в три броска.md",
     "Рулбук/Примеры бросков.md",
-    "Рулбук/Принц.md",
-    "Рулбук/Конфликты.md",
-    "Рулбук/Исцеление.md",
-    "Рулбук/Время.md",
-    "Рулбук/Вампиры.md",
-    "Рулбук/Урон.md",
-    "Тип урон.md",
-    "Рулбук/Типы урона.md",
-    "Рулбук/Несколько оппонентов.md",
-    "Рулбук/Уклонение.md",
     "НПС",
     "Files/Pasted image 20230717140927.png",
     "Files/Pasted image 20230717140747.png",
