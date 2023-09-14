@@ -1,7 +1,4 @@
 {
-  "spellcheckLanguages": [
-    "ru",
-    "en-US"
-  ],
+  "spellcheckLanguages": null,
   "attachmentFolderPath": "Pictures"
 }

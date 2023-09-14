@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7bb879728eaf41b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Моя хроника/Персонажи игроков/Дика.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1f01b6e03d044904",
             "type": "leaf",
             "state": {
@@ -32,12 +20,22 @@
             }
           },
           {
-            "id": "33a41eaa5ab0e674",
+            "id": "24a4ca375734e70a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
+          },
+          {
+            "id": "9f4203a8cc011c9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Моя хроника/Персонажи игроков/Сигма.md",
+                "file": "Карта отношений.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,68 +47,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Моя хроника/Персонажи игроков/Лана.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "d33cb77e1486b70d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "af98338661e5b685",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Моя хроника/НПС/Ева Снежная.md",
+                "file": "Моя хроника/Моя хроника.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cd3833d4a0f798cc",
+            "id": "935fc51709ddddcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Рулбук/Кланы/Бруха.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fce1a24827e04c89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "НПС/Тео Белл.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7aa081caf3e42df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Рулбук/Дисциплины.md",
-                "mode": "preview",
+                "file": "Моя хроника/НПС/Илие.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Рулбук/Дисциплины.md",
+                "file": "Рулбук/Основы персонажа.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Рулбук/Дисциплины.md",
+                "file": "Рулбук/Основы персонажа.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Рулбук/Дисциплины.md"
+                "file": "Рулбук/Основы персонажа.md"
               }
             }
           },
@@ -235,6 +191,16 @@
             "state": {
               "type": "calendar",
               "state": {}
+            }
+          },
+          {
+            "id": "516731515e5b4461",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -256,35 +222,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ecbb3d5d29d1fc35",
+  "active": "24a4ca375734e70a",
   "lastOpenFiles": [
+    "Files/Pasted image 20230914124418.png",
+    "Files/Pasted image 20230914121152.png",
+    "Рулбук/Черты (Traits).md",
+    "Рулбук/Основы персонажа.md",
+    "Карта отношений.md",
+    "Рулбук/Кланы/Слабокровные.md",
+    "Моя хроника/Моя хроника.md",
+    "Моя хроника/НПС/Илие.md",
+    "Моя хроника/НПС/Игорь Троицкий.md",
+    "Моя хроника/НПС/Николае.md",
+    "Моя хроника/Персонажи игроков/Сигма.md",
+    "Моя хроника/Идеи/Основные идеи.md",
+    "Моя хроника/Идеи",
+    "Моя хроника/Квесты/Главный квест.md",
+    "Моя хроника/Квесты",
+    "Моя хроника/Untitled.md",
+    "Untitled.md",
+    "Рулбук/Тип Хищника.md",
     "Моя хроника/Персонажи игроков/Дика.md",
+    "НПС/Тео Белл.md",
     "Рулбук/Дисциплины.md",
     "Рулбук/Кланы/Бруха.md",
-    "Рулбук/Кланы/Вентру.md",
-    "НПС/Тео Белл.md",
-    "Untitled.md",
     "Моя хроника/НПС/Ева Снежная.md",
-    "Моя хроника/Персонажи игроков/Сигма.md",
+    "Моя хроника/НПС/Диана Снежная.md",
     "Моя хроника/Персонажи игроков/Лана.md",
+    "Рулбук/Кланы/Вентру.md",
     "Рулбук/Персонажи.md",
     "Моя хроника/Персонажи игроков/Персонажи игроков.md",
     "Files/Pasted image 20230725153531.png",
     "Евой.md",
-    "Моя хроника/НПС/Диана Снежная.md",
-    "Рулбук/Основы персонажа.md",
-    "Рулбук/Кланы/Слабокровные.md",
-    "Рулбук/Анархи.md",
-    "Рулбук/Камарилья.md",
-    "Рулбук/Неонаты.md",
-    "Моя хроника/Моя хроника.md",
-    "Моя хроника/Персонажи игроков/Лана (GigaPC conflicted copy 2023-07-18 19 46 39).md",
-    "Рулбук/Запас.md",
-    "Рулбук/Правила.md",
-    "Рулбук/Золотое правило.md",
-    "Рулбук/Опыт и прокачка.md",
-    "Рулбук/Решение конфликта в три броска.md",
-    "Рулбук/Примеры бросков.md",
     "НПС",
     "Files/Pasted image 20230717140927.png",
     "Files/Pasted image 20230717140747.png",
@@ -293,12 +262,4 @@
     "Моя хроника",
     "PDFs/WoD collection/Vampire꞉ The Masquerade/core/Vampire꞉ The Masquerade Rulebook (5th edition).pdf",
     "PDFs/WoD collection/Wraith꞉ The Oblivion/core/Wraith꞉ The Oblivion Rulebook (2nd edition) scan.pdf",
-    "PDFs/WoD collection/Wraith꞉ The Oblivion/core/Wraith꞉ The Oblivion Rulebook (2nd edition) OCR.pdf",
-    "PDFs/WoD collection/Wraith꞉ The Oblivion/core/Wraith꞉ The Oblivion Rulebook (20th edition).pdf",
-    "PDFs/WoD collection/Wraith꞉ The Oblivion/core/Wraith꞉ The Oblivion Rulebook (1st edition) scan.pdf",
-    "PDFs/WoD collection/Wraith꞉ The Oblivion/core",
-    "PDFs/WoD collection/Mage꞉ The Ascension/Mage Storytellers Screen (1st edition) scan.jpg",
-    "Files/Jenya.png",
-    "Files/sage.png"
-  ]
-}
+    "PDFs/WoD collection/Wraith꞉ The Oblivion/core/Wraith�

@@ -42,7 +42,8 @@
       "Рулбук/Кланы",
       "Рулбук/Кланы",
       "Моя хроника",
-      "Моя хроника/Персонажи игроков"
+      "Моя хроника/Персонажи игроков",
+      "Моя хроника"
     ]
   },
   "expandedSpaces": [
@@ -79,7 +80,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1690382843763,
+  "spacesAutoBackupLast": 1694684659549,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",

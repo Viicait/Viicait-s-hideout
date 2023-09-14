@@ -1,9 +1,6 @@
 {
   "promptDelete": false,
-  "spellcheckLanguages": [
-    "ru",
-    "en-US"
-  ],
+  "spellcheckLanguages": null,
   "spellcheck": true,
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {

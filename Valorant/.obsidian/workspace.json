@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Viper/Haven/A-site Defending setup.md",
+                "file": "Viper/Haven/Good wall from B to A.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Viper/Haven/A-site Defending setup.md",
+                "file": "Viper/Haven/Good wall from B to A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Viper/Haven/A-site Defending setup.md",
+                "file": "Viper/Haven/Good wall from B to A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Viper/Haven/A-site Defending setup.md"
+                "file": "Viper/Haven/Good wall from B to A.md"
               }
             }
           },
@@ -173,6 +174,10 @@
   },
   "active": "6150d5d85922451b",
   "lastOpenFiles": [
+    "Viper/Ascent/B-site Default plant snake bite 2.md",
+    "Viper/Ascent/B-site Defending setup.md",
+    "Viper/Ascent/Mid one-way.md",
+    "Viper/Haven/A-site Defending setup.md",
     "Viper/Haven/C-site Attacking setup.md",
     "Viper/Haven/A-site Attacking setup.md",
     "Viper/Haven/A-site Default plant.md",
@@ -201,15 +206,11 @@
     "Viper/Haven/C-site Open plant.md",
     "Viper/Haven/C-site Default plant.md",
     "Viper/Haven/Good wall from B to A.md",
-    "Viper/Ascent/B-site Defending setup.md",
     "Viper/Haven/B-site Attacking setup (from garage).md",
     "Killjoy/Lotus/B-site Defending setup.md",
     "Killjoy/Lotus/A-site Defending setup (tree) 1.md",
     "Killjoy/Lotus/A-site Defending setup (retake).md",
     "Viper/Fracture/A-site Defending setup.md",
-    "Viper/Fracture/A-site Attacking setup.md",
-    "Viper/Fracture/A-site Cubby snake bite.md",
-    "Viper/Fracture/A-site Good attacking wall.md",
     "Context"
   ]
 }
