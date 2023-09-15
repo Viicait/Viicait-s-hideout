@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/12-03-2023.md",
+                "file": "Моя хроника/НПС/Габриела.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ecedf6dcc5f26f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Моя хроника/Персонажи игроков/Сигма.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,6 +83,32 @@
           "type": "starred",
           "state": {}
         }
+      },
+      {
+        "id": "394636cd9a884966",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4abe1d11d376c292",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "05ec411985bd0e3b",
+        "type": "leaf",
+        "state": {
+          "type": "mk-file-view",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
@@ -85,7 +123,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily/12-03-2023.md",
+            "file": "Моя хроника/НПС/Габриела.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +140,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily/12-03-2023.md",
+            "file": "Моя хроника/НПС/Габриела.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +152,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily/12-03-2023.md"
+            "file": "Моя хроника/НПС/Габриела.md"
           }
         }
       },
@@ -143,6 +181,9 @@
   },
   "active": "ae9545ca25a0bb18",
   "lastOpenFiles": [
+    "Моя хроника/Персонажи игроков/Сигма.md",
+    "Моя хроника/НПС/Габриела.md",
+    "Моя хроника/Персонажи игроков/Дика.md",
     "Daily/03-03-2023.md",
     "Daily/12-03-2023.md"
   ]
