@@ -123,7 +123,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Моя хроника/НПС/Габриела.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -140,7 +139,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Моя хроника/НПС/Габриела.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -151,9 +149,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Моя хроника/НПС/Габриела.md"
-          }
+          "state": {}
         }
       },
       {
@@ -179,10 +175,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ae9545ca25a0bb18",
+  "active": "8918929d87597742",
   "lastOpenFiles": [
-    "Моя хроника/Персонажи игроков/Сигма.md",
     "Моя хроника/НПС/Габриела.md",
+    "Моя хроника/Персонажи игроков/Сигма.md",
     "Моя хроника/Персонажи игроков/Дика.md",
     "Daily/03-03-2023.md",
     "Daily/12-03-2023.md"
