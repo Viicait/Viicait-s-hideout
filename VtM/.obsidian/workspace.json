@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "24a4ca375734e70a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
-              }
-            }
-          },
-          {
             "id": "9f4203a8cc011c9c",
             "type": "leaf",
             "state": {
@@ -47,26 +37,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Моя хроника/Моя хроника.md",
+                "file": "Моя хроника/НПС/Габриела.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "935fc51709ddddcc",
+            "id": "cf96451768e9bfb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Моя хроника/НПС/Илие.md",
+                "file": "Стефан.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df7e626d924537e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Моя хроника/Персонажи игроков/Дика.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d37ba4a29d74e81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Моя хроника/Персонажи игроков/Лана.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d1f92c4a8128ad5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Лилия Станкевич.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -141,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Рулбук/Основы персонажа.md",
+                "file": "Моя хроника/Персонажи игроков/Лана.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Рулбук/Основы персонажа.md",
+                "file": "Моя хроника/Персонажи игроков/Лана.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Рулбук/Основы персонажа.md"
+                "file": "Моя хроника/Персонажи игроков/Лана.md"
               }
             }
           },
@@ -222,16 +248,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "24a4ca375734e70a",
+  "active": "8d37ba4a29d74e81",
   "lastOpenFiles": [
+    "Лилия Станкевич.md",
+    "Моя хроника/Персонажи игроков/Лана.md",
+    "Моя хроника/Персонажи игроков/Дика.md",
+    "Алиса Кудрявцева.md",
+    "Биография Ланы Рихтер.md",
+    "Рулбук/Основы персонажа.md",
+    "Стефан.md",
+    "Моя хроника/НПС/Габриела.md",
+    "Моя хроника/НПС/Илие.md",
+    "Дополнительная литература/Валахия.md",
+    "Files/Pasted image 20230915125934.png",
+    "Валахии.md",
+    "Моя хроника/НПС/НПС.md",
+    "Моя хроника/Моя хроника.md",
     "Files/Pasted image 20230914124418.png",
     "Files/Pasted image 20230914121152.png",
     "Рулбук/Черты (Traits).md",
-    "Рулбук/Основы персонажа.md",
     "Карта отношений.md",
     "Рулбук/Кланы/Слабокровные.md",
-    "Моя хроника/Моя хроника.md",
-    "Моя хроника/НПС/Илие.md",
     "Моя хроника/НПС/Игорь Троицкий.md",
     "Моя хроника/НПС/Николае.md",
     "Моя хроника/Персонажи игроков/Сигма.md",
@@ -242,18 +279,9 @@
     "Моя хроника/Untitled.md",
     "Untitled.md",
     "Рулбук/Тип Хищника.md",
-    "Моя хроника/Персонажи игроков/Дика.md",
     "НПС/Тео Белл.md",
     "Рулбук/Дисциплины.md",
-    "Рулбук/Кланы/Бруха.md",
-    "Моя хроника/НПС/Ева Снежная.md",
-    "Моя хроника/НПС/Диана Снежная.md",
-    "Моя хроника/Персонажи игроков/Лана.md",
-    "Рулбук/Кланы/Вентру.md",
-    "Рулбук/Персонажи.md",
-    "Моя хроника/Персонажи игроков/Персонажи игроков.md",
     "Files/Pasted image 20230725153531.png",
-    "Евой.md",
     "НПС",
     "Files/Pasted image 20230717140927.png",
     "Files/Pasted image 20230717140747.png",
@@ -262,4 +290,10 @@
     "Моя хроника",
     "PDFs/WoD collection/Vampire꞉ The Masquerade/core/Vampire꞉ The Masquerade Rulebook (5th edition).pdf",
     "PDFs/WoD collection/Wraith꞉ The Oblivion/core/Wraith꞉ The Oblivion Rulebook (2nd edition) scan.pdf",
-    "PDFs/WoD collection/Wraith꞉ The Oblivion/core/Wraith�
+    "PDFs/WoD collection/Wraith꞉ The Oblivion/core/Wraith꞉ The Oblivion Rulebook (2nd edition) OCR.pdf",
+    "PDFs/WoD collection/Wraith꞉ The Oblivion/core/Wraith꞉ The Oblivion Rulebook (20th edition).pdf",
+    "PDFs/WoD collection/Mage꞉ The Ascension/Mage Storytellers Screen (1st edition) scan.jpg",
+    "Files/Jenya.png",
+    "Files/sage.png"
+  ]
+}
