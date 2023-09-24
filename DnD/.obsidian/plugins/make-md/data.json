@@ -39,7 +39,11 @@
       "Curse of Strahd/Сессии",
       "Нисхождение в Авернус",
       "Нисхождение в Авернус/Игровые персонажи",
-      "Нисхождение в Авернус/Неигровые персонажи"
+      "Нисхождение в Авернус/Неигровые персонажи",
+      "Нисхождение в Авернус",
+      "Нисхождение в Авернус/Игровые персонажи",
+      "Нисхождение в Авернус/Неигровые персонажи",
+      "Нисхождение в Авернус/Сессии"
     ]
   },
   "expandedSpaces": [
@@ -76,7 +80,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1694948615857,
+  "spacesAutoBackupLast": 1695398713877,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",

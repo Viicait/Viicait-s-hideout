@@ -43,13 +43,13 @@
   "expandedSpaces": [
     null,
     "/",
-    "Fire Emblem Engage",
-    null
+    null,
+    "Life"
   ],
   "openFolders": [],
   "fileIcons": [],
   "cachedSpaces": [
-    "Fire Emblem Engage"
+    "Life"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -74,7 +74,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1686680315813,
+  "spacesAutoBackupLast": 1695371373697,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",

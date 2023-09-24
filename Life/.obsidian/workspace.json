@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Быт/Чистка накипи кофемашины.md",
+                "file": "Места/Фронтир.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Быт/Чистка накипи кофемашины.md",
+                "file": "Места/Фронтир.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Быт/Чистка накипи кофемашины.md",
+                "file": "Места/Фронтир.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Быт/Чистка накипи кофемашины.md"
+                "file": "Места/Фронтир.md"
               }
             }
           },
@@ -164,8 +164,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "179c4959116d354b",
+  "active": "15f37f75c4b6fe5b",
   "lastOpenFiles": [
+    "Места/Фронтир.md",
+    "Места",
+    "Daily/Daily.md",
+    "Быт/Чистка накипи кофемашины.md",
     "Задача на поиск виновного.canvas",
     "Templates/Новая книга.md",
     "Daily/12-03-2023.md",
@@ -194,8 +198,6 @@
     "Characters/Chloe.md",
     "Templates/Character name.md",
     "Characters/context.mdb",
-    "Characters/Characters.md",
-    "Untitled.md",
     "Templates",
     "Files/cg_fe17_pact_ring_yunaka-1.webp",
     "Files",

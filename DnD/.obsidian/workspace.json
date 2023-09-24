@@ -4,39 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "2eed5cfc2f2b3a1f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c03d0e90e2bcf9f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Нисхождение в Авернус/Игровые персонажи/Райден.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1048ea04f6ffae0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Чионтар.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "1850f075165ece39",
         "type": "tabs",
         "children": [
@@ -46,8 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Нисхождение в Авернус/Неигровые персонажи/Лисандра.md",
+                "file": "Нисхождение в Авернус/Сессии/1-2 сессии от 15-16 сентября.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e501048af0e72df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Нисхождение в Авернус/Игровые персонажи/Райден.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b45817c50cf578ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Личный дневник Райден.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -112,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326
+    "width": 326,
+    "collapsed": true
   },
   "right": {
     "id": "6c78c8beeefcb937",
@@ -128,8 +122,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Нисхождение в Авернус/Неигровые персонажи/Лисандра.md",
-                "collapseAll": false,
+                "file": "Нисхождение в Авернус/Сессии/1-2 сессии от 15-16 сентября.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -145,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Нисхождение в Авернус/Неигровые персонажи/Лисандра.md",
+                "file": "Нисхождение в Авернус/Сессии/1-2 сессии от 15-16 сентября.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Нисхождение в Авернус/Неигровые персонажи/Лисандра.md"
+                "file": "Нисхождение в Авернус/Сессии/1-2 сессии от 15-16 сентября.md"
               }
             }
           },
@@ -190,11 +184,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 363
+    "width": 363,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,13 +206,22 @@
   },
   "active": "29ed40d2d8123174",
   "lastOpenFiles": [
-    "Чионтар.md",
+    "Саврас.md",
+    "Нисхождение в Авернус/Сессии/1-2 сессии от 15-16 сентября.md",
+    "Девятипалая.md",
+    "Нико Саджиресса.md",
+    "Нирен Акварис.md",
+    "Виллоу Бурожук.md",
+    "Рахима Саджиресса.md",
+    "Личный дневник Райден.md",
     "Нисхождение в Авернус/Игровые персонажи/Райден.md",
+    "Нисхождение в Авернус/Сессии/Сессии.md",
+    "Нисхождение в Авернус/Нисхождение в Авернус.md",
     "Нисхождение в Авернус/Неигровые персонажи/Лисандра.md",
+    "Чионтар.md",
     "Нисхождение в Авернус/Неигровые персонажи/Неигровые персонажи.md",
     "Нисхождение в Авернус/Неигровые персонажи",
     "Нисхождение в Авернус/Игровые персонажи/Игровые персонажи.md",
-    "Личный дневник Райден.md",
     "Curse of Strahd/Эрнст Ларнак.md",
     "Curse of Strahd/Сессии/2023-08-03 Проклятье Страда.md",
     "Curse of Strahd/Сессии/2023-06-23 - Проклятье Страда.md",
@@ -230,15 +235,6 @@
     "Curse of Strahd/N2D. Винное хранилище.md",
     "Curse of Strahd/Сессии/2023-07-27- Проклятье Страда.md",
     "Curse of Strahd/Квест фей.md",
-    "Curse of Strahd/НПС/Зигфрек Белвью.md",
-    "Curse of Strahd/НПС/Отто Белвью.md",
-    "Curse of Strahd/Сессии/2023-08-03- Проклятье Страда.md",
-    "Curse of Strahd/Сессии/2023-07-13 - Проклятье Страда.md",
-    "Curse of Strahd/Сессии/2023-06-29 - Проклятье Страда.md",
-    "Curse of Strahd/Сессии/2023-07-20 - Проклятье Страда.md",
-    "Curse of Strahd/Башня мага.md",
-    "Curse of Strahd/Сессии/Совет Валлаки.md",
-    "Curse of Strahd/Валлаки/Области Валлаки.md",
     "Curse of Strahd/Валлаки",
     "Изображения/Pasted image 20230728145757.png",
     "Curse of Strahd/Сессии/Схема Квеста Фей.canvas",
