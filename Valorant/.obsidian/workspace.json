@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Viper/Haven/Good wall from B to A.md",
+                "file": "Viper/Bind (2023)/B-site Attacking setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Viper/Haven/Good wall from B to A.md",
+                "file": "Viper/Bind (2023)/B-site Attacking setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Viper/Haven/Good wall from B to A.md",
+                "file": "Viper/Bind (2023)/B-site Attacking setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Viper/Haven/Good wall from B to A.md"
+                "file": "Viper/Bind (2023)/B-site Attacking setup.md"
               }
             }
           },
@@ -174,6 +174,9 @@
   },
   "active": "6150d5d85922451b",
   "lastOpenFiles": [
+    "Viper/Bind (2023)/A-side Attacking setup.md",
+    "Viper/Bind (2023)/A-side Snake bite.md",
+    "Viper/Haven/Good wall from B to A.md",
     "Viper/Ascent/B-site Default plant snake bite 2.md",
     "Viper/Ascent/B-site Defending setup.md",
     "Viper/Ascent/Mid one-way.md",
@@ -187,9 +190,7 @@
     "Viper/Bind (2023)/B-site Snake bite Default.md",
     "Viper/Bind (2023)/B-site Attacking setup.md",
     "Viper/Bind (2023)/A-side Snake bite 2.md",
-    "Viper/Bind (2023)/A-side Snake bite.md",
     "Viper/Bind (2023)/A-side Attacking setup for showers.md",
-    "Viper/Bind (2023)/A-side Attacking setup.md",
     "Viper/Bind (2023)/Defending setup A and B.md",
     "Pictures/msedge_V1TODh8gxZ.png",
     "Pictures/Pasted image 20230722210033.png",
@@ -205,7 +206,6 @@
     "Viper/Bind (2023)",
     "Viper/Haven/C-site Open plant.md",
     "Viper/Haven/C-site Default plant.md",
-    "Viper/Haven/Good wall from B to A.md",
     "Viper/Haven/B-site Attacking setup (from garage).md",
     "Killjoy/Lotus/B-site Defending setup.md",
     "Killjoy/Lotus/A-site Defending setup (tree) 1.md",

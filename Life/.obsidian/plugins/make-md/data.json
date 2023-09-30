@@ -43,8 +43,8 @@
   "expandedSpaces": [
     null,
     "/",
-    null,
-    "Life"
+    "Life",
+    null
   ],
   "openFolders": [],
   "fileIcons": [],
@@ -74,7 +74,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1695371373697,
+  "spacesAutoBackupLast": 1695895212942,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",

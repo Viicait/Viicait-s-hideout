@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Места/Фронтир.md",
+                "file": "Рецепты/Салат с горбушей.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Места/Фронтир.md",
+                "file": "Рецепты/Салат с горбушей.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Места/Фронтир.md",
+                "file": "Рецепты/Салат с горбушей.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Места/Фронтир.md"
+                "file": "Рецепты/Салат с горбушей.md"
               }
             }
           },
@@ -167,6 +167,8 @@
   "active": "15f37f75c4b6fe5b",
   "lastOpenFiles": [
     "Места/Фронтир.md",
+    "Рецепты/Салат с горбушей.md",
+    "Рецепты",
     "Места",
     "Daily/Daily.md",
     "Быт/Чистка накипи кофемашины.md",
@@ -196,7 +198,6 @@
     "Characters/Citrinne.md",
     "Characters/Yunaka.md",
     "Characters/Chloe.md",
-    "Templates/Character name.md",
     "Characters/context.mdb",
     "Templates",
     "Files/cg_fe17_pact_ring_yunaka-1.webp",
