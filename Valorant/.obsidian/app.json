@@ -1,4 +1,14 @@
 {
+  "promptDelete": false,
   "spellcheckLanguages": null,
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A5",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
   "attachmentFolderPath": "Pictures"
 }

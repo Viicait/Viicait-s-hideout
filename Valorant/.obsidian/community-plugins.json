@@ -1,9 +1,12 @@
 [
-  "obsidian-style-settings",
   "table-editor-obsidian",
-  "dataview",
+  "buttons",
   "calendar",
+  "dataview",
   "obsidian-image-toolkit",
   "shortcuts-extender",
-  "make-md"
+  "obsidian-style-settings",
+  "templater-obsidian",
+  "make-md",
+  "callout-manager"
 ]

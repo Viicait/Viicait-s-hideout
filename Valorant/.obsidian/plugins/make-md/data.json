@@ -1,7 +1,9 @@
 {
   "defaultInitialization": false,
   "filePreviewOnHover": false,
+  "flowMenuEnabled": true,
   "markSans": false,
+  "blinkEnabled": true,
   "makeMenuPlaceholder": true,
   "mobileMakeBar": true,
   "inlineStyler": true,
@@ -28,30 +30,35 @@
   "spaceRowHeight": 29,
   "spacesDisablePatch": false,
   "folderNoteInsideFolder": true,
+  "folderNoteDefaultView": true,
   "sidebarTabs": true,
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedFolders": {
-    "/": [
-      "Viper",
-      "Viper/Bind (2023)"
+    "DnD": [
+      "Curse of Strahd/Сессии",
+      "Нисхождение в Авернус",
+      "Нисхождение в Авернус/Игровые персонажи",
+      "Нисхождение в Авернус/Неигровые персонажи",
+      "Нисхождение в Авернус",
+      "Нисхождение в Авернус/Игровые персонажи",
+      "Нисхождение в Авернус/Неигровые персонажи",
+      "Нисхождение в Авернус/Сессии"
     ]
   },
   "expandedSpaces": [
     "/",
     null,
+    "DnD",
     null
   ],
-  "folderRank": {
-    "node": "root",
-    "children": [],
-    "isFolder": true
-  },
   "openFolders": [],
   "fileIcons": [],
-  "spaces": [],
-  "pinnedSpaces": [],
+  "cachedSpaces": [
+    "DnD"
+  ],
   "menuTriggerChar": "/",
+  "inlineStickerMenu": true,
   "emojiTriggerChar": ":",
   "folderContextFile": "context",
   "tagContextFolder": "Context",
@@ -62,14 +69,24 @@
   "hiddenExtensions": [
     "mdb"
   ],
-  "vaultSort": [
-    "rank",
-    true
-  ],
-  "inlineBacklinks": true,
+  "inlineBacklinks": false,
   "inlineContext": true,
-  "inlineBacklinksExpanded": true,
+  "inlineBacklinksExpanded": false,
   "inlineContextExpanded": true,
+  "inlineContextSectionsExpanded": true,
   "dataviewInlineContext": false,
-  "inlineContextNameLayout": "vertical"
+  "inlineContextNameLayout": "vertical",
+  "spacesSyncLastUpdated": "Context/spacesLastSync.log",
+  "spacesSyncTimeoutSeconds": 10,
+  "spacesAutoBackup": true,
+  "spacesAutoBackupInterval": 10,
+  "spacesAutoBackupLast": 1696776228027,
+  "spacesUseAlias": false,
+  "precreateVaultSpace": true,
+  "fmKeyAlias": "alias",
+  "fmKeyBanner": "banner",
+  "fmKeyColor": "color",
+  "fmKeySticker": "sticker",
+  "openSpacesOnLaunch": true,
+  "indexSVG": false
 }

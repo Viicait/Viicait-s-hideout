@@ -1,5 +1,12 @@
 {
-  "accentColor": "#9dc11a",
+  "accentColor": "",
   "theme": "moonstone",
-  "cssTheme": "Prism"
+  "cssTheme": "AnuPpuccin",
+  "baseFontSize": 17,
+  "interfaceFontFamily": "",
+  "textFontFamily": "Candara",
+  "monospaceFontFamily": "",
+  "enabledCssSnippets": [
+    "anuppuccin-snippets"
+  ]
 }

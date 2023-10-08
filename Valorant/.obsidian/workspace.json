@@ -1,22 +1,55 @@
 {
   "main": {
-    "id": "feb306b0d9538eab",
+    "id": "4e8785139b0f5e85",
     "type": "split",
     "children": [
       {
-        "id": "6e16504b753ca945",
+        "id": "1850f075165ece39",
         "type": "tabs",
         "children": [
           {
-            "id": "6150d5d85922451b",
+            "id": "e14f061d26be2342",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Viper/Bind (2023)/B-site Attacking setup.md",
+                "file": "Viper/Breeze/Attack/A-site Attacking setup (Standart).md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "3ed285c6d4e0a51d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "4e501048af0e72df",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "02780126cc4174e7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b45817c50cf578ad",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +58,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e724bedfb43e6293",
+    "id": "9f9958dd76159cdc",
     "type": "split",
     "children": [
       {
-        "id": "b9ac1224a5335cd1",
+        "id": "e9b14541c2695d62",
         "type": "tabs",
         "children": [
           {
-            "id": "638cab8555ee503b",
+            "id": "e097e2ef7f50af53",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +76,12 @@
             }
           },
           {
-            "id": "735db481699214b7",
+            "id": "6644c4ef9407d31b",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "бушель",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,52 +91,43 @@
             }
           },
           {
-            "id": "8a9df6a93cc9c3f7",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "f32fcf706e0ca39a",
-            "type": "leaf",
-            "state": {
-              "type": "mk-file-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "63ff3d4c0c26ac63",
+            "id": "7e9b3e11538c9cff",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "75a7e15c49fbf521",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 326
   },
   "right": {
-    "id": "af30f9d06d816a8c",
+    "id": "6c78c8beeefcb937",
     "type": "split",
     "children": [
       {
-        "id": "34f51710668afeff",
+        "id": "fc3ff665bd8494e3",
         "type": "tabs",
         "children": [
           {
-            "id": "58b783b34470a06d",
+            "id": "c69626b9e086af27",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Viper/Bind (2023)/B-site Attacking setup.md",
-                "collapseAll": false,
+                "file": "Viper/Breeze/Attack/A-site Attacking setup (Standart).md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -114,19 +138,19 @@
             }
           },
           {
-            "id": "3ae3e6146eadffe9",
+            "id": "00bcabefe69fe8a8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Viper/Bind (2023)/B-site Attacking setup.md",
+                "file": "Viper/Breeze/Attack/A-site Attacking setup (Standart).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a585f5bc69f0dc2b",
+            "id": "4c27f73ab77306dc",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,29 +161,39 @@
             }
           },
           {
-            "id": "8b001a20467ead28",
+            "id": "ecbb3d5d29d1fc35",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Viper/Bind (2023)/B-site Attacking setup.md"
+                "file": "Viper/Breeze/Attack/A-site Attacking setup (Standart).md"
               }
             }
           },
           {
-            "id": "e66c7b9fea2adafd",
+            "id": "6044722201b98d31",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "044062b13c78c1c5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 363
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,48 +203,58 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "6150d5d85922451b",
+  "active": "e14f061d26be2342",
   "lastOpenFiles": [
-    "Viper/Bind (2023)/A-side Attacking setup.md",
-    "Viper/Bind (2023)/A-side Snake bite.md",
-    "Viper/Haven/Good wall from B to A.md",
-    "Viper/Ascent/B-site Default plant snake bite 2.md",
+    "Pictures/Pasted image 20231008174346.png",
+    "Pictures/Pasted image 20231008172732.png",
+    "Viper/Sunset/Defend/B-site Defending setup.md",
+    "Viper/Breeze/Attack/A-site Attacking setup (Standart).md",
+    "Viper/Breeze/Attack",
+    "Viper/Breeze",
+    "Pictures/Pasted image 20231008170539.png",
+    "Viper/Bind (2023)/Attack/B-site Attacking setup.md",
+    "Viper/Sunset/Defend",
+    "Viper/Sunset",
+    "Viper/Bind (2023)/Attack/A-side Snake bite.md",
+    "Viper/Bind (2023)/Attack/B-site Snake bite Default 2.md",
+    "Viper/Bind (2023)/Attack/B-site Snake bite Default.md",
+    "Viper/Bind (2023)/Attack/A-side Attacking setup.md",
+    "Viper/Bind (2023)/Attack/A-side Attacking setup for showers.md",
+    "Viper/Bind (2023)/Defend",
+    "Viper/Bind (2023)/Attack",
+    "Viper/Ascent/Attack/A-site Default plant snake bite.md",
+    "Viper/Haven/Attack",
+    "Viper/Ascent/Attack/B-site Default plant snake bite 2.md",
+    "Viper/Ascent/Attack/B-site Default plant snake bite 1.md",
+    "Viper/Ascent/Attack/A-site Open plant near boxes snake bite.md",
+    "Viper/Ascent/Attack/A-site Attacking setup.md",
+    "Viper/Ascent/A-site Defending setup + Mid control.md",
     "Viper/Ascent/B-site Defending setup.md",
     "Viper/Ascent/Mid one-way.md",
-    "Viper/Haven/A-site Defending setup.md",
-    "Viper/Haven/C-site Attacking setup.md",
-    "Viper/Haven/A-site Attacking setup.md",
-    "Viper/Haven/A-site Default plant.md",
-    "Viper/Bind (2023)/B-site Snake bite Default 2.md",
-    "Viper/Haven/Без названия.md",
-    "Viper/Bind (2023)/B-site Snake bite to deny plant.md",
-    "Viper/Bind (2023)/B-site Snake bite Default.md",
-    "Viper/Bind (2023)/B-site Attacking setup.md",
-    "Viper/Bind (2023)/A-side Snake bite 2.md",
-    "Viper/Bind (2023)/A-side Attacking setup for showers.md",
-    "Viper/Bind (2023)/Defending setup A and B.md",
-    "Pictures/msedge_V1TODh8gxZ.png",
-    "Pictures/Pasted image 20230722210033.png",
-    "Pictures/msedge_wCFElVqFIM.png",
-    "Pictures/msedge_5KfE5RFQQ2.png",
-    "Pictures/Pasted image 20230722205741.png",
-    "Pictures/Pasted image 20230722205726.png",
-    "Pictures/Pasted image 20230722205709.png",
-    "Pictures/Pasted image 20230722205655.png",
-    "Pictures/msedge_VGFYGgtr9k.png",
-    "Pictures/msedge_VXGK1oV9rr.jpg",
-    "Viper/Ascent/A-site Open plant near boxes snake bite.md",
-    "Viper/Bind (2023)",
-    "Viper/Haven/C-site Open plant.md",
-    "Viper/Haven/C-site Default plant.md",
-    "Viper/Haven/B-site Attacking setup (from garage).md",
-    "Killjoy/Lotus/B-site Defending setup.md",
-    "Killjoy/Lotus/A-site Defending setup (tree) 1.md",
-    "Killjoy/Lotus/A-site Defending setup (retake).md",
-    "Viper/Fracture/A-site Defending setup.md",
-    "Context"
+    "Viper/Ascent/Attack",
+    "Viper/Lotus/Attack/C-site Attacking setup.md",
+    "Pictures/Pasted image 20231008144742.png",
+    "Pictures/Pasted image 20231008144713.png",
+    "Pictures/Pasted image 20231008144409.png",
+    "Pictures/Pasted image 20231008144327.png",
+    "Viper/Lotus/Attack/B-site Attacking mollies.md",
+    "Pictures/Pasted image 20231008143652.png",
+    "Pictures/Pasted image 20231008143552.png",
+    "Pictures/Pasted image 20231008143530.png",
+    "Pictures/Pasted image 20231008143452.png",
+    "Viper/Lotus/Attack/B-site short Attacking wall.md",
+    "Viper/Lotus/Attack/B-site Attacking wall from A.md",
+    "Viper/Lotus/Attack/A-site Wall variations.md",
+    "Viper/Lotus/Attack/A-site Attacking setup.md",
+    "Viper/Lotus/Defend/A-site Orbs locations.md",
+    "Viper/Lotus/Attack",
+    "Viper/Lotus/Defend/C-site One-way Orb.md",
+    "Viper/Lotus/Defend/C to B Defending wall.md",
+    "Viper/Lotus/Defend",
+    "Curse of Strahd/Сессии/Схема Квеста Фей.canvas"
   ]
 }

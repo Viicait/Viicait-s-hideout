@@ -44,7 +44,11 @@
       "Моя хроника",
       "Моя хроника/Персонажи игроков",
       "Моя хроника",
-      "Моя хроника/НПС"
+      "Моя хроника/НПС",
+      "Моя хроника/Идеи",
+      "Моя хроника/Квесты",
+      "Моя хроника/НПС",
+      "Моя хроника/НПС/Лига Рассвета"
     ]
   },
   "expandedSpaces": [
@@ -81,7 +85,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1694966943143,
+  "spacesAutoBackupLast": 1696498912331,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",
