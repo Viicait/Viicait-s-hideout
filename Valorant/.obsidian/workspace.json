@@ -19,38 +19,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3ed285c6d4e0a51d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "4e501048af0e72df",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "02780126cc4174e7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b45817c50cf578ad",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ]
       }
@@ -207,12 +175,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e14f061d26be2342",
+  "active": "e097e2ef7f50af53",
   "lastOpenFiles": [
+    "Viper/Breeze/Attack/A-site Attacking setup (Standart).md",
     "Pictures/Pasted image 20231008174346.png",
     "Pictures/Pasted image 20231008172732.png",
     "Viper/Sunset/Defend/B-site Defending setup.md",
-    "Viper/Breeze/Attack/A-site Attacking setup (Standart).md",
     "Viper/Breeze/Attack",
     "Viper/Breeze",
     "Pictures/Pasted image 20231008170539.png",
@@ -245,7 +213,6 @@
     "Pictures/Pasted image 20231008143652.png",
     "Pictures/Pasted image 20231008143552.png",
     "Pictures/Pasted image 20231008143530.png",
-    "Pictures/Pasted image 20231008143452.png",
     "Viper/Lotus/Attack/B-site short Attacking wall.md",
     "Viper/Lotus/Attack/B-site Attacking wall from A.md",
     "Viper/Lotus/Attack/A-site Wall variations.md",
