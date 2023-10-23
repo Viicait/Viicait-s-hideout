@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Viper/Breeze/Attack/A-site Attacking setup (Standart).md",
+                "file": "Viper/Split (2023)/Defend/Mid and A defending setup.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Viper/Breeze/Attack/A-site Attacking setup (Standart).md",
+                "file": "Viper/Split (2023)/Defend/Mid and A defending setup.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Viper/Breeze/Attack/A-site Attacking setup (Standart).md",
+                "file": "Viper/Split (2023)/Defend/Mid and A defending setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Viper/Breeze/Attack/A-site Attacking setup (Standart).md"
+                "file": "Viper/Split (2023)/Defend/Mid and A defending setup.md"
               }
             }
           },
@@ -177,7 +177,15 @@
   },
   "active": "e097e2ef7f50af53",
   "lastOpenFiles": [
+    "Viper/Split (2023)/Defend/A-site Defending setup.md",
+    "Viper/Split (2023)/Defend/Mid and A defending setup.md",
+    "Viper/Split (2023)/Defend/B-site One-way (defending).md",
+    "Viper/Split (2023)/Attack/B-site Default plant snake bite.md",
+    "Viper/Split (2023)/Defend/A-site good wall.md",
+    "Viper/Split (2023)/Defend",
+    "Viper/Split (2023)/Defend/One-way for mid.md",
     "Viper/Breeze/Attack/A-site Attacking setup (Standart).md",
+    "Viper/Split (2023)/Attack",
     "Pictures/Pasted image 20231008174346.png",
     "Pictures/Pasted image 20231008172732.png",
     "Viper/Sunset/Defend/B-site Defending setup.md",
@@ -215,13 +223,6 @@
     "Pictures/Pasted image 20231008143530.png",
     "Viper/Lotus/Attack/B-site short Attacking wall.md",
     "Viper/Lotus/Attack/B-site Attacking wall from A.md",
-    "Viper/Lotus/Attack/A-site Wall variations.md",
-    "Viper/Lotus/Attack/A-site Attacking setup.md",
-    "Viper/Lotus/Defend/A-site Orbs locations.md",
-    "Viper/Lotus/Attack",
-    "Viper/Lotus/Defend/C-site One-way Orb.md",
-    "Viper/Lotus/Defend/C to B Defending wall.md",
-    "Viper/Lotus/Defend",
     "Curse of Strahd/Сессии/Схема Квеста Фей.canvas"
   ]
 }
