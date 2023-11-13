@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "dbdbdc65e5ad7db1",
+        "id": "ff01a79e413dac29",
         "type": "tabs",
         "children": [
           {
-            "id": "630a133d864b8a37",
+            "id": "85e352504065b98f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Моя хроника/Квесты/Главный квест.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b140247f481624c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,55 +32,7 @@
             }
           },
           {
-            "id": "8d37ba4a29d74e81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Моя хроника/НПС/Лига Рассвета/Структура Лиги.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08262e1cbb04a6c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Виктор Лебедев.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ad0c0200bc4c1e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Елена Соловьева.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "371e2f7173979886",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Родион Михайлов.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a305780c831351f7",
+            "id": "0e428c85e1fa009e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,119 +44,43 @@
             }
           },
           {
-            "id": "e6277e5f38c3f962",
+            "id": "e3fd2be2d1802772",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Моя хроника/НПС/Бароны/Александр Игоревич Лис.md",
+                "file": "Моя хроника/Персонажи игроков/Lana Richter.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c87c675ef9a8a493",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "792c5fb83993f59e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Рулбук/Тип Хищника.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f28f78f1ea27e5bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Моя хроника/Персонажи игроков/Дика.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed68f52e6e735911",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Рулбук/Сила крови.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d4a8825dfd16574",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Рулбук/Дисциплины.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0045d615c97525b6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "fe06a671f4ea35b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Рулбук/Поколение.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43e137c8d75ba44d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Моя хроника/Персонажи игроков/Лана.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75f3847465e80b30",
+            "id": "d58fc45e6f0ec057",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Моя хроника/НПС/Лилия Станкевич.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8bca88f98c28f0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Моя хроника/НПС/Алиса Кудрявцева.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -246,8 +134,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -267,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Моя хроника/НПС/Лилия Станкевич.md",
+                "file": "Моя хроника/Санкт-Петербург/Распределение власти в Питере.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Моя хроника/НПС/Лилия Станкевич.md",
+                "file": "Моя хроника/Санкт-Петербург/Распределение власти в Питере.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Моя хроника/НПС/Лилия Станкевич.md"
+                "file": "Моя хроника/Санкт-Петербург/Распределение власти в Питере.md"
               }
             }
           },
@@ -347,17 +234,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "75f3847465e80b30",
+  "active": "0e428c85e1fa009e",
   "lastOpenFiles": [
-    "Моя хроника/Персонажи игроков/Лана.md",
+    "Моя хроника/НПС/Лилия Станкевич.md",
     "Моя хроника/НПС/Алиса Кудрявцева.md",
+    "Моя хроника/Санкт-Петербург/Распределение власти в Питере.md",
+    "Моя хроника/Персонажи игроков/Лана.md",
+    "Моя хроника/Персонажи игроков/Lana Richter.md",
+    "Моя хроника/Квесты/Главный квест.md",
+    "Моя хроника/НПС/Евгений Волков.md",
+    "Моя хроника/Хроника/Хроника S-P by night.md",
+    "Моя хроника/Хроника",
+    "Моя хроника/НПС/Бароны/Екатерина Валентиновна Строганова.md",
+    "Моя хроника/Моя хроника.md",
+    "Моя хроника/Санкт-Петербург/Районы.md",
     "Моя хроника/НПС/Бароны/Александр Игоревич Лис.md",
     "Моя хроника/НПС/Бароны/Сергей Александрович Романов.md",
     "Моя хроника/НПС/Алексей Морозов.md",
     "Рулбук/Сила крови.md",
     "Рулбук/Поколение.md",
     "Untitled.md",
-    "Моя хроника/Санкт-Петербург/Распределение власти в Питере.md",
     "Моя хроника/НПС/Лига Рассвета/Структура Лиги.md",
     "Виктор Лебедев.md",
     "Родион Михайлов.md",
@@ -367,14 +263,6 @@
     "Моя хроника/НПС/Лига Рассвета/Структура Лиги (GigaPC conflicted copy 2023-10-04 13 31 03).md",
     "Моя хроника/НПС/Лига Рассвета/Лига Рассвета.md",
     "Моя хроника/НПС/НПС.md",
-    "Моя хроника/НПС/Илие.md",
-    "Моя хроника/НПС/Игорь Троицкий.md",
-    "Моя хроника/НПС/Елизавета Ростова.md",
-    "Моя хроника/НПС/Бароны/Екатерина Валентиновна Строганова.md",
-    "Моя хроника/НПС/Евгений Волков.md",
-    "Моя хроника/НПС/Диана Снежная.md",
-    "Моя хроника/НПС/Габриела.md",
-    "Моя хроника/НПС/Владимир Воронцов.md",
     "Моя хроника/НПС/Бароны",
     "Моя хроника/НПС/Лига Рассвета",
     "Моя хроника/Санкт-Петербург",
@@ -390,7 +278,6 @@
     "Моя хроника/НПС",
     "Моя хроника/Персонажи игроков",
     "Моя хроника",
-    "PDFs/WoD collection/Vampire꞉ The Masquerade/core/Vampire꞉ The Masquerade Rulebook (5th edition).pdf",
     "PDFs/WoD collection/Mage꞉ The Ascension/Mage Storytellers Screen (1st edition) scan.jpg",
     "Files/Jenya.png",
     "Files/sage.png"

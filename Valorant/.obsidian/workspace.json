@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Viper/Split (2023)/Defend/Mid and A defending setup.md",
+                "file": "Viper/Lotus/Attack/A-site Attacking setup.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Viper/Split (2023)/Defend/Mid and A defending setup.md",
+                "file": "Viper/Lotus/Attack/A-site Attacking setup.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Viper/Split (2023)/Defend/Mid and A defending setup.md",
+                "file": "Viper/Lotus/Attack/A-site Attacking setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Viper/Split (2023)/Defend/Mid and A defending setup.md"
+                "file": "Viper/Lotus/Attack/A-site Attacking setup.md"
               }
             }
           },
@@ -177,8 +177,9 @@
   },
   "active": "e097e2ef7f50af53",
   "lastOpenFiles": [
-    "Viper/Split (2023)/Defend/A-site Defending setup.md",
+    "Viper/Lotus/Defend/A-site Orbs locations.md",
     "Viper/Split (2023)/Defend/Mid and A defending setup.md",
+    "Viper/Split (2023)/Defend/A-site Defending setup.md",
     "Viper/Split (2023)/Defend/B-site One-way (defending).md",
     "Viper/Split (2023)/Attack/B-site Default plant snake bite.md",
     "Viper/Split (2023)/Defend/A-site good wall.md",
@@ -222,7 +223,6 @@
     "Pictures/Pasted image 20231008143552.png",
     "Pictures/Pasted image 20231008143530.png",
     "Viper/Lotus/Attack/B-site short Attacking wall.md",
-    "Viper/Lotus/Attack/B-site Attacking wall from A.md",
     "Curse of Strahd/Сессии/Схема Квеста Фей.canvas"
   ]
 }
