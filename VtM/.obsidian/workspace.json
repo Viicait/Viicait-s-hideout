@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Моя хроника/Санкт-Петербург/Распределение власти в Питере.md",
-                "mode": "source",
+                "file": "Моя хроника/Персонажи игроков/Лана.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Моя хроника/Персонажи игроков/Лана.md",
+                "file": "Моя хроника/НПС/Ева Снежная.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c11c28cae542cef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Моя хроника/НПС/Анна Райнхарт.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Рулбук/Общество Сородичей.md",
+                "file": "Моя хроника/Персонажи игроков/Дика.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,14 +121,49 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Котерия.md",
+                "file": "Рулбук/Вампиры.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd99ac112e7183a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Рулбук/Кланы/Тремер.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17a18f212d76a16c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Рулбук/Кровавая магия.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce304aa257f2ed7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Рулбук/Дисциплины.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +192,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Котерия",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,8 +217,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Котерия.md",
+                "file": "Моя хроника/Персонажи игроков/Лана.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Котерия.md",
+                "file": "Моя хроника/Персонажи игроков/Лана.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Котерия.md"
+                "file": "Моя хроника/Персонажи игроков/Лана.md"
               }
             }
           },
@@ -272,16 +318,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0e26b1ed980f596a",
+  "active": "85e352504065b98f",
   "lastOpenFiles": [
-    "Рулбук/Общество Сородичей.md",
-    "Котерия.md",
-    "Моя хроника/Персонажи игроков/Дика.md",
+    "Моя хроника/Санкт-Петербург/Распределение власти в Питере.md",
+    "Рулбук/Дисциплины.md",
+    "Моя хроника/НПС/Ева Снежная.md",
+    "Моя хроника/НПС/Диана Снежная.md",
+    "Files/Pasted image 20231125203517.png",
     "Моя хроника/Персонажи игроков/Лана.md",
+    "Рулбук/Кровавая магия.md",
+    "Рулбук/Кланы/Тремер.md",
+    "Рулбук/Вампиры.md",
+    "Котерия.md",
+    "Моя хроника/НПС/Анна Райнхарт.md",
+    "Моя хроника/Персонажи игроков/Дика.md",
+    "Рулбук/Общество Сородичей.md",
     "Моя хроника/НПС/Бароны/Екатерина Валентиновна Строганова.md",
     "Моя хроника/Хроника/Хроника S-P by night.md",
     "Моя хроника/Персонажи игроков/Lana Richter.md",
-    "Моя хроника/Санкт-Петербург/Распределение власти в Питере.md",
     "Моя хроника/Квесты/Главный квест.md",
     "Моя хроника/НПС/Лилия Станкевич.md",
     "Моя хроника/НПС/Алиса Кудрявцева.md",
@@ -294,13 +348,6 @@
     "Моя хроника/НПС/Алексей Морозов.md",
     "Рулбук/Сила крови.md",
     "Рулбук/Поколение.md",
-    "Untitled.md",
-    "Моя хроника/НПС/Лига Рассвета/Структура Лиги.md",
-    "Виктор Лебедев.md",
-    "Родион Михайлов.md",
-    "Елена Соловьева.md",
-    "Система анонимной связи Тень.md",
-    "Шифровальная программа Рассвет.md",
     "Моя хроника/НПС/Бароны",
     "Моя хроника/НПС/Лига Рассвета",
     "Моя хроника/Санкт-Петербург",
