@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "85e352504065b98f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Моя хроника/Персонажи игроков/Лана.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b78d8fe563de705",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Моя хроника/НПС/Бароны/Екатерина Валентиновна Строганова.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b140247f481624c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Моя хроника/НПС/Ева Снежная.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c11c28cae542cef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Моя хроника/НПС/Анна Райнхарт.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0e428c85e1fa009e",
             "type": "leaf",
             "state": {
@@ -68,24 +20,48 @@
             }
           },
           {
-            "id": "e3fd2be2d1802772",
+            "id": "f40845a9bec5dda5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Моя хроника/Персонажи игроков/Lana Richter.md",
+                "file": "Александр Коваленко.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d58fc45e6f0ec057",
+            "id": "d2122f7aea894761",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Моя хроника/НПС/Лилия Станкевич.md",
+                "file": "Моя хроника/НПС/Игорь Троицкий.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "080ed984b365a21d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Георгий Кахидзе.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a1604089cfece9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Моя хроника/Персонажи игроков/Лана.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,54 +92,39 @@
             }
           },
           {
-            "id": "0e26b1ed980f596a",
+            "id": "8072a186e1e1481b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Рулбук/Вампиры.md",
+                "file": "Моя хроника/НПС/Лилия Станкевич.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fd99ac112e7183a5",
+            "id": "6d4008d06c017454",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Рулбук/Кланы/Тремер.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "17a18f212d76a16c",
+            "id": "6aacf6dc65c5ac44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Рулбук/Кровавая магия.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce304aa257f2ed7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Рулбук/Дисциплины.md",
+                "file": "Призраки.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,18 +171,20 @@
             }
           },
           {
-            "id": "08d6ae6489fe4439",
+            "id": "96dff053b43d2bce",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 403
+    "width": 403,
+    "collapsed": true
   },
   "right": {
     "id": "6c78c8beeefcb937",
@@ -237,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Моя хроника/Персонажи игроков/Лана.md",
+                "file": "Александр Коваленко.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Моя хроника/Персонажи игроков/Лана.md",
+                "file": "Александр Коваленко.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -277,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Моя хроника/Персонажи игроков/Лана.md"
+                "file": "Александр Коваленко.md"
               }
             }
           },
@@ -304,7 +267,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -314,40 +277,42 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "85e352504065b98f",
+  "active": "f40845a9bec5dda5",
   "lastOpenFiles": [
+    "Моя хроника/Хроника/Хроника S-P by night.md",
+    "Александр Коваленко.md",
+    "Моя хроника/Персонажи игроков/Дика.md",
+    "Моя хроника/НПС/Игорь Троицкий.md",
+    "Моя хроника/Персонажи игроков/Лана.md",
+    "Георгий Кахидзе.md",
+    "Призраки.md",
+    "Вторая Чеченская война.md",
+    "Моя хроника/НПС/Алиса Кудрявцева.md",
+    "Моя хроника/НПС/Лилия Станкевич.md",
+    "New Blood StarterPack/NPC/Лилия Батуева.md",
+    "Моя хроника/НПС/Николай.md",
+    "Моя хроника/Персонажи игроков/Сигма.md",
+    "Моя хроника/Персонажи игроков/Lana Richter.md",
+    "Моя хроника/НПС/Анна Райнхарт.md",
+    "Моя хроника/НПС/Ева Снежная.md",
+    "Моя хроника/НПС/Бароны/Екатерина Валентиновна Строганова.md",
+    "Моя хроника/НПС/Бароны/Бароны.md",
+    "Рулбук/Котерия.md",
+    "Моя хроника/НПС/Лига Рассвета/Родион Михайлов.md",
+    "Моя хроника/НПС/Виктор Лебедев.md",
+    "VtM.md",
     "Моя хроника/Санкт-Петербург/Распределение власти в Питере.md",
     "Рулбук/Дисциплины.md",
-    "Моя хроника/НПС/Ева Снежная.md",
+    "Spaces/Home/Home.md",
+    "Spaces/Home",
+    "Spaces",
     "Моя хроника/НПС/Диана Снежная.md",
     "Files/Pasted image 20231125203517.png",
-    "Моя хроника/Персонажи игроков/Лана.md",
-    "Рулбук/Кровавая магия.md",
-    "Рулбук/Кланы/Тремер.md",
-    "Рулбук/Вампиры.md",
-    "Котерия.md",
-    "Моя хроника/НПС/Анна Райнхарт.md",
-    "Моя хроника/Персонажи игроков/Дика.md",
-    "Рулбук/Общество Сородичей.md",
-    "Моя хроника/НПС/Бароны/Екатерина Валентиновна Строганова.md",
-    "Моя хроника/Хроника/Хроника S-P by night.md",
-    "Моя хроника/Персонажи игроков/Lana Richter.md",
-    "Моя хроника/Квесты/Главный квест.md",
-    "Моя хроника/НПС/Лилия Станкевич.md",
-    "Моя хроника/НПС/Алиса Кудрявцева.md",
-    "Моя хроника/НПС/Евгений Волков.md",
     "Моя хроника/Хроника",
-    "Моя хроника/Моя хроника.md",
-    "Моя хроника/Санкт-Петербург/Районы.md",
-    "Моя хроника/НПС/Бароны/Александр Игоревич Лис.md",
-    "Моя хроника/НПС/Бароны/Сергей Александрович Романов.md",
-    "Моя хроника/НПС/Алексей Морозов.md",
-    "Рулбук/Сила крови.md",
-    "Рулбук/Поколение.md",
     "Моя хроника/НПС/Бароны",
     "Моя хроника/НПС/Лига Рассвета",
     "Моя хроника/Санкт-Петербург",
@@ -361,8 +326,6 @@
     "Files/Pasted image 20230717140927.png",
     "Files/Pasted image 20230717140747.png",
     "Моя хроника/НПС",
-    "Моя хроника/Персонажи игроков",
-    "Моя хроника",
     "PDFs/WoD collection/Mage꞉ The Ascension/Mage Storytellers Screen (1st edition) scan.jpg",
     "Files/Jenya.png",
     "Files/sage.png"

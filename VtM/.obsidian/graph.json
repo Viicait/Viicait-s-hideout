@@ -11,7 +11,7 @@
       "query": "path:\"Моя хроника\"  ",
       "color": {
         "a": 1,
-        "rgb": 7362288
+        "rgb": 2149163
       }
     },
     {
@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "path:\"New Blood StarterPack\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12586161
+      }
     }
   ],
   "collapse-display": false,
@@ -27,11 +34,11 @@
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 0.763541666666667,
   "lineSizeMultiplier": 1.325,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224446,
-  "close": false
+  "scale": 0.36288736930121523,
+  "close": true
 }
