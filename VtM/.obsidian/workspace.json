@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Моя хроника/Хроника/Хроника S-P by night.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Георгий Кахидзе.md",
+                "file": "Моя хроника/НПС/Габриела.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,8 +85,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Моя хроника/Персонажи игроков/Дика.md",
-                "mode": "source",
+                "file": "Моя хроника/Персонажи игроков/Сигма.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -123,8 +123,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Александр Коваленко.md",
+                "file": "Моя хроника/Хроника/Хроника S-P by night.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Александр Коваленко.md",
+                "file": "Моя хроника/Хроника/Хроника S-P by night.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Александр Коваленко.md"
+                "file": "Моя хроника/Хроника/Хроника S-P by night.md"
               }
             }
           },
@@ -281,21 +280,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f40845a9bec5dda5",
+  "active": "0e428c85e1fa009e",
   "lastOpenFiles": [
-    "Моя хроника/Хроника/Хроника S-P by night.md",
-    "Александр Коваленко.md",
+    "Моя хроника/Персонажи игроков/Сигма.md",
     "Моя хроника/Персонажи игроков/Дика.md",
+    "Моя хроника/Хроника/Хроника S-P by night.md",
+    "Моя хроника/НПС/Габриела.md",
+    "Моя хроника/НПС/Николай.md",
+    "Георгий Кахидзе.md",
+    "Александр Коваленко.md",
+    "Files/photo_2023-11-23_16-24-06.jpg",
     "Моя хроника/НПС/Игорь Троицкий.md",
     "Моя хроника/Персонажи игроков/Лана.md",
-    "Георгий Кахидзе.md",
     "Призраки.md",
     "Вторая Чеченская война.md",
     "Моя хроника/НПС/Алиса Кудрявцева.md",
     "Моя хроника/НПС/Лилия Станкевич.md",
     "New Blood StarterPack/NPC/Лилия Батуева.md",
-    "Моя хроника/НПС/Николай.md",
-    "Моя хроника/Персонажи игроков/Сигма.md",
     "Моя хроника/Персонажи игроков/Lana Richter.md",
     "Моя хроника/НПС/Анна Райнхарт.md",
     "Моя хроника/НПС/Ева Снежная.md",
@@ -310,7 +311,6 @@
     "Spaces/Home/Home.md",
     "Spaces/Home",
     "Spaces",
-    "Моя хроника/НПС/Диана Снежная.md",
     "Files/Pasted image 20231125203517.png",
     "Моя хроника/Хроника",
     "Моя хроника/НПС/Бароны",
@@ -327,7 +327,6 @@
     "Files/Pasted image 20230717140747.png",
     "Моя хроника/НПС",
     "PDFs/WoD collection/Mage꞉ The Ascension/Mage Storytellers Screen (1st edition) scan.jpg",
-    "Files/Jenya.png",
-    "Files/sage.png"
+    "Files/Jenya.png"
   ]
 }
