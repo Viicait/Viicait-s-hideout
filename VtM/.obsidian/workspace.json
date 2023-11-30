@@ -49,8 +49,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Моя хроника/НПС/Игорь Троицкий.md",
-                "mode": "source",
+                "file": "Персонал Black Dahlia.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -92,18 +92,6 @@
             }
           },
           {
-            "id": "8e758f427391c5b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Моя хроника/Санкт-Петербург/Распределение власти в Питере.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6d4008d06c017454",
             "type": "leaf",
             "state": {
@@ -114,21 +102,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6aacf6dc65c5ac44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Призраки.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -204,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Рулбук/Дисциплины.md",
+                "file": "Моя хроника/Хроника/Хроника S-P by night.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Рулбук/Дисциплины.md",
+                "file": "Моя хроника/Хроника/Хроника S-P by night.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Рулбук/Дисциплины.md"
+                "file": "Моя хроника/Хроника/Хроника S-P by night.md"
               }
             }
           },
@@ -285,22 +261,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2a1604089cfece9f",
+  "active": "6d4008d06c017454",
   "lastOpenFiles": [
-    "Моя хроника/Персонажи игроков/Сигма.md",
-    "Рулбук/Дисциплины.md",
-    "Призраки.md",
+    "Персонал Black Dahlia.md",
     "Моя хроника/Хроника/Хроника S-P by night.md",
+    "Моя хроника/Персонажи игроков/Сигма.md",
+    "Моя хроника/НПС/Габриела.md",
+    "Моя хроника/НПС/Нана.md",
+    "Моя хроника/НПС/Лилия Станкевич.md",
+    "Воркшопы.md",
+    "Моя хроника/НПС/Ева Снежная.md",
+    "Моя хроника/НПС/Игорь Троицкий.md",
+    "Призраки.md",
+    "Рулбук/Дисциплины.md",
     "Екатерина Лазарева.md",
     "Максим Краснов.md",
     "Files/DALL·E 2023-11-28 00.34.25 - A well-built man with an intimidating aura, 38 years old. He has short dark hair, penetrating dark brown eyes, and strong facial features with a defin.png",
     "Сделка Габриелы по строительству бизнес-хаба на Ваське.md",
-    "Моя хроника/НПС/Габриела.md",
     "Untitled.md",
     "Моя хроника/Персонажи игроков/Лана.md",
-    "Моя хроника/НПС/Лилия Станкевич.md",
     "Моя хроника/Санкт-Петербург/Распределение власти в Питере.md",
-    "Моя хроника/НПС/Игорь Троицкий.md",
     "Александр Коваленко.md",
     "Моя хроника/НПС/Алиса Кудрявцева.md",
     "Моя хроника/Персонажи игроков/Дика.md",
@@ -311,10 +291,6 @@
     "New Blood StarterPack/NPC/Лилия Батуева.md",
     "Моя хроника/Персонажи игроков/Lana Richter.md",
     "Моя хроника/НПС/Анна Райнхарт.md",
-    "Моя хроника/НПС/Ева Снежная.md",
-    "Моя хроника/НПС/Бароны/Екатерина Валентиновна Строганова.md",
-    "Моя хроника/НПС/Бароны/Бароны.md",
-    "Рулбук/Котерия.md",
     "Spaces/Home",
     "Spaces",
     "Files/Pasted image 20231125203517.png",
