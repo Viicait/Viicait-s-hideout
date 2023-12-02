@@ -102,6 +102,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "34ffc34a1744a7c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Моя хроника/НПС/Габриела.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69f6c57b43e79478",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Георгий Кахидзе.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 7
@@ -158,8 +182,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -263,17 +286,19 @@
   },
   "active": "6d4008d06c017454",
   "lastOpenFiles": [
-    "Персонал Black Dahlia.md",
-    "Моя хроника/Хроника/Хроника S-P by night.md",
-    "Моя хроника/Персонажи игроков/Сигма.md",
     "Моя хроника/НПС/Габриела.md",
+    "Моя хроника/Хроника/Хроника S-P by night.md",
+    "Георгий Кахидзе.md",
+    "Персонал Black Dahlia.md",
+    "Рулбук/Дисциплины.md",
+    "Рулбук/Исцеление.md",
+    "Моя хроника/Персонажи игроков/Сигма.md",
     "Моя хроника/НПС/Нана.md",
     "Моя хроника/НПС/Лилия Станкевич.md",
     "Воркшопы.md",
     "Моя хроника/НПС/Ева Снежная.md",
     "Моя хроника/НПС/Игорь Троицкий.md",
     "Призраки.md",
-    "Рулбук/Дисциплины.md",
     "Екатерина Лазарева.md",
     "Максим Краснов.md",
     "Files/DALL·E 2023-11-28 00.34.25 - A well-built man with an intimidating aura, 38 years old. He has short dark hair, penetrating dark brown eyes, and strong facial features with a defin.png",
@@ -285,12 +310,10 @@
     "Моя хроника/НПС/Алиса Кудрявцева.md",
     "Моя хроника/Персонажи игроков/Дика.md",
     "Моя хроника/НПС/Николай.md",
-    "Георгий Кахидзе.md",
     "Files/photo_2023-11-23_16-24-06.jpg",
     "Вторая Чеченская война.md",
     "New Blood StarterPack/NPC/Лилия Батуева.md",
     "Моя хроника/Персонажи игроков/Lana Richter.md",
-    "Моя хроника/НПС/Анна Райнхарт.md",
     "Spaces/Home",
     "Spaces",
     "Files/Pasted image 20231125203517.png",
