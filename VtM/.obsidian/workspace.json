@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "49805b152e24962b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Сделка Габриелы по строительству бизнес-хаба на Ваське.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e397ecac1552908a",
             "type": "leaf",
             "state": {
@@ -37,44 +25,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Александр Коваленко.md",
+                "file": "Александр Ковальский.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d2122f7aea894761",
+            "id": "d247b96948f03c76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Персонал Black Dahlia.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "080ed984b365a21d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Моя хроника/НПС/Габриела.md",
+                "file": "Моя хроника/Персонажи игроков/Дика.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a1604089cfece9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Рулбук/Дисциплины.md",
-                "mode": "preview",
                 "source": false
               }
             }
@@ -98,37 +62,37 @@
               "type": "markdown",
               "state": {
                 "file": "Моя хроника/Хроника/Хроника S-P by night.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34ffc34a1744a7c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Моя хроника/НПС/Габриела.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "69f6c57b43e79478",
+            "id": "35ae8d19f8ee0acf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Георгий Кахидзе.md",
+                "file": "Моя хроника/Квесты/Главный квест.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a00a113f825dd23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Моя хроника/НПС/Октавиан.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -286,13 +250,18 @@
   },
   "active": "6d4008d06c017454",
   "lastOpenFiles": [
-    "Моя хроника/НПС/Габриела.md",
+    "Моя хроника/Квесты/Главный квест.md",
+    "Моя хроника/НПС/Октавиан.md",
     "Моя хроника/Хроника/Хроника S-P by night.md",
-    "Георгий Кахидзе.md",
-    "Персонал Black Dahlia.md",
-    "Рулбук/Дисциплины.md",
-    "Рулбук/Исцеление.md",
+    "Александр Ковальский.md",
+    "Моя хроника/НПС/Габриела.md",
     "Моя хроника/Персонажи игроков/Сигма.md",
+    "Моя хроника/Персонажи игроков/Дика.md",
+    "Рулбук/Дисциплины.md",
+    "Персонал Black Dahlia.md",
+    "Сделка Габриелы по строительству бизнес-хаба на Ваське.md",
+    "Георгий Кахидзе.md",
+    "Рулбук/Исцеление.md",
     "Моя хроника/НПС/Нана.md",
     "Моя хроника/НПС/Лилия Станкевич.md",
     "Воркшопы.md",
@@ -302,18 +271,13 @@
     "Екатерина Лазарева.md",
     "Максим Краснов.md",
     "Files/DALL·E 2023-11-28 00.34.25 - A well-built man with an intimidating aura, 38 years old. He has short dark hair, penetrating dark brown eyes, and strong facial features with a defin.png",
-    "Сделка Габриелы по строительству бизнес-хаба на Ваське.md",
     "Untitled.md",
     "Моя хроника/Персонажи игроков/Лана.md",
     "Моя хроника/Санкт-Петербург/Распределение власти в Питере.md",
-    "Александр Коваленко.md",
     "Моя хроника/НПС/Алиса Кудрявцева.md",
-    "Моя хроника/Персонажи игроков/Дика.md",
     "Моя хроника/НПС/Николай.md",
     "Files/photo_2023-11-23_16-24-06.jpg",
     "Вторая Чеченская война.md",
-    "New Blood StarterPack/NPC/Лилия Батуева.md",
-    "Моя хроника/Персонажи игроков/Lana Richter.md",
     "Spaces/Home",
     "Spaces",
     "Files/Pasted image 20231125203517.png",
