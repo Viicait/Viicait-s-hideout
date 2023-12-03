@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Моя хроника/Хроника/Хроника S-P by night.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5a1042c2d0f54c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Персонал Black Dahlia.md",
+                "file": "Моя хроника/Квесты/Главный квест.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,6 +39,30 @@
               "state": {
                 "file": "Барное меню Black Dahlia.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f29660048e549529",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Моя хроника/НПС/Октавиан.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1248e2ba62f2da26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Моя хроника/Хроника/Хроника S-P by night.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -206,7 +218,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Персонал Black Dahlia.md",
+            "file": "Моя хроника/НПС/Октавиан.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -223,7 +235,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Персонал Black Dahlia.md",
+            "file": "Моя хроника/НПС/Октавиан.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -235,7 +247,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Персонал Black Dahlia.md"
+            "file": "Моя хроника/НПС/Октавиан.md"
           }
         }
       },
@@ -248,7 +260,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -262,15 +274,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e5a1042c2d0f54c5",
+  "active": "f29660048e549529",
   "lastOpenFiles": [
+    "Барное меню Black Dahlia.md",
+    "Моя хроника/Квесты/Главный квест.md",
     "Моя хроника/Хроника/Хроника S-P by night.md",
+    "Моя хроника/Персонажи игроков/Сигма.md",
     "Персонал Black Dahlia.md",
     "Георгий Кахидзе.md",
     "Почему Максим Краснов замечен рядом с Black Dahlia.md",
     "Конфликт между Тремер и Цимисхи - Лана и Сигма.md",
-    "Моя хроника/Персонажи игроков/Сигма.md",
-    "Барное меню Black Dahlia.md",
     "Максим Краснов.md",
     "Моя хроника/Моя хроника.md",
     "Моя хроника/НПС/Габриела.md",
