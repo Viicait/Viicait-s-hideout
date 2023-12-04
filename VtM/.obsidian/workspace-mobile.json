@@ -20,97 +20,33 @@
             }
           },
           {
-            "id": "0bc39e6edbe669e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Моя хроника/Персонажи игроков/Сигма.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e350884a2cd84b29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Барное меню Black Dahlia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f29660048e549529",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Моя хроника/НПС/Октавиан.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1248e2ba62f2da26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Моя хроника/Хроника/Хроника S-P by night.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "351d0adcb0d5dd0e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e9cf6bf68a05aa7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Моя хроника/НПС/Октавиан.md",
                 "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37079f1cf319ddd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Почему Максим Краснов замечен рядом с Black Dahlia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "243a8009bbf6978f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Максим Краснов.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6223660074efa250",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Конфликт между Тремер и Цимисхи - Лана и Сигма.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a14f12a8ce309b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Георгий Кахидзе.md",
-                "mode": "source",
                 "source": false
               }
             }
@@ -274,17 +210,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f29660048e549529",
+  "active": "e9cf6bf68a05aa7e",
   "lastOpenFiles": [
-    "Барное меню Black Dahlia.md",
-    "Моя хроника/Квесты/Главный квест.md",
     "Моя хроника/Хроника/Хроника S-P by night.md",
+    "Почему Максим Краснов замечен рядом с Black Dahlia.md",
+    "Максим Краснов.md",
+    "Конфликт между Тремер и Цимисхи - Лана и Сигма.md",
+    "Моя хроника/Квесты/Главный квест.md",
     "Моя хроника/Персонажи игроков/Сигма.md",
+    "Барное меню Black Dahlia.md",
+    "Моя хроника/НПС/Октавиан.md",
     "Персонал Black Dahlia.md",
     "Георгий Кахидзе.md",
-    "Почему Максим Краснов замечен рядом с Black Dahlia.md",
-    "Конфликт между Тремер и Цимисхи - Лана и Сигма.md",
-    "Максим Краснов.md",
     "Моя хроника/Моя хроника.md",
     "Моя хроника/НПС/Габриела.md",
     "Моя хроника/Персонажи игроков/Дика.md",
