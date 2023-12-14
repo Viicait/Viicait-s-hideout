@@ -32,27 +32,79 @@
             }
           },
           {
-            "id": "351d0adcb0d5dd0e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e9cf6bf68a05aa7e",
+            "id": "b0f65a5104519e8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Моя хроника/НПС/Октавиан.md",
+                "file": "Моя хроника/Персонажи игроков/Сигма.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f40af145ebd886fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Иосиф Белоусов.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6cf56235c584e8b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Кэтрин.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "351d0adcb0d5dd0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Георгий Кахидзе.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1bd05570a82b444d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Моя хроника/НПС/Бароны/Екатерина Валентиновна Строганова.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd2b49a190fe4180",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Екатерина Строганова хочет получить компромат на Сигму.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -154,7 +206,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Моя хроника/НПС/Октавиан.md",
+            "file": "Екатерина Строганова хочет получить компромат на Сигму.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -171,7 +223,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Моя хроника/НПС/Октавиан.md",
+            "file": "Екатерина Строганова хочет получить компромат на Сигму.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -183,7 +235,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Моя хроника/НПС/Октавиан.md"
+            "file": "Екатерина Строганова хочет получить компромат на Сигму.md"
           }
         }
       },
@@ -210,18 +262,29 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e9cf6bf68a05aa7e",
+  "active": "cd2b49a190fe4180",
   "lastOpenFiles": [
+    "Моя хроника/НПС/Бароны/Екатерина Валентиновна Строганова.md",
+    "Екатерина Строганова хочет получить компромат на Сигму.md",
+    "Георгий Кахидзе.md",
     "Моя хроника/Хроника/Хроника S-P by night.md",
+    "Рулбук/Дисциплины.md",
+    "Рулбук/Кланы/Тремер.md",
+    "Иосиф Белоусов.md",
+    "Моя хроника/Персонажи игроков/Сигма.md",
+    "Антон Березин.md",
+    "Моя хроника/НПС/Алиса Кудрявцева.md",
+    "Моя хроника/НПС/Октавиан.md",
+    "Моя хроника/Персонажи игроков/Лана.md",
+    "Asylum.md",
+    "Кэтрин.md",
+    "Виктор Грозный.md",
+    "Моя хроника/Квесты/Главный квест.md",
     "Почему Максим Краснов замечен рядом с Black Dahlia.md",
     "Максим Краснов.md",
     "Конфликт между Тремер и Цимисхи - Лана и Сигма.md",
-    "Моя хроника/Квесты/Главный квест.md",
-    "Моя хроника/Персонажи игроков/Сигма.md",
     "Барное меню Black Dahlia.md",
-    "Моя хроника/НПС/Октавиан.md",
     "Персонал Black Dahlia.md",
-    "Георгий Кахидзе.md",
     "Моя хроника/Моя хроника.md",
     "Моя хроника/НПС/Габриела.md",
     "Моя хроника/Персонажи игроков/Дика.md",
