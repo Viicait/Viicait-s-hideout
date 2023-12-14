@@ -8,60 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e397ecac1552908a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Моя хроника/НПС/Габриела.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f40845a9bec5dda5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Александр Ковальский.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d247b96948f03c76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Моя хроника/Персонажи игроков/Дика.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8bca88f98c28f0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Моя хроника/Санкт-Петербург/Распределение власти в Питере.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89d0edaf41733b5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Чжан Вэй.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,19 +44,51 @@
             }
           },
           {
-            "id": "7a00a113f825dd23",
+            "id": "c8bca88f98c28f0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Георгий Кахидзе.md",
+                "file": "Моя хроника/Санкт-Петербург/Распределение власти в Питере.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f03445ab2663127e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c0e882f7b65cce7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Моя хроника/Персонажи игроков/Сигма.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a89537881aeaeb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Последствия постоянного воздействия Доминирования на память и сознание людей.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -179,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Моя хроника/Хроника/Хроника S-P by night.md",
+                "file": "Последствия постоянного воздействия Доминирования на память и сознание людей.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Моя хроника/Хроника/Хроника S-P by night.md",
+                "file": "Последствия постоянного воздействия Доминирования на память и сознание людей.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Моя хроника/Хроника/Хроника S-P by night.md"
+                "file": "Последствия постоянного воздействия Доминирования на память и сознание людей.md"
               }
             }
           },
@@ -260,19 +244,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6d4008d06c017454",
+  "active": "6a89537881aeaeb4",
   "lastOpenFiles": [
+    "Моя хроника/Персонажи игроков/Сигма.md",
+    "Последствия постоянного воздействия Доминирования на память и сознание людей.md",
     "Моя хроника/Квесты/Главный квест.md",
     "Георгий Кахидзе.md",
-    "Моя хроника/НПС/Октавиан.md",
-    "Чжан Вэй.md",
-    "Моя хроника/Санкт-Петербург/Распределение власти в Питере.md",
-    "Моя хроника/Персонажи игроков/Сигма.md",
-    "Моя хроника/Хроника/Хроника S-P by night.md",
-    "Владимир Рыков.md",
-    "Александр Ковальский.md",
-    "Моя хроника/НПС/Габриела.md",
     "Моя хроника/Персонажи игроков/Дика.md",
+    "Моя хроника/НПС/Габриела.md",
+    "Александр Ковальский.md",
+    "Моя хроника/Санкт-Петербург/Распределение власти в Питере.md",
+    "Чжан Вэй.md",
+    "Моя хроника/Хроника/Хроника S-P by night.md",
+    "Моя хроника/НПС/Октавиан.md",
+    "Владимир Рыков.md",
     "Рулбук/Дисциплины.md",
     "Персонал Black Dahlia.md",
     "Сделка Габриелы по строительству бизнес-хаба на Ваське.md",
@@ -288,7 +273,6 @@
     "Files/DALL·E 2023-11-28 00.34.25 - A well-built man with an intimidating aura, 38 years old. He has short dark hair, penetrating dark brown eyes, and strong facial features with a defin.png",
     "Untitled.md",
     "Моя хроника/Персонажи игроков/Лана.md",
-    "Моя хроника/НПС/Алиса Кудрявцева.md",
     "Files/photo_2023-11-23_16-24-06.jpg",
     "Spaces/Home",
     "Spaces",
