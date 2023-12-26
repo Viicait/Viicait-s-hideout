@@ -6,7 +6,6 @@
       {
         "id": "ff01a79e413dac29",
         "type": "tabs",
-        "dimension": 70.65527065527066,
         "children": [
           {
             "id": "d247b96948f03c76",
@@ -27,32 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Моя хроника/Хроника/Хроника S-P by night.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "0248ef7e92e63ea6"
-          },
-          {
-            "id": "3cddd299bfd26ea4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Погоня за солнцем.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a89537881aeaeb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Моя хроника/НПС/Анна Райнхарт.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -70,36 +44,12 @@
             }
           },
           {
-            "id": "c8bca88f98c28f0b",
+            "id": "b70e910d224967e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Моя хроника/Санкт-Петербург/Распределение власти в Питере.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99b6ee5183d92ec8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Тень над Зимним дворцом.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da1360f21f77d313",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Моя хроника/НПС/Бароны/Екатерина Валентиновна Строганова.md",
+                "file": "Моя хроника/Общество Шепчущей Вуали/Общество Шепчущей Вуали.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,19 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Погоня за солнцем.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ffe2e0bd885c0b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Моя хроника/Персонажи игроков/Лана.md",
+                "file": "Моя хроника/Идеи/Погоня за солнцем.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,79 +73,170 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Власть в Питере до 2018 года.md",
+                "file": "Моя хроника/Санкт-Петербург/Распределение власти в Питере.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64f68194e3c50883",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Моя хроника/Приложение/Власть в Питере до 2018 года.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a6b4bdedc2cb0c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Моя хроника/Приложение/Тень над Зимним дворцом.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6918c1a9e100310",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Моя хроника/Персонажи игроков/Лана.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1eb680e84086e9d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Моя хроника/Персонажи игроков/Дика.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89f6a4b8f655e8e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Моя хроника/Персонажи игроков/Сигма.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ccb788dfc2cbaf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Моя хроника/НПС/Иосиф Белоусов.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9cb2dd638e24eba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Моя хроника/Идеи/Погоня за солнцем.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c97c083c59103327",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Моя хроника/НПС/Анна Райнхарт.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85e3a893066a37cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Моя хроника/Идеи/Идеи для будущих квестов.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ceea0fd888deacdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Моя хроника/НПС/Бароны/Сергей Александрович Романов.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "773a580cadd403c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Моя хроника/НПС/Габриела.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99623e518ca51d5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Моя хроника/Идеи/Сделка Габриелы по строительству бизнес-хаба на Ваське.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93cf16b7ea7ed467",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Моя хроника/НПС/Лига Рассвета/Структура Лиги.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
-      },
-      {
-        "id": "2058362b686a87e7",
-        "type": "tabs",
-        "dimension": 29.34472934472934,
-        "children": [
-          {
-            "id": "64640836b01fa944",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Моя хроника/Хроника/Хроника S-P by night.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "file:Лана",
-                      "color": {
-                        "a": 1,
-                        "rgb": 5836856
-                      }
-                    },
-                    {
-                      "query": "file:Сигма",
-                      "color": {
-                        "a": 1,
-                        "rgb": 9366257
-                      }
-                    },
-                    {
-                      "query": "file:Дика",
-                      "color": {
-                        "a": 1,
-                        "rgb": 0
-                      }
-                    }
-                  ],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            },
-            "group": "0248ef7e92e63ea6"
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -282,7 +311,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Моя хроника/Санкт-Петербург/Распределение власти в Питере.md",
+                "file": "Моя хроника/Хроника/Хроника S-P by night.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +328,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Моя хроника/Санкт-Петербург/Распределение власти в Питере.md",
+                "file": "Моя хроника/Хроника/Хроника S-P by night.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -322,7 +351,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Моя хроника/Санкт-Петербург/Распределение власти в Питере.md"
+                "file": "Моя хроника/Хроника/Хроника S-P by night.md"
               }
             }
           },
@@ -363,34 +392,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c8bca88f98c28f0b",
+  "active": "6d4008d06c017454",
   "lastOpenFiles": [
-    "Тень над Зимним дворцом.md",
-    "Моя хроника/Санкт-Петербург/Распределение власти в Питере.md",
-    "Власть в Питере до 2018 года.md",
-    "Моя хроника/НПС/Бароны/Екатерина Валентиновна Строганова.md",
-    "Моя хроника/НПС/Анна Райнхарт.md",
-    "Моя хроника/Хроника/Хроника S-P by night.md",
-    "Погоня за солнцем.md",
-    "Виктор Грозный.md",
-    "Моя хроника/Персонажи игроков/Лана.md",
-    "Рулбук/Допотопный.md",
-    "Книга Нод.md",
-    "Рулбук/Зов.md",
-    "Моя хроника/Квесты/Главный квест.md",
-    "Моя хроника/Персонажи игроков/Сигма.md",
-    "Последствия постоянного воздействия Доминирования на память и сознание людей.md",
-    "Георгий Кахидзе.md",
     "Моя хроника/Персонажи игроков/Дика.md",
+    "Моя хроника/Хроника/Хроника S-P by night.md",
+    "Моя хроника/Санкт-Петербург/Распределение власти в Питере.md",
     "Моя хроника/НПС/Габриела.md",
-    "Александр Ковальский.md",
-    "Чжан Вэй.md",
-    "Моя хроника/НПС/Октавиан.md",
-    "Владимир Рыков.md",
-    "Рулбук/Дисциплины.md",
-    "Персонал Black Dahlia.md",
-    "Сделка Габриелы по строительству бизнес-хаба на Ваське.md",
-    "Рулбук/Исцеление.md",
+    "Моя хроника/Квесты/Главный квест.md",
+    "Моя хроника/Идеи/Сделка Габриелы по строительству бизнес-хаба на Ваське.md",
+    "Моя хроника/НПС/Иосиф Белоусов.md",
+    "Моя хроника/Персонажи игроков/Сигма.md",
+    "Моя хроника/НПС/Бароны/Сергей Александрович Романов.md",
+    "Моя хроника/Идеи/Идеи для будущих квестов.md",
+    "Моя хроника/НПС/Анна Райнхарт.md",
+    "Моя хроника/Персонажи игроков/Лана.md",
+    "Моя хроника/Идеи/Погоня за солнцем.md",
+    "Моя хроника/НПС/Ева Снежная.md",
+    "Моя хроника/НПС/Лига Рассвета/Структура Лиги.md",
+    "Моя хроника/НПС/Лига Рассвета/Лига Рассвета.md",
+    "Дополнительная литература/Asylum.md",
+    "VtM.md",
+    "Моя хроника/НПС/Максим Краснов.md",
+    "Моя хроника/Общество Шепчущей Вуали",
+    "Моя хроника/НПС/Екатерина Лазарева.md",
+    "Моя хроника/НПС/Георгий Кахидзе.md",
+    "Дополнительная литература/Вторая Чеченская война.md",
+    "Дополнительная литература/Воркшопы.md",
+    "Моя хроника/Приложение/Барное меню Black Dahlia.md",
+    "Моя хроника/НПС/Виктор Грозный.md",
+    "Моя хроника/Приложение",
+    "Моя хроника/НПС/Владимир Рыков.md",
     "Files/DALL·E 2023-11-28 00.34.25 - A well-built man with an intimidating aura, 38 years old. He has short dark hair, penetrating dark brown eyes, and strong facial features with a defin.png",
     "Files/photo_2023-11-23_16-24-06.jpg",
     "Spaces/Home",
@@ -406,10 +437,8 @@
     "Моя хроника/Идеи",
     "Моя хроника/Квесты",
     "Files/Pasted image 20230725153531.png",
-    "НПС",
     "Files/Pasted image 20230717140927.png",
     "Files/Pasted image 20230717140747.png",
-    "Моя хроника/НПС",
     "PDFs/WoD collection/Mage꞉ The Ascension/Mage Storytellers Screen (1st edition) scan.jpg"
   ]
 }
