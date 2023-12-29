@@ -38,7 +38,11 @@
     "/": [
       "New Blood StarterPack"
     ],
-    "Fire Emblem Engage": []
+    "Fire Emblem Engage": [],
+    "Life": [
+      "Рецепты",
+      "Рецепты/НГ 2023-2024"
+    ]
   },
   "expandedSpaces": [
     null,
@@ -74,7 +78,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1695895212942,
+  "spacesAutoBackupLast": 1703858288013,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",

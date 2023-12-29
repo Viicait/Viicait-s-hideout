@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -166,8 +167,12 @@
   },
   "active": "15f37f75c4b6fe5b",
   "lastOpenFiles": [
-    "Места/Фронтир.md",
+    "Рецепты/НГ 2023-2024/Меню.md",
+    "Рецепты/НГ 2023-2024/НГ 2023-2024.md",
+    "Рецепты/НГ 2023-2024",
+    "Рецепты/Рецепты.md",
     "Рецепты/Салат с горбушей.md",
+    "Места/Фронтир.md",
     "Рецепты",
     "Места",
     "Daily/Daily.md",
@@ -195,9 +200,6 @@
     "Characters/Diamant.md",
     "Characters/Lapis.md",
     "Characters/Clanne.md",
-    "Characters/Citrinne.md",
-    "Characters/Yunaka.md",
-    "Characters/Chloe.md",
     "Characters/context.mdb",
     "Templates",
     "Files/cg_fe17_pact_ring_yunaka-1.webp",
