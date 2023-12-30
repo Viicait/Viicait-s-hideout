@@ -47,36 +47,24 @@
             "id": "f40af145ebd886fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Иосиф Белоусов.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "6cf56235c584e8b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Кэтрин.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "351d0adcb0d5dd0e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Георгий Кахидзе.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -90,21 +78,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "cd2b49a190fe4180",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Екатерина Строганова хочет получить компромат на Сигму.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,7 +182,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Екатерина Строганова хочет получить компромат на Сигму.md",
+            "file": "Моя хроника/Хроника/Хроника S-P by night.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -223,7 +199,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Екатерина Строганова хочет получить компромат на Сигму.md",
+            "file": "Моя хроника/Хроника/Хроника S-P by night.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -235,7 +211,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Екатерина Строганова хочет получить компромат на Сигму.md"
+            "file": "Моя хроника/Хроника/Хроника S-P by night.md"
           }
         }
       },
@@ -262,7 +238,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cd2b49a190fe4180",
+  "active": "eefc5bf82ba4ae57",
   "lastOpenFiles": [
     "Моя хроника/НПС/Бароны/Екатерина Валентиновна Строганова.md",
     "Екатерина Строганова хочет получить компромат на Сигму.md",
