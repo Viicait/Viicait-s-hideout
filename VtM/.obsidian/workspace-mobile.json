@@ -32,6 +32,42 @@
             }
           },
           {
+            "id": "e7778ac537f3a5c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Моя хроника/НПС/Анна Райнхарт.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a1b87bebbafe171",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Моя хроника/НПС/Алексей Морозов.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6250c96c7218240",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Маттео Росси.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b0f65a5104519e8b",
             "type": "leaf",
             "state": {
@@ -44,27 +80,15 @@
             }
           },
           {
-            "id": "f40af145ebd886fc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "6cf56235c584e8b4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "351d0adcb0d5dd0e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Моя хроника/НПС/Октавиан.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           },
           {
@@ -80,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -182,7 +206,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Моя хроника/Хроника/Хроника S-P by night.md",
+            "file": "Маттео Росси.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -199,7 +223,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Моя хроника/Хроника/Хроника S-P by night.md",
+            "file": "Маттео Росси.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -211,7 +235,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Моя хроника/Хроника/Хроника S-P by night.md"
+            "file": "Маттео Росси.md"
           }
         }
       },
@@ -238,33 +262,33 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eefc5bf82ba4ae57",
+  "active": "f6250c96c7218240",
   "lastOpenFiles": [
+    "Моя хроника/НПС/Алексей Морозов.md",
+    "Маттео Росси.md",
+    "Моя хроника/НПС/Анна Райнхарт.md",
+    "Моя хроника/Хроника/Хроника S-P by night.md",
+    "Моя хроника/Квесты/Главный квест.md",
+    "Моя хроника/НПС/Октавиан.md",
     "Моя хроника/НПС/Бароны/Екатерина Валентиновна Строганова.md",
     "Екатерина Строганова хочет получить компромат на Сигму.md",
     "Георгий Кахидзе.md",
-    "Моя хроника/Хроника/Хроника S-P by night.md",
     "Рулбук/Дисциплины.md",
     "Рулбук/Кланы/Тремер.md",
     "Иосиф Белоусов.md",
     "Моя хроника/Персонажи игроков/Сигма.md",
     "Антон Березин.md",
     "Моя хроника/НПС/Алиса Кудрявцева.md",
-    "Моя хроника/НПС/Октавиан.md",
     "Моя хроника/Персонажи игроков/Лана.md",
     "Asylum.md",
     "Кэтрин.md",
     "Виктор Грозный.md",
-    "Моя хроника/Квесты/Главный квест.md",
     "Почему Максим Краснов замечен рядом с Black Dahlia.md",
     "Максим Краснов.md",
     "Конфликт между Тремер и Цимисхи - Лана и Сигма.md",
     "Барное меню Black Dahlia.md",
     "Персонал Black Dahlia.md",
     "Моя хроника/Моя хроника.md",
-    "Моя хроника/НПС/Габриела.md",
-    "Моя хроника/Персонажи игроков/Дика.md",
-    "Daily/03-03-2023.md",
-    "Daily/12-03-2023.md"
+    "Моя хроника/НПС/Габриела.md"
   ]
 }
