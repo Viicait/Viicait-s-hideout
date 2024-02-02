@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Viper/Lotus/Attack/A-site Attacking setup.md",
+                "file": "Viper/Breeze/Attack/A-site Attacking setup (Standart).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Viper/Lotus/Attack/A-site Attacking setup.md",
+                "file": "Viper/Breeze/Attack/A-site Attacking setup (Standart).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Viper/Lotus/Attack/A-site Attacking setup.md",
+                "file": "Viper/Breeze/Attack/A-site Attacking setup (Standart).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Viper/Lotus/Attack/A-site Attacking setup.md"
+                "file": "Viper/Breeze/Attack/A-site Attacking setup (Standart).md"
               }
             }
           },
@@ -152,7 +153,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -175,8 +178,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e097e2ef7f50af53",
+  "active": "e14f061d26be2342",
   "lastOpenFiles": [
+    "Viper/Breeze/Attack/Attack.md",
+    "Viper/Ascent/Ascent.md",
+    "Viper/Lotus/Attack/A-site Attacking setup.md",
     "Viper/Lotus/Defend/A-site Orbs locations.md",
     "Viper/Split (2023)/Defend/Mid and A defending setup.md",
     "Viper/Split (2023)/Defend/A-site Defending setup.md",
@@ -213,16 +219,13 @@
     "Viper/Ascent/B-site Defending setup.md",
     "Viper/Ascent/Mid one-way.md",
     "Viper/Ascent/Attack",
-    "Viper/Lotus/Attack/C-site Attacking setup.md",
     "Pictures/Pasted image 20231008144742.png",
     "Pictures/Pasted image 20231008144713.png",
     "Pictures/Pasted image 20231008144409.png",
     "Pictures/Pasted image 20231008144327.png",
-    "Viper/Lotus/Attack/B-site Attacking mollies.md",
     "Pictures/Pasted image 20231008143652.png",
     "Pictures/Pasted image 20231008143552.png",
     "Pictures/Pasted image 20231008143530.png",
-    "Viper/Lotus/Attack/B-site short Attacking wall.md",
     "Curse of Strahd/Сессии/Схема Квеста Фей.canvas"
   ]
 }

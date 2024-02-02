@@ -32,187 +32,31 @@
             }
           },
           {
-            "id": "4aab5f7b19692c38",
+            "id": "815b15586a9f2b33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ужин Сигмы с Сергеем Романовым, ночь с 14 на 15 октября.md",
+                "file": "Моя хроника/НПС/Алексей Морозов.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e17fbd19b3a03471",
+            "id": "7f5f80de147a0222",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Моя хроника/НПС/Бароны/Сергей Александрович Романов.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7053324217a90aa6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Моя хроника/Санкт-Петербург/Распределение власти в Питере.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "645c54d02afa7cc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Моя хроника/НПС/Анна Райнхарт.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b3cc5915831aaa9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Моя хроника/Идеи/Погоня за солнцем.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e17df369ca34e59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Как Анна пережила обращение Ланы в 1910 году.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "64b9077116596c31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ужин Сигмы с Сергеем Романовым, ночь с 14 на 15 октября.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8a1770667b9d22e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Моя хроника/НПС/Габриела.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39d98d50ab8ae874",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Моя хроника/Идеи/Сделка Габриелы по строительству бизнес-хаба на Ваське.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c044e1d74ea7df98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Моя хроника/Санкт-Петербург/Распределение власти в Питере.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af5cdee257abe825",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Моя хроника/Квесты/Главный квест.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2ba50c44df78792",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Моя хроника/НПС/Кэтрин.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a779d0860d317d39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Моя хроника/НПС/Габриела.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c90e78f1d131385",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Моя хроника/Персонажи игроков/Лана.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d1dfb2a94cca735",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Моя хроника/НПС/Октавиан.md",
+                "file": "Григорий Распутин.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -287,8 +131,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ужин Сигмы с Сергеем Романовым, ночь с 14 на 15 октября.md",
-                "collapseAll": false,
+                "file": "Моя хроника/Хроника/Хроника S-P by night.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -304,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ужин Сигмы с Сергеем Романовым, ночь с 14 на 15 октября.md",
+                "file": "Моя хроника/Хроника/Хроника S-P by night.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -327,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ужин Сигмы с Сергеем Романовым, ночь с 14 на 15 октября.md"
+                "file": "Моя хроника/Хроника/Хроника S-P by night.md"
               }
             }
           },
@@ -351,7 +195,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -369,17 +214,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4aab5f7b19692c38",
+  "active": "026b9a5d21deed8e",
   "lastOpenFiles": [
-    "Моя хроника/Санкт-Петербург/Распределение власти в Питере.md",
-    "Ужин Сигмы с Сергеем Романовым, ночь с 14 на 15 октября.md",
-    "Моя хроника/НПС/Бароны/Сергей Александрович Романов.md",
+    "Моя хроника/НПС/Алексей Морозов.md",
+    "Григорий Распутин.md",
     "Моя хроника/Хроника/Хроника S-P by night.md",
-    "Моя хроника/НПС/Октавиан.md",
+    "Моя хроника/НПС/Габриела.md",
+    "Ужин Сигмы с Сергеем Романовым, ночь с 14 на 15 октября.md",
     "Моя хроника/Персонажи игроков/Сигма.md",
+    "Маттео Росси.md",
+    "Моя хроника/Санкт-Петербург/Распределение власти в Питере.md",
+    "Моя хроника/НПС/Бароны/Сергей Александрович Романов.md",
+    "Моя хроника/НПС/Октавиан.md",
     "Моя хроника/Идеи/Погоня за солнцем.md",
     "Моя хроника/НПС/Анна Райнхарт.md",
-    "Моя хроника/НПС/Габриела.md",
     "Моя хроника/Идеи/Сделка Габриелы по строительству бизнес-хаба на Ваське.md",
     "Моя хроника/НПС/Кэтрин.md",
     "Моя хроника/Персонажи игроков/Лана.md",
@@ -394,10 +242,7 @@
     "Моя хроника/НПС/Ева Снежная.md",
     "Моя хроника/НПС/Лига Рассвета/Лига Рассвета.md",
     "Дополнительная литература/Asylum.md",
-    "VtM.md",
-    "Моя хроника/НПС/Максим Краснов.md",
     "Моя хроника/Общество Шепчущей Вуали",
-    "Моя хроника/НПС/Екатерина Лазарева.md",
     "Моя хроника/Приложение",
     "Files/DALL·E 2023-11-28 00.34.25 - A well-built man with an intimidating aura, 38 years old. He has short dark hair, penetrating dark brown eyes, and strong facial features with a defin.png",
     "Files/photo_2023-11-23_16-24-06.jpg",

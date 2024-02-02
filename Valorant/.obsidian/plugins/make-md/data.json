@@ -43,7 +43,10 @@
       "Нисхождение в Авернус",
       "Нисхождение в Авернус/Игровые персонажи",
       "Нисхождение в Авернус/Неигровые персонажи",
-      "Нисхождение в Авернус/Сессии"
+      "Нисхождение в Авернус/Сессии",
+      "Viper",
+      "Viper/Breeze",
+      "Viper/Breeze/Attack"
     ]
   },
   "expandedSpaces": [
@@ -80,7 +83,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1696958218619,
+  "spacesAutoBackupLast": 1705048488246,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",
