@@ -1,6 +1,6 @@
 {
   "settings": {
-    "migrated": true,
+    "migrated": 4,
     "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
     "fontSize": 16,
     "emojiStyle": "none",
@@ -15,7 +15,13 @@
       "right": 4,
       "bottom": 0,
       "left": 0
-    }
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":"
   },
   "Книги": "DoBook-fill"
 }

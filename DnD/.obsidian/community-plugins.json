@@ -8,5 +8,10 @@
   "obsidian-style-settings",
   "templater-obsidian",
   "make-md",
-  "callout-manager"
+  "callout-manager",
+  "obsidian-icon-folder",
+  "obsidian-dice-roller",
+  "obsidian-attachment-name-formatting",
+  "multi-column-markdown",
+  "obsidian-excalidraw-plugin"
 ]
