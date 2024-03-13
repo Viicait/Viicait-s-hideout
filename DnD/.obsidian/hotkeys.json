@@ -18,9 +18,9 @@
   "editor:insert-wikilink": [
     {
       "modifiers": [
-        "Alt"
+        "Mod"
       ],
-      "key": "Q"
+      "key": "R"
     }
   ]
 }

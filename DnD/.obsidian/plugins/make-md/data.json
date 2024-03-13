@@ -39,7 +39,9 @@
     "/",
     null,
     "DnD",
-    null
+    null,
+    "//Шутземелье",
+    "//Шутземелье/Шутземелье/Локации"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
