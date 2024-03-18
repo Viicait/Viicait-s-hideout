@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "4e8785139b0f5e85",
+    "type": "split",
+    "children": [
+      {
+        "id": "e981631eb1b36fa2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4d3c5913b0c1741",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Кампания/Игровые персонажи даггерхарта/Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "83d483346241edb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b4a3f0aeaa8f026",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f9958dd76159cdc",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9b14541c2695d62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e097e2ef7f50af53",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6644c4ef9407d31b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7e9b3e11538c9cff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "ad4272f5bf7974f1",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "ff5bdf741f4d8a5c",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 326
+  },
+  "right": {
+    "id": "6c78c8beeefcb937",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc3ff665bd8494e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c69626b9e086af27",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Кампания/Игровые персонажи даггерхарта/Untitled.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "00bcabefe69fe8a8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Кампания/Игровые персонажи даггерхарта/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4c27f73ab77306dc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ecbb3d5d29d1fc35",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Кампания/Игровые персонажи даггерхарта/Untitled.md"
+              }
+            }
+          },
+          {
+            "id": "6044722201b98d31",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "044062b13c78c1c5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "058fc08871e5a9f6",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 409,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "e097e2ef7f50af53",
+  "lastOpenFiles": [
+    "_PDFs",
+    "Кампания/Игровые персонажи даггерхарта",
+    "Welcome.md",
+    "Кампания/Игровые персонажи даггерхарта/Untitled.md",
+    "_Templates",
+    "_Files",
+    "Кампания",
+    "Spaces/Home",
+    "Spaces",
+    "Нисхождение в Аверно/Игровые персонажи/Астория Стелларис/Снаряжение Астории.md",
+    "_Изображения/Pasted Image 20240309224807_868.png",
+    "Нисхождение в Аверно/Сессии/9 сессия - 25 февраля 2024 года.md",
+    "Рэя Ментелморн.md",
+    "Тейвиус Криг.md",
+    "Фаластер Фиск.md",
+    "Сатиир Тион Хьюн.md",
+    "Летающая обезьяна.md",
+    "Нисхождение в Аверно/Сессии/30 сентября.md",
+    "Нисхождение в Аверно/Игровые персонажи/Астория Стелларис/Хронология превращения Астории.md",
+    "Нисхождение в Аверно/Игровые персонажи/Астория Стелларис/Астория Стелларис.md",
+    "Нисхождение в Аверно/Игровые персонажи/Астория Стелларис/Астория Стелларис - ослепительная бардка.md",
+    "Шутземелье/Локации/Сильверимун.md",
+    "Отыгрыш Праманикс.md",
+    "Шутземелье/Заметки/1 сессия - 9 марта 2024.md",
+    "Шутземелье/Заметки/1 сессия - 9 марта 2024 (GigaPC conflicted copy 2024-03-09 13 46 37).md",
+    "Шутземелье/Заметки",
+    "Шутземелье/Игровые персонажи - Шутземелье/Праманикс/Эни Сильвереш - избранная Морриган.md",
+    "Морриган.md",
+    "_Изображения/Морриган_image_2.jpg",
+    "_Изображения/Морриган_image_1.jpg",
+    "Шутземелье/Игровые персонажи - Шутземелье/Праманикс/Праманикс.md",
+    "_Templates/PC Character.md",
+    "Шутземелье/НПС - Шутземелье/Мира.md",
+    "Шутземелье/НПС - Шутземелье",
+    "_Изображения/Эни Сильвереш - избранная Морриган_image_4.jpg",
+    "_Изображения/Эни Сильвереш - избранная Морриган_image_3.jpg",
+    "_Изображения/Эни Сильвереш - избранная Морриган_image_2.jpg",
+    "_Изображения/Эни Сильвереш - избранная Морриган_image_1.jpg",
+    "Шутземелье/Локации",
+    "Шутземелье/Игровые персонажи - Шутземелье/Праманикс",
+    "_Изображения/Pasted Image 20240308024354_884.png",
+    "_Изображения/Pasted Image 20240308024239_882.png",
+    "_Изображения/Pasted Image 20240308024039_873.png",
+    "Нисхождение в Аверно/Неигровые персонажи/Хэнерс Птичка Вингроус.md",
+    "Нисхождение в Аверно/Игровые персонажи/Астория Стелларис/Untitled.md",
+    "Окружающая среда/Ловушки/Отравленные дротики.md",
+    "Curse of Strahd/Сессии/Схема Квеста Фей.canvas"
+  ]
+}
