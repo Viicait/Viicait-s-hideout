@@ -22,5 +22,14 @@
       ],
       "key": "R"
     }
+  ],
+  "obisidian-note-linker:open-note-linker": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "M"
+    }
   ]
 }
