@@ -6,71 +6,35 @@
       {
         "id": "fc07dbb7e4eaa110",
         "type": "tabs",
-        "dimension": 57.01492537313433,
+        "dimension": 49.05533063427801,
         "children": [
           {
-            "id": "6b9da3e7e3e214e4",
+            "id": "eb334302f6cbd07c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Моя хроника/НПС/Анна/Анна Райнхарт.md",
+                "file": "Моя хроника/НПС/Алиса Кудрявцева.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "1d97ab6cedcd2a7e",
+        "type": "tabs",
+        "dimension": 50.94466936572199,
+        "children": [
           {
-            "id": "eb334302f6cbd07c",
+            "id": "c667294199ef7cca",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Моя хроника/Drawing 2024-03-24 18.19.33.excalidraw.md"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "bb8b94d62b2f985e",
-        "type": "tabs",
-        "dimension": 42.98507462686567,
-        "children": [
-          {
-            "id": "4669f762d526e0ef",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Моя хроника/Drawing 2024-03-24 18.19.33.excalidraw.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.713275462622442,
-                  "close": false
-                }
+                "file": "excalibrain.md"
               }
             }
           }
@@ -156,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Моя хроника/Drawing 2024-03-24 18.19.33.excalidraw.md",
+                "file": "Моя хроника/НПС/Алиса Кудрявцева.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Моя хроника/Drawing 2024-03-24 18.19.33.excalidraw.md",
+                "file": "Моя хроника/НПС/Алиса Кудрявцева.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Моя хроника/Drawing 2024-03-24 18.19.33.excalidraw.md"
+                "file": "Моя хроника/НПС/Алиса Кудрявцева.md"
               }
             }
           },
@@ -221,7 +185,7 @@
             }
           },
           {
-            "id": "058fc08871e5a9f6",
+            "id": "4270cd2c19ea2cb4",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -251,8 +215,16 @@
   },
   "active": "eb334302f6cbd07c",
   "lastOpenFiles": [
-    "Моя хроника/Drawing 2024-03-24 18.19.33.excalidraw.md",
+    "excalibrain.md",
     "Моя хроника/НПС/Анна/Анна Райнхарт.md",
+    "Моя хроника/Схема отношений в хронике.md",
+    "Моя хроника/Схема отношений моей хроники.canvas",
+    "Моя хроника/Untitled Kanban.md",
+    "Моя хроника/Drawing 2024-03-24 18.19.33.excalidraw.md",
+    "Моя хроника/НПС/Анна/Как Анна пережила обращение Ланы в 1910 году.md",
+    "Моя хроника/Персонажи игроков/Лана/Лана.md",
+    "Моя хроника/Персонажи игроков/Лана.md",
+    "Моя хроника/НПС/Анна Райнхарт.md",
     "Files",
     "_Files/Анна Райнхарт_image_1.webp",
     "Моя хроника/Идеи/Екатерина Строганова хочет получить компромат на Сигму.md",
@@ -279,15 +251,8 @@
     "Затерянные рудники Фандервела/НПС Рудников Фандервела/Гандрен Роксикер.md",
     "Затерянные рудники Фандервела/НПС Рудников Фандервела/Сильдар Холлвинтер.md",
     "Правила/Фракции/Альянс Лордов.md",
-    "Затерянные рудники Фандервела/Игровые персонажи/Эшли.md",
     "Затерянные рудники Фандервела/Игровые персонажи/Камилла",
-    "Затерянные рудники Фандервела/Игровые персонажи/Камилла/Омар.md",
     "Правила/Фракции",
-    "Затерянные рудники Фандервела/НПС Рудников Фандервела/Айзен.md",
-    "Затерянные рудники Фандервела/НПС Рудников Фандервела/Паук.md",
-    "Затерянные рудники Фандервела/НПС Рудников Фандервела/Гролл.md",
-    "Затерянные рудники Фандервела/Локации Рудников Фандервела/Замок Каменной пасти.md",
-    "Заклинания/Разговор с животными (Speak with animals).md",
     "Затерянные рудники Фандервела/Игровые персонажи/Фрирен/Умения Фрирен/Книга заклинаний Фрирен.canvas",
     "_Изображения/Pasted Image 20240320202313_546.png",
     "_Изображения/Pasted Image 20240320174552_780.jpg",

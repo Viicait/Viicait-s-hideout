@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"46a7ca652d1f0f5d","type":"file","file":"Моя хроника/НПС/Анна/Анна Райнхарт.md","x":-1040,"y":-600,"width":660,"height":660},
+		{"id":"51b0b3d044653d36","x":-910,"y":400,"width":400,"height":400,"type":"file","file":"Моя хроника/Персонажи игроков/Лана/Лана.md"}
+	],
+	"edges":[
+		{"id":"be7562ff041be6fa","fromNode":"46a7ca652d1f0f5d","fromSide":"bottom","toNode":"51b0b3d044653d36","toSide":"top","label":"Сир"}
+	]
+}
