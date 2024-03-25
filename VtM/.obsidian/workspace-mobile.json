@@ -13,110 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Моя хроника/Квесты/Главный квест.md",
+                "file": "Нисхождение в Аверно/Игровые персонажи/Астория Стелларис/Хронология превращения Астории.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1248e2ba62f2da26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Моя хроника/Хроника/Хроника S-P by night.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5919a2b757cf03ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Моя хроника/НПС/Кэтрин.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7778ac537f3a5c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Моя хроника/НПС/Анна Райнхарт.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a1b87bebbafe171",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Моя хроника/НПС/Алексей Морозов.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6250c96c7218240",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Маттео Росси.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0f65a5104519e8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Моя хроника/Персонажи игроков/Сигма.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cf56235c584e8b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Моя хроника/НПС/Октавиан.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1bd05570a82b444d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Моя хроника/НПС/Бароны/Екатерина Валентиновна Строганова.md",
-                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +74,7 @@
         }
       },
       {
-        "id": "394636cd9a884966",
+        "id": "79e3a1ba81724b62",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -180,7 +84,7 @@
         }
       },
       {
-        "id": "4abe1d11d376c292",
+        "id": "63ed31688be3419b",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -188,7 +92,7 @@
         }
       },
       {
-        "id": "05ec411985bd0e3b",
+        "id": "80a19597f3f1ac66",
         "type": "leaf",
         "state": {
           "type": "mk-file-view",
@@ -196,12 +100,14 @@
         }
       },
       {
-        "id": "5f964e7e2141e954",
+        "id": "d38035014a34f4ab",
         "type": "leaf",
         "state": {
           "type": "all-properties",
           "state": {
-            "sortOrder": "frequency"
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
           }
         }
       }
@@ -218,14 +124,14 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Моя хроника/Хроника/Хроника S-P by night.md",
+            "file": "Нисхождение в Аверно/Игровые персонажи/Астория Стелларис/Хронология превращения Астории.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
             "backlinkCollapsed": false,
-            "unlinkedCollapsed": false
+            "unlinkedCollapsed": true
           }
         }
       },
@@ -235,7 +141,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Моя хроника/Хроника/Хроника S-P by night.md",
+            "file": "Нисхождение в Аверно/Игровые персонажи/Астория Стелларис/Хронология превращения Астории.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -247,7 +153,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Моя хроника/Хроника/Хроника S-P by night.md"
+            "file": "Нисхождение в Аверно/Игровые персонажи/Астория Стелларис/Хронология превращения Астории.md"
           }
         }
       },
@@ -260,7 +166,7 @@
         }
       }
     ],
-    "currentTab": 2
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -274,33 +180,29 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eefc5bf82ba4ae57",
+  "active": "ae9545ca25a0bb18",
   "lastOpenFiles": [
-    "Потайной кабинет Кэтрин.md",
-    "Моя хроника/Хроника/Хроника S-P by night.md",
-    "Моя хроника/НПС/Кэтрин.md",
-    "Маттео Росси.md",
-    "Моя хроника/НПС/Алексей Морозов.md",
-    "Моя хроника/НПС/Анна Райнхарт.md",
-    "Моя хроника/Квесты/Главный квест.md",
-    "Моя хроника/НПС/Октавиан.md",
-    "Моя хроника/НПС/Бароны/Екатерина Валентиновна Строганова.md",
-    "Екатерина Строганова хочет получить компромат на Сигму.md",
-    "Георгий Кахидзе.md",
-    "Рулбук/Дисциплины.md",
-    "Рулбук/Кланы/Тремер.md",
-    "Иосиф Белоусов.md",
-    "Моя хроника/Персонажи игроков/Сигма.md",
-    "Антон Березин.md",
-    "Моя хроника/НПС/Алиса Кудрявцева.md",
-    "Моя хроника/Персонажи игроков/Лана.md",
-    "Asylum.md",
-    "Кэтрин.md",
-    "Виктор Грозный.md",
-    "Почему Максим Краснов замечен рядом с Black Dahlia.md",
-    "Максим Краснов.md",
-    "Конфликт между Тремер и Цимисхи - Лана и Сигма.md",
-    "Барное меню Black Dahlia.md",
-    "Персонал Black Dahlia.md"
+    "Нисхождение в Аверно/Игровые персонажи/Астория Стелларис/Астория Стелларис - ослепительная бардка.md",
+    "Нисхождение в Аверно/Игровые персонажи/Астория Стелларис/Хронология превращения Астории.md",
+    "Нисхождение в Аверно/Игровые персонажи/Астория Стелларис",
+    "Нисхождение в Авернус/Сессии/30 сентября.md",
+    "Нисхождение в Авернус/Сессии/1-2 сессии от 15-16 сентября.md",
+    "Нисхождение в Авернус/Сессии/Сессии.md",
+    "Генрих.md",
+    "Капитан Зодж.md",
+    "Гильдия.md",
+    "Эльфийская Песнь.md",
+    "Мертвая Троица.md",
+    "Всадники Преисподней.md",
+    "Элтуриэль.md",
+    "Пылающие Кулаки.md",
+    "Врата Балдура.md",
+    "Этари.md",
+    "Curse of Strahd/Сессии/2023-08-03 Проклятье Страда.md",
+    "Нисхождение в Авернус/Сессии",
+    "Curse of Strahd/Сессии/2023-06-23 - Проклятье Страда.md",
+    "Curse of Strahd/Сессии/2023-06-22 - Проклятье Страда.md",
+    "Daily/03-03-2023.md",
+    "Daily/12-03-2023.md"
   ]
 }

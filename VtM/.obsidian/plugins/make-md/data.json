@@ -9,6 +9,7 @@
   "mobileMakeBar": true,
   "inlineStyler": true,
   "makerMode": true,
+  "imageThumbnails": false,
   "spacesMDBInHidden": true,
   "inlineStylerColors": false,
   "editorFlow": true,
@@ -35,18 +36,23 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    null,
     "/",
-    "VtM",
     null,
-    "//Моя хроника",
-    "//Моя хроника/Моя хроника/НПС",
-    "//Моя хроника/Моя хроника/НПС/Моя хроника/НПС/Лига Рассвета",
-    "//Spaces",
-    "//Daily",
-    "//Моя хроника/Моя хроника/НПС",
-    "//Моя хроника/Моя хроника/НПС/Моя хроника/НПС/Лига Рассвета",
-    "//Моя хроника/Моя хроника/Персонажи игроков"
+    "DnD",
+    null,
+    "//Шутземелье/Шутземелье/Локации",
+    "//Нисхождение в Аверно/Нисхождение в Аверно/Локации",
+    "//Шутземелье/Шутземелье/Игровые персонажи - Шутземелье",
+    "//Шутземелье/Шутземелье/Игровые персонажи - Шутземелье/Шутземелье/Игровые персонажи - Шутземелье/Праманикс",
+    "//Затерянные рудники Фандервела",
+    "//Затерянные рудники Фандервела/Затерянные рудники Фандервела/Игровые персонажи",
+    "//Затерянные рудники Фандервела/Затерянные рудники Фандервела/Игровые персонажи/Затерянные рудники Фандервела/Игровые персонажи/Фрирен",
+    "//Затерянные рудники Фандервела/Затерянные рудники Фандервела/Игровые персонажи/Затерянные рудники Фандервела/Игровые персонажи/Фрирен",
+    "//Затерянные рудники Фандервела/Затерянные рудники Фандервела/Игровые персонажи/Затерянные рудники Фандервела/Игровые персонажи/Фрирен",
+    "//Затерянные рудники Фандервела/Затерянные рудники Фандервела/Игровые персонажи/Затерянные рудники Фандервела/Игровые персонажи/Фрирен",
+    "//Затерянные рудники Фандервела/Затерянные рудники Фандервела/Игровые персонажи/Затерянные рудники Фандервела/Игровые персонажи/Фрирен",
+    "//Затерянные рудники Фандервела/Затерянные рудники Фандервела/Игровые персонажи/Затерянные рудники Фандервела/Игровые персонажи/Фрирен/Затерянные рудники Фандервела/Игровые персонажи/Фрирен/Умения Фрирен",
+    "//НПС"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -61,9 +67,9 @@
   "hiddenExtensions": [
     "mdb"
   ],
-  "inlineBacklinks": true,
-  "inlineContext": false,
-  "inlineBacklinksExpanded": true,
+  "inlineBacklinks": false,
+  "inlineContext": true,
+  "inlineBacklinksExpanded": false,
   "inlineContextExpanded": true,
   "inlineContextSectionsExpanded": true,
   "dataviewInlineContext": false,
@@ -72,9 +78,6 @@
     "Spaces/Home",
     "/",
     "spaces://$tags"
-  ],
-  "rootSpaces": [
-    "Spaces/Home"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "alias",
@@ -90,40 +93,40 @@
   "quickFrames": [],
   "readableLineWidth": true,
   "autoAddContextsToSubtags": true,
-  "autoMigration08": true,
-  "releaseNotesPrompt": 0.804,
+  "autoMigration08": false,
+  "releaseNotesPrompt": 0.9,
   "enableDefaultSpaces": true,
   "enableTagSpaces": true,
   "enableHomeSpace": true,
   "showSpacePinIcon": true,
   "minimalFix": false,
   "experimental": false,
+  "systemName": "Vault",
   "spacesCompactMode": false,
   "collapsedTags": [],
   "folderNoteDefaultView": true,
   "expandedFolders": {
-    "/": [
-      "New Blood StarterPack"
-    ],
-    "VtM": [
-      "Рулбук/Кланы",
-      "Рулбук/Кланы",
-      "Моя хроника",
-      "Моя хроника/Персонажи игроков",
-      "Моя хроника",
-      "Моя хроника/НПС",
-      "Моя хроника/Идеи",
-      "Моя хроника/Квесты",
-      "Моя хроника/НПС",
-      "Моя хроника/НПС/Лига Рассвета",
-      "Моя хроника/Квесты",
-      "Моя хроника/НПС/Бароны"
+    "DnD": [
+      "Curse of Strahd/Сессии",
+      "Нисхождение в Авернус",
+      "Нисхождение в Авернус/Игровые персонажи",
+      "Нисхождение в Авернус/Неигровые персонажи",
+      "Нисхождение в Авернус",
+      "Нисхождение в Авернус/Игровые персонажи",
+      "Нисхождение в Авернус/Неигровые персонажи",
+      "Нисхождение в Авернус/Сессии",
+      "Нисхождение в Аверно/Игровые персонажи/Райден",
+      "Нисхождение в Аверно/Игровые персонажи",
+      "Нисхождение в Аверно/Игровые персонажи/Астория Стелларис",
+      "Нисхождение в Аверно/Игровые персонажи/Райден",
+      "Нисхождение в Аверно/Игровые персонажи/Астория Стелларис",
+      "Нисхождение в Аверно/Игровые персонажи/Астория Стелларис"
     ]
   },
   "openFolders": [],
   "fileIcons": [],
   "cachedSpaces": [
-    "VtM"
+    "DnD"
   ],
   "tagContextFolder": "Context",
   "lineNumbers": false,
@@ -131,17 +134,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1701089688680,
-  "precreateVaultSpace": true,
-  "vaultSort": [
-    "rank",
-    true
-  ],
-  "folderRank": {
-    "node": "root",
-    "children": [],
-    "isFolder": true
-  },
-  "spaces": [],
-  "pinnedSpaces": []
+  "spacesAutoBackupLast": 1709829060551,
+  "precreateVaultSpace": true
 }
