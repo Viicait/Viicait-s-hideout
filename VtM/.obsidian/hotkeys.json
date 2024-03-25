@@ -1,4 +1,20 @@
 {
+  "editor:toggle-blockquote": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ],
+  "markdown:toggle-preview": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
   "editor:insert-wikilink": [
     {
       "modifiers": [
@@ -7,12 +23,13 @@
       "key": "R"
     }
   ],
-  "editor:toggle-blockquote": [
+  "obisidian-note-linker:open-note-linker": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
-      "key": "Q"
+      "key": "M"
     }
   ]
 }

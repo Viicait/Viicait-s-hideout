@@ -1,5 +1,12 @@
 {
-  "accentColor": "#f28d8d",
+  "accentColor": "",
   "theme": "moonstone",
-  "cssTheme": "Cyber Glow"
+  "cssTheme": "AnuPpuccin",
+  "baseFontSize": 17,
+  "interfaceFontFamily": "",
+  "textFontFamily": "Candara",
+  "monospaceFontFamily": "",
+  "enabledCssSnippets": [
+    "anuppuccin-snippets"
+  ]
 }

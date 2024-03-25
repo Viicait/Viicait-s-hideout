@@ -7,7 +7,12 @@
   "shortcuts-extender",
   "obsidian-style-settings",
   "templater-obsidian",
+  "make-md",
   "callout-manager",
   "obsidian-icon-folder",
-  "make-md"
+  "obsidian-dice-roller",
+  "obsidian-attachment-name-formatting",
+  "multi-column-markdown",
+  "obsidian-excalidraw-plugin",
+  "image-converter"
 ]

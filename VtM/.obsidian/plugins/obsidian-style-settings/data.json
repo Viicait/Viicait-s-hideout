@@ -54,11 +54,7 @@
   "anuppuccin-theme-settings@@anp-depth-tab-opacity": 0.6,
   "anuppuccin-theme-settings@@anp-safari-tab-radius": 10,
   "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-simple-rainbow-color-toggle",
-  "anuppuccin-theme-settings@@anp-background-image-toggle": true,
-  "anuppuccin-theme-settings@@anp-custom-bg-brightness-light": 0.7,
-  "anuppuccin-theme-settings@@anp-custom-bg-card-fg-opacity-light": 0.75,
   "anuppuccin-theme-settings@@anp-canvas-dark-bg": true,
-  "anuppuccin-theme-settings@@anp-background-image-light": "url(\"https://media.discordapp.net/attachments/1034066469358678068/1118161946651402360/viicait_forest_core_aesthetic_background_09ee71d2-c105-4eab-bf9e-7fadfdac89eb.png?width=830&height=465\")",
   "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-red",
   "anuppuccin-theme-settings@@anp-collapse-folders": true,
   "anuppuccin-theme-settings@@anp-file-icons": false,
@@ -82,7 +78,6 @@
   "anuppuccin-theme-settings@@anp-decoration-toggle": true,
   "anuppuccin-theme-settings-extended@@anp-theme-ext-dark": true,
   "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-dracula",
-  "anuppuccin-theme-settings@@anp-background-image-dark": "url(\"https://media.discordapp.net/attachments/1034066469358678068/1118486262278529115/viicait_vampire_core_aesthetic_background_ca08bd26-eaa6-4480-93d0-84eb5d140661.png?width=830&height=465\")",
   "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-red",
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha"
 }
