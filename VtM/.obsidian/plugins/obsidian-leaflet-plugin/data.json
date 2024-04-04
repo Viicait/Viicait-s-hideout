@@ -1,0 +1,96 @@
+{
+  "mapMarkers": [
+    {
+      "id": "stpetersburg_map",
+      "lastAccessed": 1712063979823,
+      "markers": [],
+      "overlays": [],
+      "shapes": [
+        {
+          "type": "rectangle",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 0.0205078125,
+              "lng": 2.1455078125,
+              "id": "ID_0878eb3949f8",
+              "targets": {
+                "vertexIds": [
+                  "ID_8889a999991b"
+                ]
+              }
+            },
+            {
+              "lat": 0.0205078125,
+              "lng": 2.1455078125,
+              "id": "ID_0878eb3949f8",
+              "targets": {
+                "vertexIds": [
+                  "ID_8889a999991b"
+                ]
+              }
+            },
+            {
+              "lat": 0.0205078125,
+              "lng": 2.1455078125,
+              "id": "ID_0878eb3949f8",
+              "targets": {
+                "vertexIds": [
+                  "ID_8889a999991b"
+                ]
+              }
+            },
+            {
+              "lat": 0.0205078125,
+              "lng": 2.1455078125,
+              "id": "ID_0878eb3949f8",
+              "targets": {
+                "vertexIds": [
+                  "ID_8889a999991b"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "files": [
+        "Моя хроника/Карты/Карта Санкт-Петербурга.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}
